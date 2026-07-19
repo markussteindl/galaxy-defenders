@@ -1,0 +1,1810 @@
+Design & Development:
+Gremlin Project, a board game design studio by Simone Romano and Nunzio Surace
+Art:
+Fernando Peniche
+Art Direction:
+Gremlin Project
+Graphic Design & Layout:
+Adriano D’ippolito & Francesca Michelon
+(www.matrioskart.it)
+Sculpture Design:
+Raffaele Stumpo
+Map Design:
+Mario Barbati
+(0onegames.com)
+Editing and Supervision:
+Roberto Di Meglio, Fabio Maiorana and Fabrizio Rolla
+English VERSION Editing:
+Jim Long
+Production:
+Roberto Di Meglio
+Contributing Playtesters:
+Lucio AbBate, Fabrizio Barberini, Alessio Bonvini, Marco Brugnoni, Massimiliano Cretara,
+Sara Erriu, Richard Ham, Carmine Laudiero, Federico Luison “Kentervin”, Roberto Manzoni,
+Monica Menichini, Leonardo Nati, Daniele “Kinder” Rea, LEONARDO RINA, and… Sally & Sunny!
+Special thanks to Serena Galli, Gianni La Rocca, Marco Signore, Claudio Quaranta,
+Andrea Fanhoni, christoph cianci, Fabio Gasparini, Stefano Castelli, Andrea Ligabue,
+Claudio Garofalo, Laurence O’Brien, Alessio Molteni, Massimiliano Calimera (gioconomicon.
+net), Marco Moia and all our families and friends.
+A Game Created By GREMLIN PROJECT
+www.gremlinproject.com
+Published and Distributed Worldwide by ARES GAMES SRL
+via dei metalmeccanici 16, 55041, capezzano pianore (LU), Italy
+www.aresgames.eu
+2
+
+tables of contents
+1 introduction 5
+2 game components 5
+3 game overview 5
+4 info & setup 6
+5 terrain structure 8
+5.1 Types of TERRAIN 9
+5.2 Line of sight [L.O.S.] 10
+5.2.1 Human view [Optional Rule, Default=ON] 10
+5.3 SETTING UP THE Battlefield 11
+6 game sequence 11
+6.1 Refresh Phase 12
+6.2 Strategy Phase 12
+6.2.1 Alpha Agent Promotion 12
+6.2.2 Getting GD-Wings 12
+6.2.3 Reinforcements 13
+6.2.4 Mission Status Check 13
+6.3 Battle Phase 13
+6.3.1 Agent Turn 13
+6.3.2 Aliens Turn 13
+6.4 Event Phase & Event Card 14
+7 the agents 15
+7.1 Classes 15
+7.1.1 Marine 15
+7.1.2 BIOTECH 15
+7.1.3 Infiltrator 15
+7.1.4 Sniper 15
+7.1.5 HULK 15
+7.2 Movement 16
+7.3 Combat 16
+7.3.1 Friendly Fire [Optional Rule, Default=OFF] 18
+7.3.2 Close Fight [Optional Rule, Default=OFF] 19
+7.4 Action 19
+7.4.1 Use Powers and Items 19
+7.4.2 Evade 19
+7.4.3 Leap Through Window 19
+7.4.4 Bash a Locked door 20
+7.4.5 Search 20
+7.4.6 Tactical Redeployment 20
+7.4.7 Unjam a Ranged Weapon 21
+7.4.8 Mission Special Actions 21
+7.5 Agent’s Conditions 21
+7.5.1 Health points 21
+7.5.2 Bleeding 21
+7.5.3 Death 21
+7.5.3.1 Permanent Death [Optional Rule, Default=OFF] 21
+7.5.4 Engaged in Combat 22
+7.5.5 Immobilized [Body Condition] 22
+7.5.6 Paralyzed [Body Condition] 22
+7.6 Weapons 23
+7.6.1 Melee Weapons 23
+7.6.2 Ranged Weapons 23
+7.6.3 Healing Weapons 23
+3
+
+7.6.4 Improved Weapons 23
+7.6.5 Alien Weapons 24
+7.6.6 Ammo 24
+7.6.7 Energy shielded armor 24
+7.7 Power and Items 24
+7.7.1 Damage and Special Effects 25
+7.7.2 Devices 25
+7.7.2.1 Grenades 25
+7.7.2.2 Sentry-Gun 26
+7.7.3 Tactics 26
+7.7.4 Abilities & Skills 26
+7.7.4.1 Guard 27
+7.7.4.2 GD-209 27
+7.8 GD-WINGS 27
+7.9 Alien Tech 28
+8 the aliens 29
+8.1 Alien Species 29
+8.1.1 Alien I - Classified: Xeno-beta 29
+8.1.2 Alien II - Classified: Spine Critter 29
+8.1.3 Alien III - Classified: Xeno-Alpha 29
+8.1.4 Alien IV - Classified: Aracnos 29
+8.1.5 Alien V - Classified: Xeno-Grey 30
+8.1.6 Alien VI - Classified: Nexus 30
+8.1.7 Alien VII - Not Classified: Xeno-Beast 30
+8.2 Biological Alien Structure [Alien Cards] 30
+8.3 Alien Activation [Close-encounter cards] 32
+8.4 Swarm Units 32
+8.5 Signal 33
+8.5.1 Signal Movement 33
+8.6 Teleport System 34
+8.6.1 Teleporting Aliens 34
+8.7 Reveal Signals 34
+8.8 Alien Assignment 35
+8.9 Alien Movement 35
+8.10 Alien Combat 37
+8.11 Alien Death 37
+4
+
+1 Introduction
+Welcome soldier!
+If you are reading this document, it means that your physical or mental capabilities are excellent
+and our planet needs you!
+You are joining a secret agency responsible for detecting and stopping alien activity on Earth... keep
+reading, if you dare, but keep in mind two simple rules:
+They are already here
+They are not friendly!
+You will be part of an elite team formed by up to 5 agents involved in critical, tactical missions.
+You will encounter hostile aliens, so be prepared to engage them with no mercy.
+2 Game Components
+Inside your Galaxy Defenders box you will find an extensive set of components:
+This Rulebook Tokens and markers:
+1Storybook 10Improved Weapons
+28Plastic figures 10Alien Weapons
+6Double-sided map tiles 1Alpha Agent
+5Attack/Defense BLUE dice 10Basic Tactics
+5Improved Attack RED dice 10Improved Tactics
+5Agent Profile Sheets 23Devices
+5Quick Reference Guides 15Skills
+22Event cards 40Wounds
+32Close-Encounter cards 32Ammo
+22Alien cards 20Shields
+4Alien Tech Fragments
+6Human Signals
+9Alien Signals
+2Guard
+5Paralyzed/Immobilized
+4Land Mines/Flames
+4Waypoints
+10Locked/Blocked
+12Jam
+1Improved/Alien Armory
+4Teleport Points
+1Alien NPC
+3Door Teleport Hexes Overlays
+2Area Map Overlays
+202xHexes Map Overlays
+12xHexes Sally/Sunny
+3Galaxy Balls
+3 Game overview
+Galaxy Defenders is a cooperative, tactical battle game in which 1 to 5 players fight together against
+an oncoming alien menace.
+Each player takes control of one agent with unique powers to defend the planet from the alien invasion.
+The battle for the Earth will be carried out in a completely story-driven campaign against an alien
+race controlled by the game system itself.
+Each mission may have multiple endings and the outcome of a mission will change the flow of the Story.
+Agents gain experience during missions. Experience can be used to transform a good soldier into a
+perfect Galaxy Defenders agent with multiple skills, basic and improved tactics, and the ability to
+use new devices such as advanced human weapons and alien technology.
+5
+
+4 Info & Setup
+The game includes two manuals:
+Rulebook: Provides information and the
+rules of the game.
+Storybook: Contains the rules and the
+description of the Missions.
+This Rulebook is divided into 3 sections:
+General [GREEn background]
+Agents [BLUE background]
+Aliens [RED background]
+Each section provides information about the
+mission rules.
+The board game setup depends entirely upon the
+campaign and mission you want to play. All setup
+instructions are covered in the Storybook manual,
+but for a quick setup we suggest organizing the
+game components this way:
+Each player chooses or randomly selects an Agent
+Profile Sheet and takes the relevant figure.
+Depending on the campaign/mission rules, each
+player takes the chosen tactics, devices, and
+skills. The number of available powers and items
+depends on each mission and is limited by the
+availability of the tokens in the Warehouse [that
+is, the game box]. Each agent starts the mission
+in full health state and full ammo.
+If a player wants to play with more than one
+agent, each agent must act independently, as
+if it is controlled by a different player. For
+instance, a person who controls 3 agents on the
+map counts as 3 operative players.
+note: A player is considered operative as long as
+his agent is alive.
+The Storybook will provide instructions to:
+Arrange the map tiles.
+Prepare and shuffle the events deck.
+Prepare and shuffle the Close enCounter deck.
+Prepare and shuffle the alien deck.
+Place figures, signals and tokens on the
+battlefield.
+In general, please remember, all rules detailed
+on cards or items take priority over this rulebook
+and may change or replace what is written here.
+To optimize space and improve the game experience,
+we suggest using the layout in these pages:
+6
+
+1.Agent Profile Sheet
+2.Alien cards and discard pile
+3.Close Encounter cards and discard pile
+4.Event cards, Weather Event in play
+and discard pile
+5.Signal Reserve and discard pile
+6.Device
+7.Skill
+8.Basic and Improved Tactics
+9.Improved Weapon
+10.Alien Weapon
+11.Agent figure
+12.Alien figure
+13.Teleport Points
+14.Wounds and Ammo markers
+15.Other tokens and markers
+7
+
+5 Terrain structure
+The battle for Earth rages across cities, deserts, and other grounds, possibly up to the alien ship
+itself, so agents must be prepared for any environment!
+Each map tile is made up of two elements:
+hex: is the small hexagon on the map. It is used mainly for agents’ movement and melee combat.
+area: is formed by 7 hexes and can be recognized by two main components:
+The center hex of each area has a sight printed on it.
+It has thick white borders.
+The area has several uses in the game: determining distance [ = adjacent, = up to 1 area...]
+moving aliens and signals, for ranged combat, and so on.
+RANGE AND DISTANCE examples
+Each map tile may include different buildings, ground objects, and items.
+note: the edge of the map contains partial hexagons [called edge hex]. These hexagons are not used in
+the game.
+hex area room
+hexes are used to regulate An area is a group of
+A room is an area [or a
+movement and combat. 7 hexes and is used to
+part of it] enclosed
+Each hex may only contain calculate distances and
+with doors and/or WindoWs.
+one figure or one signal. for alien movement.
+8
+
+5.1 Types of TERRAIN
+A map tile may contain several different types of terrain:
+standard: a standard hex may be crossed normally by agents and aliens.
+BloCked hex side: a thick colored/black line may not be crossed and blocks
+Line of Sight [l.o.s., see section 5.2, page 10]. hexes which are
+separated by a blocked hex side are not considered to be adjacent.
+note: The color of the line [yellow in the example] may vary, based on
+the map background.
+door: may be crossed normally. Blocks l.o.s., unless the attacker is in
+the hex adjacent to the door symbol [or in the hex with the door symbol,
+if the door is not on a hex side].
+loCked door: when locked, a door is equivalent to a blocked hex side [see
+above]. The lock can be removed with the special action “Bash loCked door.”
+Once the lock is removed, it becomes a normal door.
+BloCked door/WindoW: a mission may indicate that a door or window is
+blocked. Place a token on the board to indicate this status. A blocked
+door/window is equivalent to a blocked hex side [see above). A blocked
+token cannot be removed by agents, except as indicated by the mission
+special actions.
+WindoW: may be crossed with the special action “leap through WindoW.” A window
+does not block l.o.s.
+edge hex: a half hex at the edge of the board may not be crossed and blocks
+l.o.s.
+Walking across any non-BloCked hex or hex side represents a legal walking
+path. Attempting to move across a blocked hex side or edge hex represents
+an illegal walking path and is not allowed to agents, aliens, or signals.
+9
+
+5.2 Line of Sight [L.O.S.]
+The term Line of Sight [l.o.s.] refers to visibility of a target or other element on the battlefield.
+If you can trace a straight line between the center of the source hex and the center of the destination
+hex, without crossing a BloCked hex or a door [unless the attacker is in the hex adjacent to the door symbol,
+or in a door hex], then you have a legal l.o.s.
+Attacks, combat items, and powers may only be performed/used against a target within l.o.s. except
+where indicated differently.
+LINE OF SIGHT EXAMPLES
+The white hexes represent the field of view.
+5.2.1 Human View [Optional Rule, Default=ON]
+This optional rule may be introduced to restrict the agents field of view to the front 180°, instead
+of 360°. The front of a figure is indicated by a notch on the figure’s base.
+In addition to all normal l.o.s. rules, when tracing l.o.s. from a human agent, only the 3 front hexes
+of the figure may be used.
+This rule does not change the rules on revealing signals [see “Reveal Signal”, section 8.7, page 34];
+when revealing a signal, normal l.o.s. rules are used.
+note: The battle drones GD-209 and Sentry-Gun always have a 360° view of the battlefield.
+HUMAN VIEW EXAMPLE
+The white hexes represent the field of view.
+10
+
+5.3 SETTING UP THE BATTLEFIELD
+The “Mission Setup” section of each mission in the Storybook
+contains all instructions to build-up the battlefield, with the
+designated map tiles and tokens.
+Map tiles are printed on two sides and may be combined in many
+different ways. If a scenario shows a map tile as separate from the
+others, it represents an area which can only be accessed using the
+scenario’s special events.
+6 Game sequence
+Galaxy Defenders is played over a variable number of rounds, defined in each mission. Each round is
+subdivided into the following phases:
+1]refresh
+Powers & Items refresh
+2] strategy
+alpha agent promotion
+Getting gd-Wings
+Reinforcements
+Mission Status check
+3] Battle [For each operative Player]
+Agent Turn
+aCtion
+movement
+ComBat
+hit roll
+defend roll
+Aliens Turn
+Draw Close enCounter card
+Aliens activation
+movement & ComBat, or
+teleport
+4] event
+Draw event card
+Resolve event card effects
+The game continues, round after round, until the mission ending conditions are met:
+Mission Accomplished
+Mission Partially Accomplished
+Mission Failed
+note: A player is considered operative as long as his agent is alive. If an agent dies, his player
+becomes inoperative.
+11
+
+6.1 Refresh Phase
+In this phase, there is only one main step:
+Powers & Items refresh: Most powers and items [see section 7.7 page 24] may be used only once
+per round, and they cannot be used again until they are refreshed during this phase.
+All powers and items are refreshed simultaneously. The most common effects in this phase are:
+Skills refresh [flip up used skills]
+energy shielded armor refresh [regain used energy shield token]
+“Guard” refresh [place a guard token near the figure]
+6.2 Strategy Phase
+In this phase, players must cooperate to plan a sound strategy to face the round.
+This phase includes 4 steps:
+alpha agent promotion
+Getting gd-Wings
+Reinforcements
+Mission Status check
+6.2.1 ALPHA AGENT Promotion
+The players must choose their leader for the round. Beginning immediately, the operative agent
+is called alpha agent. The player controlling this agent gains the alpha agent token until the
+next strategy phase. inoperative players [i.e. dead agents] cannot be chosen for the role of
+the Alpha Agent.
+The alpha agent has additional duties! He will:
+Establish the playing order: The alpha agent acts as the first player. He is the first to play
+his Agent and Aliens turns. Other players take their turns in clockwise order, following the
+alpha agent.
+In the event phase: Draw the event card and apply its effects.
+Be the leader: Sometimes he must make decisions for the entire team, for instance, during any
+disagreement between teammates.
+The team must have an alpha agent. If the alpha agent dies on the battlefield during the round, the next
+agent in clockwise order becomes the alpha agent and his player obtains the alpha agent token until the
+next strategy phase.
+If players cannot agree who will become the alpha agent, follow this ranking order:
+1. Marine
+2. Biotech
+3. Infiltrator
+4. Sniper
+5. Hulk
+6.2.2 Getting GD-Wings
+In this step, operative agents may roll to obtain a new gd-Wings rank, which means a bigger salary and,
+oh yeah, a new power!
+If the agents killed at least one alien in the previous round, then, starting with the alpha agent, in
+clockwise order, they may attempt the gd-Wings roll [see section 7.8, page 27].
+note: Dead agents cannot roll to obtain a new gd-Wings rank.
+12
+
+6.2.3 Reinforcements
+Rock ‘n’ Roll!!! Sometimes, during a mission, the Agency will help the agents by sending them new
+“toys.” To represent this, the alpha agent can send 4 fragments of alien teCh [see section 7.9, page 28]
+gathered during the mission back to base [that is, discard] to receive either:
+One selected generiC deviCe
+One random improved Weapon
+If a device is chosen, the agent can pick any one device from those available in the Warehouse [the
+game box]. If a weapon is chosen, place all the suitable improved Weapon tokens [that is, the generiC ones
+and the weapons specific to the class of the agents in play] in a cup and randomly draw one. The new
+weapon is provided with full ammo.
+note: Use the same random procedure when a new alien Weapon is delivered.
+The device or the weapon obtained may be directly transferred to any one agent on the map, with the
+agreement of the alpha agent.
+6.2.4 Mission Status Check
+Finally, players must check if the mission ends with a victory or defeat. Check the conditions in the
+“Objectives” section of the mission, starting at the top of the table. The first matching condition
+indicates if the mission is successful or not. Ignore the conditions after the first one that matches.
+6.3 Battle Phase
+During the Battle phase, each operative player sequentially plays [as active player] his agent turn and then
+one aliens turn. After that, the play passes to the next player.
+Starting with the alpha agent, players carry out their turns [agent and aliens] in clockwise order until
+the last player finishes his aliens turn.
+note: inoperative players do not affect the battle phase. They must skip both Agent and Aliens turns.
+6.3.1 Agent Turn
+During his turn, the agent may perform three different activities:
+movement
+ComBat
+aCtion
+These activities may be performed in any order, and each activity may only be performed once per turn.
+It is not possible to interrupt, and later resume, movement to perform ComBat; or to interrupt, and later
+resume, ComBat to perform movement. However, it is sometimes possible to perform an aCtion during movement
+or ComBat [for example, to use a power or item to improve a hit or defend roll].
+Some special actions [see section 7.4, page 19] may require the use of both aCtion and ComBat or both
+aCtion and movement.
+The agent turn ends when either all the three activities have been performed, or when the agent cannot
+[or will not] perform any other activity.
+6.3.2 Aliens Turn
+The active player must draw a Close enCounter card [see section 8.3, page 32] from the Close enCounter deck
+to determine what happens in the aliens turn. Usually, a Close enCounter card activates one or more aliens
+on the battlefield based on their type or color rank. Once the Close enCounter card is resolved and all
+the involved aliens have been activated, or when there are no aliens to activate, the aliens turn ends
+and the next agent turn begins.
+When the last player has completed his aliens turn, the event phase begins.
+The normal sequence of an aliens turn is:
+The active player draws a Close enCounter card.
+Aliens are activated according to the drawn card.
+Activated aliens perform their movement & ComBat [based on their alien cards] or teleport.
+The Close enCounter card is discarded to the relative discard pile.
+13
+
+6.4 Event Phase & Event Card
+During this phase, several things may happen: the weather may change, some signals may move, and new
+signals may be detected by the Galaxy Defenders sensor array.
+The normal sequence of an event phase is:
+The alpha agent draws the first event card from
+the event deck.
+All the effects on the event card are resolved
+in the exact order in which they appear and
+signals in l.o.s. with agents are revealed.
+There are 3 types of event card:
+Standard Event: the effects are resolved as
+described on the card. When all the effects have
+been resolved, the card is discarded.
+Special Event: represents a key point in the
+mission. The Storybook describes what happens
+when the event is resolved for the mission.
+Weather Event: is resolved like a Standard
+Event, but the Weather effeCt remains in play
+until another Weather Event is drawn. The new
+Weather Event replaces the current one, which
+is discarded.
+Most event cards include the teleport of new signals
+to the battlefield.
+To maintain game balance, the number of signals
+teleported may depend on the number of Agents in
+play:
+Signal Teleport Table
+1. number of Signals to teleport
+2. number of agents in play
+Or it may depend on a comparison between the
+number of Aliens and Agents in play:
+In this example, if the number of aliens in
+play [ ] is lower than [ ] the number of
+agents [ ], then new signals are teleported
+based on the Signal Teleport Table, otherwise
+nothing happens.
+Sometimes signals are teleported [or moved] into
+1. Event ID - identify the event card. the line of sight of an agent: in this case,
+2. Event name - card name they are immediately identified and revealed [see
+3. Effects - event effects section 8.7, page 34], before any other effect
+4. Aliens Balance Formula - used to balance to is resolved.
+the game The movement of a revealed signal ends immediately.
+5. Signal Teleport Table – new signals to be
+teleported on the map, based on the number
+of agents in play
+14
+
+7 The Agents
+This section details the agents and their actions on the battlefield.
+Each agent has his own agent profile sheet, with the following information:
+1. ID – name, class, and status
+2. Tactics slot – slot for basic and improved tactics
+3. Ability – agent’s innate ability
+4. Armor – agent’s defense power
+5. Primary Weapon – high-power weapon
+6. Secondary Weapon - low-power weapon
+7. Health Points – agent’s full health status
+8. Movement – maximum movement [in hexes] per turn
+9. Energy Shield – rechargeable energy shielded armor, available only on elite agents
+The back of the sheet is used when the agent reaches palladium rank [see section 7.8, page 27], gaining
+Elite status, thereby gaining improved statistics and energy shielded armor... Yes soldier, this should
+be your goal!
+7.1 Classes
+7.1.1 marine [AGENT CHROMIUM]
+Coming from U.S. Special Forces, the Marine is an excellent soldier who can manage
+different combat situations, especially multiple enemies. He has average movement ability
+and firepower.
+7.1.2 biotech [AGENT THORIUM]
+The Biotech is the most technologically adept agent in service. He can use Nano-Technology
+to heal wounds or control war drones. He also likes a bit of old-fashioned style… in fact,
+he always has his trusty shotgun for dangerous close encounters!
+7.1.3 Infiltrator [AGENT MERCURY]
+A deadly and stealthy agent. This lethal specialist prefers hiding in the shadows. She
+has fast movement and good short-range combat ability.
+7.1.4 Sniper [AGENT IRIDIUM]
+A silent sharpshooter and expert in camouflage and ranged combat. The sniper has average
+movement and excellent long-range firepower.
+7.1.5 hulk [AGENT TITANIUM]
+The Hulk was a successful mercenary and now is one of the best agents; although slow, he
+enjoys an extraordinary resistance to damage and has high firepower.
+15
+
+7.2 movement
+During his turn, each agent may move up to his movement value through any non-BloCked hex or hex side on
+the map, spending one movement point for each hex.
+During movement, each agent must follow these rules:
+Move no more than one hex for each movement point.
+May not cross a BloCked hex or hex side, or an edge hex.
+May not cross a hex occupied by an alien figure.
+May cross a hex occupied by other agents [or friendly drones], but cannot end his movement in
+such a hex.
+An edge hex cannot be used for any reason.
+An agent is not permitted to interrupt movement to perform an attack and then resume movement.
+Agent’s conditions [see section 7.5, page 21], events, powers and items can modify or prevent the
+movement of an agent.
+note: If the “Human View” rule is enabled, the player may freely rotate the agent figure to look in
+any direction at the end of his movement.
+7.3 combat
+This is the most exciting part of the game! Many factors can influence combat:
+blue die red die weapons, powers, items, and, last but not least, luck, because even the most
+expert soldier needs a bit of luck during the battle...
+Combat is divided in two different rolls:
+Hit: Represents the attempt to hit the target.
+Attack/ Improved
+BLUE or RED dice are used in the roll, as shown on the weapon used.
+Defence Attack
+The attacker selects his target and weapon, and then rolls the number of dice
+indicated by the weapon. A [hit] result indicates a successful hit.
+The more , the better! If any die shows a [Bolt] result, also apply the weapon’s or power’s
+effect. If any die shows a [Jam] result, a ranged weapon is jammed and cannot be used again
+until it is unjammed [see section 7.4.7, page 21]. Place a Jam token on the weapon as a reminder.
+Defend: Represents the attempt to avoid a successful hit. The skin, armor, and
+skills of the defender enter play to try to avoid or parry the damage!
+The defender rolls 1 BLUE die for each successful result rolled by the
+attacker in the hit roll, and cancels one for each successful [shield] result
+rolled. If any die shows a result, also apply the armor’s Bolt effect[if any].
+energy energy
+shielded shield
+For each remaining result, deal one wound to the defender’s health points.
+armor Token If the defender has energy shielded armor, he must first cancel hits by removing one
+point of energy shield for each , before rolling the defense dice.
+Any remaining results are defended as normal by rolling the BLUE dice.
+A effect is only applied once, no matter how many are rolled, unless explicitly noted. For
+example, the armor Bolt effect of Agent Titanium’s armor counts each rolled as a .
+An attack may never target an empty hex or area. For example, you are not allowed to target an empty
+hex/area to hit an enemy out of l.o.s. with area damage.
+The game does not account for friendly fire, so it is never possible for an agent to target [except
+with healing weapons] and/or harm another agent, even with area damage, unless the “Friendly Fire”
+optional rule [see 7.3.1, page 18] is enabled.
+IMPORTAnT note: Some weapons, powers and items directly influence combat, by modifying the number of
+attacker and/or defender dice rolled or by allowing a dice re-roll. In these cases, a die cannot be
+re-rolled more than once, even if multiple powers and items might be used to affect the roll.
+Do you want to make the combat quicker and more spectacular?
+Try the new optional rule called Rank based Defense to limit the defend roll. See section 5.4 [page 8]
+of the Storybook.
+16
+
+Here is a summary of the meaning of the symbols appearing on the dice [and how often they appear]:
+| symbol | name                                                  | description | blUE die | red die |
+| ------ | ----------------------------------------------------- | ----------- | -------- | ------- |
+|        | hit Indicates a successful hit. No effect on defense. |             | X5       | X7      |
+Indicates a successful defense. No effect on attack.
+|     | SHIELD |     | X4  | -   |
+| --- | ------ | --- | --- | --- |
+BOLT Activate the Bolt effect of the used weapon or power [by the
+|     |     |     | X2  | X3  |
+| --- | --- | --- | --- | --- |
+attacker] or armor [by the defender].
+No effect on attack or defense. Used by agents to get the
+|     | gd  |     | -   | X2  |
+| --- | --- | --- | --- | --- |
+gd-Wings Rank-Up [see section 7.8, page 27].
+The agent must discard one ammo token [max one ammo token per
+hit roll]. Ignore this result when using a melee weapon, or
+|     | ammo |     | X1  | X1  |
+| --- | ---- | --- | --- | --- |
+if the weapon automatically discards an ammo token [as with
+Agent Titanium’s ranged weapon]. No effect on defense.
+This symbol indicates the ranged weapon used in the attack is
+jam jammed. After this attack, the weapon may not be used again
+|     |     |     | X1  | X1  |
+| --- | --- | --- | --- | --- |
+until unjammed. Agents must perform an unJam action to use the
+weapon again. No effect on defense.
+This symbol indicates a fail result for that die during any
+roll. This die result cannot be re-rolled by agents using
+|     | alien |     | X1  | X1  |
+| --- | ----- | --- | --- | --- |
+powers, except when explicitly indicated by the power. An
+Alien can re-roll this symbol if it has a re-roll power.
+combat example 1
+Marine VS BLUE Aracnos
+The  Marine  attacks  the  BLUE  4 hits are rolled. One ammo must  One shield is rolled, and another
+Aracnos  with  his  Rifle  and  be discarded and the Bolt effect  one is added by the Bolt effect
+rolls 3 RED hit dice. is activated, reducing the def  of the alien’s armor [the Bolt
+dice of the Aracnos. effect is applied once, even if
+Now, the Aracnos rolls 3 BLUE  two Bolts are rolled]. Two hits
+def dice instead of 4. are canceled, and 2 Wounds are
+inflicted to the alien.
+17
+
+combat example 2
+Hulk VS BLUE Xeno-Beta
+Agent Titanium attacks the Three hits are rolled and, due The Xeno-Beta armor shield token
+BLUE Xeno-Beta with his improved to the Jam result, Titanium’s removes the first hit.
+Vulcan and rolls 4 RED dice. weapon jams. Only 1 more shield is rolled,
+Due to the weapon effect, the so two hits are canceled and
+ammo result is ignored, and the 4 wounds are inflicted to the
+agent decides to discard 3 ammo alien. The Xeno-Beta dies [as
+tokens to add 3 additional hits, the Regenerate Bolt effect must
+for a total of 6. be applied before the wounds
+are inflicted].
+7.3.1 Friendly Fire [Optional Rule, Default=OFF]
+By default, the game does not account for friendly fire. To keep the pace of the game fast, we suggest
+keeping this rule off, unless you want to make a mission more challenging.
+If this rule is enabled, any agent may be targeted [and wounded] by other agents with any weapon,
+power, or item.
+An agent is immune to his own weapons, but not from his own devices. For example, a Weapon dealing area
+damage does not harm the firer, but a grenade or a satellite strike may injure the owner, if he is in the
+targeted area.
+Friendly fire affects all kinds of agent weapon, power, and item, so you need to be careful when you
+fire a weapon with area damage.
+FRIENDLY FIRE EXAMPLE
+The Marine performs an attack with his Rifle, deciding to discard one ammo to deal area damage.
+Each figure in the area must defend against this attack, including the Biotech Agent, when the
+Friendly Fire rule is enabled.
+18
+
+7.3.2 Close Fight [Optional Rule, Default=OFF]
+By default, any agent may attack any alien within range, even when the agent is engaged in melee combat.
+If you wish, you can increase the challenge of a mission by enabling this rule. If enabled, an agent
+engaged in melee combat may only attack aliens with which he is engaged.
+This rule adds a significant realism to the game experience!
+7.4 Action
+With this activity the agents may use their powers or items. An agent may do only one aCtion in a turn.
+While movement and combat can never be intermingled, aCtion can be used either as a separate activity,
+or combined together with a movement and ComBat activity.
+Combining an aCtion with movement or ComBat may be necessary to perform special actions, or to activate a
+power or item to enhance the movement or attack capabilties of the agent.
+7.4.1 Use powers and items [ACTION]
+Using his aCtion, an agent can activate one standard power or item:
+An Ability
+A Skill
+A Basic or Improved Tactic
+A Device
+standard powers and items are covered later in the rules [see section 7.7, pages 24-27]. An activated
+ability or skill cannot normally be used again until the next refresh phase. Tactics and devices are
+normally used once per game.
+7.4.2 Leap through Window [ACTION]
+With this special action, the agent may leap through a window to reach the other side [for instance,
+entering or exiting a building]. Leaping through windows requires only the use of the agent’s aCtion
+and is normally done after or before movement.
+The agent must be adjacent to a WindoW hex and use his aCtion to leap through the window and move the
+agent to the other side of the WindoW hex.
+Agent Mercury uses her movement to move 1 hex, adjacent to the WindoW
+hex.
+Then, she uses her aCtion to leap through WindoW: She enters the
+building, and is moved to the hex on the other side of the WindoW.
+Since her movement was taken first, she cannot move further.
+7.4.3 search [action]
+With this action, the agent spends time searching for objects or mission items. Searching requires
+only the use of the agent’s aCtion. The agent must be inside a searCh area [as described in the mission’s
+“Briefing”], and may not be engaged in combat.
+The Agent then rolls 1 . If he rolls a or result, he finds something useful!
+19
+
+With a result, he can choose he is finding either a:
+1 First Aid Kit - instantly heal the agent for one health point [if possible]. The kit cannot be used
+later: For this reason, there is no token to represent it.
+1 Ammunition - instantly give to the agent one ammo token [if possible].
+With a result, he can choose one of these two items:
+1 Random generiC deviCe.
+1 Fragment of alien teCh [maximum once per round, see section 7.9, page 28].
+Any other die result means no item has been found. The searCh action can be repeated by any agent,
+regardless of any previous search attempts or results. When picking up a random device, put all of
+the generiC deviCe tokens available from the Warehouse into a cup or bag and randomly take one.
+Agent Mercury uses her movement to move 2 hexes. Then, she uses
+her aCtion to searCh inside the room.
+She rolls a result, and decides she is finding a first aid kit.
+She immediately heals one health point.
+Since her movement was taken first, she cannot move further.
+7.4.4 Bash a Locked Door [ACTION + COMBAT]
+With this action, the agent can bash a loCked door, to enter or exit a building.
+Bashing a locked door requires the use of both the agent’s aCtion and ComBat. For this reason,
+when bashing a locked door, the agent may not use his ComBat to do anything else.
+The agent must be in the hex adjacent to the loCked door [or in the loCked door hex] to break the
+loCk. Remove the loCk token and treat the door as a normal one.
+7.4.5 evade (Action + combat]
+An evade special action may be attempted to disengage from close combat with an alien.
+Evading requires the use of both the agent’s aCtion and ComBat. For this reason, when attempting to evade,
+the agent may not use ComBat to do anything else.
+Under normal circumstances it is really hard to flee when your enemy is right in front of you! To
+represent this, the agent must roll 1 and obtain a result. If he succeeds, he may move away
+using his movement. Otherwise, he remains engaged
+with the alien.
+7.4.6 TACTICAL REDEPLOYMENT
+[ACTION + COMBAT]
+There are times when running is better than
+shooting!
+An agent can choose this special action to move
+further than his maximum movement allows.
+Tactical redeployment requires the use of both
+the agent’s aCtion and ComBat. For this reason, the
+agent may not use ComBat to do anything else.
+Agent Chromium uses his movement to move 4 hexes.
+Reposition the agent in any empty hex inside his Then, he uses his aCtion combined with ComBat to
+current area. perform a taCtiCal redeployment inside his current
+area. Due to the taCtiCal redeployment, he cannot
+attack this turn.
+20
+
+7.4.7 Unjam a Ranged Weapon [ACTION + movement or COMBAT]
+Sometimes, during a fight, a ranged weapon can become jammed. In this case, the agent can use
+either his complete movement or ComBat, as well as use his aCtion, to unjam one of his weapons and
+make it ready for use again. The Jam token on the weapon is discarded.
+The agent may not use the activity [movement or ComBat] he forfeited to do anything else in this turn.
+7.4.8 Mission Special Actions
+Some missions indicate that an aCtion activity must be used to perform special actions directly related
+to the mission’s accomplishment: For instance, destroy a teleport point or rescue a civilian.
+7.5 Agent’s Conditions
+In battle, the physical and mental conditions of a soldier change often, mostly as a result of combat.
+7.5.1 Health Points
+Each agent begins the mission in a full health state.
+During the battle, alien attacks may inflict Wounds, decreasing the health status of an agent, who
+becomes Wounded. To keep track of current health, when an agent is wounded, place an appropriate
+number of Wounds [using the numbered Wound tokens) on the agent profile sheet.
+If an agent suffers an attack that brings his total health points [hps] to 0 or below, his condition
+changes to Bleeding. The number of hps can never exceed the number printed on the agent profile sheet.
+7.5.2 bleeding
+A Bleeding agent has a limited operational capability. While in this state, he must follow these rules:
+He must forfeit his ComBat.
+His movement is reduced to one hex.
+He can use his aCtion only to activate one power or item.
+A Bleeding agent can be represented on the battlefield by laying the relevant figure on its side.
+A Bleeding agent may return to healthy state if at least one wound is healed [any wounds not healed
+remain on the agent]. As a reminder, raise up the agent figure.
+The Bleeding agent is still considered a menace by the aliens. He can still be attacked [defending
+normally].
+If a Bleeding agent suffers any further wound, he dies.
+7.5.3 death
+When the agent dies, his player becomes temporarily inoperative and no longer interacts with other agents
+or aliens. He skips his Agent and Aliens turns for the current game round, and until he returns operative.
+During this time period, his figure is removed from the map and the agent immediately loses 1 gd-Wings
+rank [if possible]. During subsequent strategy phases, at the beginning of the reinforCements step, the
+inoperative player can become operative by spending [i.e., discarding] 1 alien teCh fragment [see section 7.9,
+page 28] and then, placing the agent figure back on the map over any gd start hex of the battlefield.
+note: This means that an inoperative player cannot be selected as the alpha agent and cannot enhance
+gd-Wings ranks while in this state.
+An inoperative player must skip his Aliens turn, even if there are aliens in play, but he is still part
+of the normal alien assignment rules [see 8.8, page 35]. He must play his assigned aliens, however,
+if activated during other Aliens turns.
+Important note: Do not count inoperative players in the signal teleport taBle of event cards.
+If all the players become inoperative, the mission fails and the game ends immediately.
+7.5.3.1 Permanent Death [Optional Rule, Default=OFF]
+Players who really want to taste the true challenge can enable this rule and make the death permanent
+for the entire mission. A dead agent may return to the campaign, but without any previous ranks
+obtained; thus, starting his next mission at Copper rank. Any researched/owned weapon is retained and
+can be used again by this agent.
+21
+
+7.5.4 Engaged In Combat
+An agent becomes engaged in combat if he starts his turn or ends his movement adjacent to an alien [that is,
+at distance ]. He is also considered engaged in combat if he comes in contact with an alien in any
+moment outside the agent turn.
+An agent engaged in combat cannot move or leave the combat until:
+The alien is killed.
+A successful evade special action is performed.
+note: Some skills can also be used to leave the combat, such as Agent Titanium’s “Charge” skill.
+note: If the “Human View” rule is enabled, the player may freely rotate the agent figure to look in
+any direction at the end of his movement, even when engaged in combat.
+7.5.5 Immobilized [Body Condition]
+An immoBilized agent forfeits movement until the next refresh phase. This means the agent cannot move, and he may
+not use any action that requires movement.
+7.5.6 Paralyzed [Body Condition]
+A paralyzed agent must skip his entire turn until the next refresh phase. paralyzed also counts as immoBilized.
+7.6 weapons
+Every war has its weapons and this one is for the salvation of the human race, so you know they’re epic!
+Each agent starts his career with two standard Weapons [printed on the agent profile sheet] at full ammo capacity.
+A typical weapon token is shown below.
+There are three types of weapons:
+Melee weapons, used in close combat.
+Ranged weapons, used mainly in ranged combat.
+Healing weapons, used to heal other agents.
+Many weapons grant one or more powers during the combat, either as
+Bolt effects or additional powers.
+The most common effects are:
++X hit diCe: increase the number of dice in the hit roll.
++X : adds X hits results to the hit roll.
+-X def diCe: reduce the number of dice used by the defender
+in the defend roll.
+area damage: the attack affects all targets in the area; each
+target must defend separately against the rolled hits.
+The weapon’s efficiency is classified in three color-coded ranks:
+GREEn: standard Weapon with basic powers.
+1. ID – name, rank, and class
+BLUE: improved Weapon; enhanced version of a normal weapon.
+restriction.
+RED: alien Weapon technology; extremely powerful, but
+difficult to manage without appropriate training!
+2. Attack Values – weapon type,
+dice color and number to use
+in the hit roll.
+During missions the agents may obtain new weapons, including improved
+3. Range – maximum allowed range.
+Weapons and alien Weapons. These weapons replace the standard ones. Each
+agent must choose which of his two current weapons will be replaced
+4. Ammo – maximum number of ammo
+by the new acquisition.
+tokens.
+5. Bolt Effect – power activated
+An agent is not required to use a new weapon he finds. [For
+by any Bolt result during the
+hit roll.
+instance: an agent may choose not to receive a new alien Weapon,
+because he does not have the “Alien Knowledge” skill.] In this
+6. Additional Powers – special
+powers of the weapon.
+case, the weapon will be transferred to gd headquarter and will be
+available for the next missions of the campaign. In a standalone
+mission, simply return the refused weapon back to the game box.
+Additional details on weapons and their use will be found in the next sections.
+22
+
+7.6.1 Melee weapons
+Melee weapons are identified by the symbol and can be used to perform melee attacks, which deal melee
+damage.
+1. ID – name, rank, and class restriction.
+2. Attack values – weapon type, dice color and number to
+use in the hit roll.
+3. Range – maximum allowed range [normally ].
+4. Ammo – maximum number of ammo tokens.
+5. Bolt effect – power activated by any Bolt result during
+the hit roll.
+Melee weapons do not use ammo and never jam, so ignore any or result during the hit roll.
+7.6.2 Ranged Weapons
+Ranged weapons are identified by the symbol and can be used to perform ranged attacks, which deal
+ranged damage.
+1. ID – name, rank, and class restriction.
+2. Attack values – weapon type, dice color and number to
+use in the hit roll.
+3. Range – maximum allowed range.
+4. Ammo – maximum number of ammo tokens.
+5. Bolt effect – power activated by any Bolt result during
+the hit roll.
+An attack performed with a ranged weapon against an adjacent target [ distance] is still considered a
+ranged attack.
+7.6.3 Healing Weapons
+All healing weapons are identified by the symbol and are used by agents to heal Wounds instead of dealing
+damage. Healing weapons are the only weapons that allow agents to target other agents and themselves. These
+weapons typically heal one Wound for each rolled. Keep track of the number of Wounds remaining using the
+numbered Wound tokens.
+7.6.4 improved Weapons
+The Agency works hard to improve its equipment. In fact, during reinforCements, agents can request improvements
+for their weapons by spending gathered alien teCh [see section 7.9, page 28]. The new weapon received will
+replace one of the two weapons currently in use by one of the agents.
+Many improved Weapons are limited to specific roles, as each class has its own specific weapons.
+23
+
+7.6.5 alien Weapons
+To face the alien invasion, GD scientists are learning how to interface alien technology with human weapons.
+This means agents may be equipped with alien Weapons, but there is always a downside. These new weapons are
+difficult to use without specific training.
+To represent this limitation, if an agent uses an alien Weapon without the “Alien Knowledge” skill, then any
+or results in the hit roll indicate a totally failed attack [any success results rolled on the other
+dice are ignored].
+If an agent has a re-roll power applying to alien results, a re-roll can still be used to avoid failure. An
+expert agent with the “Alien Knowledge” skill follows the normal combat rules.
+Ranged alien Weapons do not need ammo [they use self-recharging plasma energy Bolts] and cannot Jam.
+note: The “Lasergun” alien Weapon is a generiC Weapon. For this reason, it can be used by any agent as a replacement
+for one of his current weapons, but it still requires the “Alien Knowledge” skill to use normally without
+the limitations indicated above.
+7.6.6 ammo
+Each human ranged weapon uses ammunition. To represent this, place the indicated number of ammo
+tokens on the weapon card [a “2” token is equivalent to two “1” tokens].
+Ammunition is discarded when a result is rolled [maximum one token per hit roll] or when a
+power indicates to do so.
+Some ranged weapons have a limited supply of ammunition. To shoot with these weapons, you need
+at least 1 ammo token available on the weapon.
+7.6.7 Energy Shielded Armor
+Advanced armor may have an energy shield for additional protection against combat damage.
+The symbol or identifies the presence of such a shield.
+During the refresh phase, each energy shielded armor regenerates its shield token.
+Place the appropriate token [ or ] on the Armor symbol. A “2” token is equivalent to two “1” tokens.
+note: As described in the ComBat section [see section 7.3, page 16], shield tokens must be removed to cancel
+one successful each, before rolling the defense dice. A “2” token is reduced to “1” when cancelling the
+first , and removed when cancelling the second .
+7.7 Powers and items
+Powers and items are divided into 3 color-coded categories:
+standard: the power or item can be used once during the agent turn using his aCtion.
+passive: the power or item is always active and does not require an aCtion.
+reaCtion: the power can be activated outside of the agent’s turn; it does not need an aCtion.
+All abilities, devices, tactics, and skills are considered standard except where specified.
+To keep track of the use of a standard or reaCtion power or item, it may be either flipped [skills and tactics],
+discarded [device], or a token can be used to indicate the relevant power or item [for example, the “Guard”
+ability].
+Powers and items can be generiC [usable by any agent, without class restrictions], or strictly linked to a
+specific class.
+24
+
+7.7.1 Damage and special effects
+Some powers and items can perform attacks and/or deal damage. The attack/damage dealt to the target is
+considered BasiC damage except where indicated.
+Basic attacks and damage are NOT identified by , or any specific symbol. They are defended as usual,
+but they do not trigger items or powers granting benefits against a particular type of attack or damage.
+For instance, the “Acid Poison” power of the Spine Critter alien does not trigger Agent Mercury’s armor
+Bolt effect [granting her protection against melee attacks], even when the Spine Critter dies adjacent to
+her. In this case, Agent Mercury rolls the defense dice, but she counts only the results, ignoring the
+results.
+When the term “on hit effeCts” appears on a power or item, it means the effect described must be
+applied when the owner rolls a symbol, even if the hits are canceled by the defend roll or in any
+other way.
+When the term “suffer[s] X Wounds” appears on a power or item, it means the damage cannot be avoided in
+any way [i.e. no defend roll].
+7.7.2 Devices
+A secret agent without devices is like the Earth without the Sun… It cannot survive!
+An agent can use his aCtion to activate one of his devices. Normally, each device can be used once per
+mission. After it is used, discard the device token to the Warehouse. The device can be re-used only if the
+Agency sends it to the field again, later in the game, during reinforCements.
+1. ID - name and class
+restriction.
+2. Effect - power
+3. description.
+Range – maximum allowed
+4. range.
+Attack values – weapon
+type, dice color and
+number to use in the hit
+roll.
+7.7.2.1 grenades
+Grenades are devices used to inflict damage and, most importantly, for
+their special effects.
+The grenade is a device, not a weapon, so the agent must spend his aCtion
+[and not his ComBat] to perform the attack.
+When an agent attacks with a grenade, he rolls the specified dice. All
+aliens in the area must defend against any rolled as normal.
+note: If at least one is rolled, the grenade’s “on hit effeCts” is applied
+regardless of the alien defense results.
+1. ID - name and class
+restriction.
+An agent with the “Grenadier” skill has two main benefits when using
+2. Effect - power
+grenades:
+description.
+3. Range – maximum
+He may re-roll any die result in his hit roll with a grenade.
+allowed range.
+When the skill comes into play, it grants the agent 3 grenade 4. Attack values – weapon
+devices [if they are available]. type, dice color and
+number to use in the
+hit roll.
+25
+
+7.7.2.2 sentry-gun
+1. ID, name, and class restriction.
+2. Attack values – weapon type, dice color
+and number to use in the hit roll.
+3. Range – maximum allowed range.
+4. Ammo – maximum number of ammo tokens.
+5. Health Points - represents the Sentry-Gun
+full Health status.
+6. Movement - maximum movement [in hexes] each
+turn.
+7. GUARD - “Guard” reaCtion ability.
+A Biotech agent can use a special battle drone turret, called a Sentry-Gun, if he receives the “Sentry-
+Gun” device. The Biotech can use his aCtion to deploy the drone on the battlefield. Place the Sentry-Gun
+figure on any empty hex adjacent to the Biotech. Starting on his next turn, the Biotech may spend his aCtion
+to perform an attack with the Sentry-Gun. The Sentry-Gun data is printed on its device tile; there is no
+separate sheet for it.
+The Sentry-Gun counts as a normal agent for most purposes [for example, it occupies a hex, and can be
+targeted by aliens]. However, it does not have its own agent turn, it cannot move, cannot regain ammo,
+cannot be healed,always has a 360° view of the battlefield [even when using the “Human View” optional
+rule], and its weapon will never Jam. Also, the Sentry-Gun never takes an aliens turn and does not count
+as an agent for the purpose of event cards.
+When the Sentry-Gun reaches 0 hps, it is destroyed. It must be discarded and cannot be used further,
+unless the Agency sends it to the field again, later in the game, during reinforCements.
+The Sentry-Gun has the “Guard” reaCtion ability. This ability can be used once per game round to
+perform an attack against a just-moved or revealed alien. [This attack is additional to the attack
+that the Biotech may perform with the Sentry-Gun using his aCtion.]
+7.7.3 Tactics
+1. Type – identify a standard,
+passive or reaCtion skill.
+2.Effect – power description.
+By acquiring experience during the game, agents will gain basic and improved tactics. These tactics
+represent additional powers usable during a mission.
+An agent can use his aCtion to perform a specific tactic, once per mission. When finished, flip the
+used tactic face down. It will remain face down until the end of the mission, or until an event card
+with the “Act of Valor” effect is drawn.
+7.7.4 Abilities & Skills
+1. ID – name, type, and class
+restriction.
+2. Type – identify a standard,
+passive or reaCtion skill.
+3. Effect – power description.
+4. Usage – usage limitations.
+Each agent begins his career with one personal ability [printed on the agent profile sheet]. During
+missions, he will gain one or more skills, represented by tokens, increasing his proficiency in battle.
+An agent can use his aCtion to activate one of his standard abilities or skills.
+When a skill is used, flip its token face down. The skill is considered deactivated until the next
+refresh phase. During the next refresh phase, flip up all used skills.
+26
+
+7.7.4.1 gd-209
+1. ID – name and class restriction.
+2. Attack values – weapon type, dice color
+and number to use in the hit roll.
+3. Range – maximum allowed range.
+4. Ammo – maximum number of ammo tokens.
+5. Health Points - represents the full health status.
+6. Movement – the maximum movement [in hexes] per turn.
+7. Energy Shield – rechargeable energy shielded armor.
+A Biotech agent can use a special battle drone, the GD-209, if he acquires the “GD-209” skill.
+Once in a mission, a Biotech with this skill can use his aCtion to deploy the drone on the battlefield. Place
+the GD-209 figure on any empty hex adjacent to the Biotech.
+Starting on his next turn, the Biotech may spend his aCtion to activate the GD-209; if so, the GD-209
+immediately moves and fights.
+The GD-209 relevant data is printed on its skill tile, as there is no separate sheet for it.
+The GD-209 counts as a normal agent for most purposes [for example, it occupies a hex, and can be
+targeted by aliens].
+However, it it does not have its own agent turn, it cannot regain ammo, cannot be healed, always has a 360°
+view of the battlefield [even when using the “Human View” optional rule], and its weapon will never Jam.
+Also, the GD-209 never takes an aliens turn and does not count as an agent for the purpose of event cards.
+When the GD-209 reaches 0 hps, it is destroyed. It must be discarded and cannot be used further in this
+mission. If playing a campaign, the GD-209 can be used again in the next mission.
+7.7.4.2 guard
+An agent [or drone] with the “Guard” reaCtion ability can use it to attack a just-moved or revealed
+alien. The attack may be performed using any available weapon, following the usual attack rules.
+For instance, Agent Chromium may decide to use his Rifle [if equipped] and discard one ammo to
+deal area damage.
+The ability may only be used once per game round. To keep track of it, the player must put the guard token
+on the map near the agent [or drone] figure, to indicate he is ready to fire. After the attack is finished,
+the token must be removed.
+The guard token is returned in the next refresh phase.
+note: “Guard” is the default reaCtion ability of Agent Chromium and of the Biotech’s Sentry-Gun device.
+7.8 GD-Wings
+“That which does not kill us makes us stronger.” GD Agents must become stronger than steel to beat the
+Alien challenge!
+Experience may improve the abilities of an agent. In game terms, during the strategy phase, after the alpha
+agent promotion, if at least one alien was killed in the previous round, each agent may try to improve his
+rank by one level. Roll 3 dice to obtain results.
+The number of results required to reach the next rank on the battlefield is indicated by the following
+table.
+gd-wings rank Enhancement Required results
+copper CHARACTER ABILITY [printed on sheet] Starting Training
+bronze BASIC TACTIC
+silver 1st SKILL
+gold IMPROVED TACTIC
+palladium ELITE AGENT [flip the Agent Profile Sheet]
+platinum 2nd SKILL
+27
+
+With a successful gd-Wings roll, an agent immediately obtains the enhancement listed in the table for his
+or her next level. The player can freely choose a skill or tactic among the ones suitable for the class
+of the agent.
+During a campaign, each agent may gain a maximum of one gd-Wings rank per mission. The new rank is carried
+on to the next mission. When playing a single, standalone mission, there is no limit to rank improvement.
+Each agent starts the mission at the listed rank and may reach Platinum gd-Wings.
+note: A campaign may indicate several other ways to improve the agent’s rank, for example completing
+training missions and/or achieving specific goals in a mission.
+7.9 alien tech
+The Agency collects and analyzes fragments of alien technology items and weapons. The research lab works
+hard to transform this knowledge into improvements for agents’ gear.
+There are two ways to obtain fragments of alien teCh:
+Killing Aliens - When the first alien is killed during a Battle phase, the alpha agent takes one
+fragment of the alien teCh token.
+Searching - A mission may indicate that an area [normally a room] may be searched. If a
+result is rolled while performing a searCh action inside such an area, the alpha agent takes one
+fragment of the alien teCh token.
+Only one fragment of alien teCh may be gathered in each game round by
+killing aliens, and one fragment by searching. This limit may be
+overridden as indicated by the mission.
+When all 4 alien teCh tokens are gathered, the alpha agent contacts the
+Agency during reinforCements to obtain a new weapon or device directly
+on the battlefield. To do so, you must spend [i.e., discard] the
+four alien teCh fragments [see section 6.2.3, page 13].
+note: alien teCh Fragments can also be spent during the reinforCements step of each strategy Phase to revive
+dead agents [see section 7.5.3, page 21].
+28
+
+8 The Aliens
+In Galaxy Defenders, the aliens are controlled by the game itself through an artificial intelligence [A.I.]
+system based on 2 components:
+Alien cards: These cards represent the A.I. of the alien. They indicate their movement, powers,
+health points, and weapons. Each alien on the map is tied to a specific card to keep track of its
+powers and hps.
+Close enCounter cards: These cards are drawn by the active player at the beginning of each aliens
+turn to determine which aliens must be activated.
+This system gives a different behavior to each alien species, and also represents the chaos of the battle,
+as the agents will not know which aliens will be activated during the next aliens turn.
+8.1 Alien species
+The Agency has discovered and classified several alien species.
+These alien species have been classified in three color-coded power ranks.
+GREEn: represents the normal form of an alien species.
+BLUE: represents a more powerful form of the alien.
+RED: represents the elite of an alien species... Extremely dangerous!
+8.1.1 Alien I - classified: Xeno-Beta
+Scout trooper, normal body mass, limited fire power. Agency studies report a moderately
+aggressive combat style. They favor ranged combat. Their armor seems to allow a limited type
+of regenerative power, under some circumstances.
+8.1.2 Alien II - classified: Spine Critter
+Quadruped alien. Their enhanced senses allow accurate human tracking. Evidence suggests that
+even when dead, they may inflict damage due to their toxic blood.
+8.1.3 Alien III - classified: Xeno-Alpha
+Elite trooper, enhanced body mass, shielded armor, good fire and melee power. Agency studies
+report an aggressive combat style. It seems to have some type of command role among the
+aliens on the battlefield.
+8.1.4 Alien IV - classified: Aracnos
+Very fast, spider-shaped alien, equipped with a strong natural armor. It can be very
+dangerous in close combat.
+29
+
+8.1.5 Alien V - classified: xeno-grey
+Leader of the alien army, its lack of skill with weapons is balanced by its incredible
+mental powers and its force field ability.
+8.1.6 Alien VI - classified: Nexus
+Biomechanical form built of an unknown, ultra-resistant metal, armed with deadly weapons.
+It must be considered extremely dangerous.
+8.1.7 Alien VII - classified: xeno-beast
+The Agency has no significant information about this life form. Agents who contact this
+Alien must exercise extreme caution.
+8.2 Biological Alien Structure [ALIEN Cards]
+The aliens are controlled by the game itself. Each alien is
+represented by a specific alien card, to create a different
+behavior for each species and rank.
+Each alien card has several major sections, detailing the
+alien’s movement, powers, and combat weapons.
+name, Image & Color Rank [1-2]: identifies the alien species
+and rank [GREEn, BLUE or RED background].
+A.I. Section [4]: details the movement and fight rules of
+the alien. It may also contain innate abilities influencing
+the A.I.
+Skills & Powers Section [3]: details the skills and powers
+of the alien. Read this section carefully, because it contains
+important information about the alien’s strategy. Colors
+indicate the nature of each power:
+BLACK - standard power
+PURPLE - passive power
+RED - Weapon
+BLUE - reaCtion power
+Additional symbols may be included to quickly understand the
+nature of a power. For example:
+1. Color Rank – GREEn / BLUE / RED
+- The power affects the alien’s movement.
+- The power activates upon the alien’s death.
+rank.
+2. ID – name and picture of the
+Weapons Section: Lists the ranged and melee weapons used by
+alien.
+the alien. Each weapon is identified by the weapon type and
+3. Powers - innate alien abilities.
+4. A.I. – A.I. rules and powers
+the dice color and number to use during the hit roll. It may
+affecting the alien’s behavior.
+also contain the Bolt effect or an additional power [detailed
+in the Skills & Powers section of the card].
+5. Ranged Weapon – name and powers.
+6. Melee Weapon - name and powers.
+Defense Section: May contain up to three important details;
+7. Armor – normal and Bolt effect
+of the armor [if any].
+health points, armor special power, and rechargeable energy shielded
+8. Health Points - indicates the
+armor. note: the energy shield of some powerful aliens can cancel
+up to two each round [as indicated by the presence of an
+alien full Health status.
+9. Energy Shield – rechargeable
+energy shielded armor symbol].
+energy shielded armor.
+During the game, alien cards are drawn by a player when a signal
+is revealed or when required by the mission. Each alien card
+drawn is assigned to a player [see the “Alien Assignment”
+section 8.8, page 35].
+Players who are assigned an alien card must read the entire card, to play the alien at its best. When
+the game requires alien activation, the controlling player must read the A.I. Section and apply the
+first relevant behavior rule, starting with [adjacent].
+30
+
+Typically, the behavior rules are based on the distance [measured in areas] between the alien and
+agents. Each behavior rule requires l.o.s. and a legal movement path.
+If there is no appropriate behavior rule, the player must apply the last behavior rule on the card:
+The behavior rule indicated by this symbol still requires a legal movement path, but may
+ignore the l.o.s. requirement. The alien, therefore, may move toward an agent, even if it
+is not able to see him.
+movement and ComBat are covered later in the rules [see section 8.9, page 35, and 8.10, page 37].
+movement eXAMPLES
+|     |     |     | The  GREEn  | Aracnos  is  |
+| --- | --- | --- | ----------- | ------------ |
+The BLUE Xeno-Beta moves
+| toward                  | the  Biotech  |       | also  directed            | to  move     |
+| ----------------------- | ------------- | ----- | ------------------------- | ------------ |
+| agent behind the dune,  |               |       | toward the Biotech agent  |              |
+| even if it cannot see   |               |       | behind the dune, even if  |              |
+| him.                    | It  moves     | from  | it cannot see him.        |              |
+|                         |               |       | There  are                | no  wounded  |
+center to center, then
+| it advances forward one  |               |     | agents, so the Biotech  |             |
+| ------------------------ | ------------- | --- | ----------------------- | ----------- |
+| hex  to                  | be  adjacent  | to  | is  chosen              | as  target  |
+the agent [see section  even if he is not wounded. The Aracnos moves
+8.9, page 35]. from center to center, advancing 2 areas, then
+stops, as it reaches the agent.
+note: Only one behavior rule is played in each turn, even if multiple rules apply.
+The artificial intelligence is designed to cover every situation on the battlefield, but, in some
+instances, two or more options will be available to an alien. For instance, an alien selecting its
+target for shooting or moving toward two equidistant agents. In such cases, the game asks players to
+act with the mind of an alien coming to Earth with only one goal... Invasion! The alien should behave
+in the most favorable way for its side and the most detrimental toward the agents.
+When the alien deck runs out of cards, reshuffle the discard pile to recreate the deck.
+31
+
+8.3 Alien Activation [CLOSE ENCOUNTER Cards]
+A battle is a fast sequence of chaotic actions where nothing can be easily predicted! To recreate this
+atmosphere, aliens move and fight according to the drawn Close enCounter card.
+1. ID - identify the Close enCounter card.
+2. Effects - activation effects.
+3. Danger - the card may teleport new aliens onto the map.
+In the first step of the alien turn, the active player draws the top card from the Close enCounter deck.
+This card may refer to:
+One alien species, and/or
+One alien rank color, and/or
+Aliens in specific conditions [for example, wounded]
+All matching aliens on the map must be activated, starting with the ones controlled by the alpha agent
+and following in clockwise order.
+If any player controls more than one alien, the player may choose the activation order of his aliens.
+Activating an alien means reading the relevant alien card and applying the proper A.I. rule, as
+described in the previous section.
+If there are no matching aliens on the battlefield, the alien turn typically ends immediately.
+However, some cards are marked with the danger symbol. In this case, if there are no matching
+aliens on the map [as indicated by the Effects section of the card], new aliens are teleported
+onto the map. Search for them in the alien deck, reshuffling it with the discard pile, if needed.
+When the Close enCounter deck runs out of cards, reshuffle the discard pile to recreate the deck.
+8.4 Swarm Units
+Some aliens [not included in this set] may have the “Swarm” passive power. This means a single alien card
+represents a group of two or more figures, counting as a single alien on the battlefield.
+The main aspect of a swarm unit is the initial number of figures is always equal to its total health
+points. For instance, a 3 hps swarm unit is represented by 3 figures on the map.
+The activation and A.I. behavior of a swarm unit, in regard to agents, always uses the closest figure
+of the unit to the agent.
+32
+
+A swarm unit must follow the same movement and combat rules of a normal alien, with the following
+exceptions:
+The swarm unit includes one figure for each of its starting hps. When attacked, each figure of
+the swarm defends as a stand-alone alien with one HP.
+When all figures of the unit die, the swarm is destroyed and its alien card is discarded as
+usual.
+When the swarm unit attacks, it has a clear l.o.s. to a given target, if at least one figure of
+the unit has a l.o.s. with the target.
+When the swarm unit moves, the nearest figure to an agent moves first and then the other
+figures move adjacent to it.
+An agent can target only one figure of the swarm for each attack, except when area damage is
+dealt. In this case, all the figures in the targeted area are attacked.
+8.5 signals
+The Agency’s technology is able to detect alien movement on the battlefield. Motion detection
+accurately pinpoints ground position, but is not able to provide additional information regarding the
+nature of any given alien. Each agent is equipped with the technology to detect these signals.
+In the game, those signals are represented by signal tokens:
+Typically, during the event phase, signals appear and/or move on the map, following the movement rules
+described in the next section.
+A signal must be immediately revealed when it enters the l.o.s. of an agent.
+signal revelation always has the highest priority in ANY phase and must be done as soon as possible.
+When revealed, the signal token is flipped, according to the “Reveal Signal” rules [see 8.7, page 34].
+Once revealed, a signal must be discarded to the signal discard pile, except when stated differently by
+the mission rules.
+During the setup of each mission, a signal reserve is created by shuffling the indicated number of alien
+and human signals [faced down], as specified by the mission briefing. This will generate the pool of
+signals usable for the mission and represents the maximum number of signals available on the map at the
+same time.
+note: When the signal reserve is empty and a signal needs to be teleported onto the map, replenish the
+reserve by shuffling all the signals in the discard pile and placing them back in the reserve.
+8.5.1 Signal Movement
+signals follow most normal movement rules. They require a legal path to move, so they cannot move across
+a BloCked hex or hex side [including loCked doors, or BloCked doors and WindoWs]. signal movement must follow
+these rules:
+There can be only one signal or alien in each hex.
+signals move from center hex to center hex of an area. When this is not possible, signals move to
+another hex in the area.
+A signal must be immediately revealed when it enters the l.o.s. of an agent. Movement of the
+revealed signal ends immediately.
+If there is a choice between two different movements for a signal - one that causes the signal to
+be revealed it and the other that doesn’t - the signal must move where it is revealed.
+The signal revelation must be checked after every single movement [that is, area by area].
+signals consider an unloCked door or WindoW as a standard hex or hex side.
+Other signals/aliens are not considered obstacles for a legal movement path. signals can move
+through them, but may not end their movement on an occupied hex.
+When the game dictates movement toward the closest Teleport Point, and the signal is already
+there, it will remain in its current position.
+When the game dictates to “move back or move away,” it means to move in the direction where the
+signal came from; or, when not possible, away from the closest agent.
+If there is no legal walking path available, signals do not move.
+33
+
+8.6 Teleport System
+Aliens are transported on the battlefield thanks to advanced teleport systems. This technology relies
+on the presence of teleport points [t.p.] on the map.
+The Agency can detect teleported aliens as unknown signals.
+In game terms, when teleporting a signal onto the map:
+The alpha agent rolls 1 BLUE to determine the teleport point used.
+Draw a signal from the signal reserve.
+Place the signal on the teleport point or on the closest hex to it [the alpha agent may decide which
+one, if there is more than one suitable hex], if the t.p. is already occupied.
+If there is more than one t.p. on the map, the alpha agent must roll 1 BLUE and place the new signal
+on the t.p. with the symbol matching the die roll. If the symbol rolled is not present on the map,
+roll the die until it matches one existing t.p.
+note: The symbol takes precedence on the symbol of the same face.
+8.6.1 TELEPORTING ALIENS
+In some circumstances, the game may teleport aliens instead of signals. In these cases, the alpha agent
+follows the normal teleport rules with the following exception: instead of taking a signal from the
+signal reserve, take the matching alien card [Species and Color Rank] from the alien deck [reshuffling it
+with the discard pile, if needed] and place the appropriate figure on the rolled teleport point, or on
+the closest hex to it if the t.p. is already occupied.
+8.7 Reveal Signals
+When an agent has visual contact with a signal, the signal must be revealed. To represent this, when
+there is a l.o.s. between an agent and a signal, the alpha agent or the active player must flip up the
+signal token to determine if it is alien or human.
+In some cases, the GD satellite computer detects false positives, tagging a human being as an alien
+presence. If the revealed signal token shows a human shape, remove it from the map, or follow the relative
+special mission rules.
+If the token shows an alien, it must be replaced with a new alien: take the top card of the alien deck
+along with the appropriate figure [see section 8.8, page 35]. In either case, once revealed, the signal
+is discarded to the signal discard pile.
+Revealing a signal in l.o.s. is always the highest priority in ANY phase and must be done as soon as
+possible. When it occurs, the active player must pause his current activity. For instance, when the
+agent moves, the l.o.s. check must be done after every single movement, hex by hex. If the agent has
+visual contact with a signal, it is revealed immediately and then the agent resumes his movement.
+REVEALING signal example
+Agent Mercury
+moves 2 hexes.
+She interrupts
+her movement when
+she has l.o.s.
+with the signal.
+After revealing
+it, she can
+resume movement.
+34
+
+note: The normal l.o.s. rule applies for revealing signals, regardless of the “Human View” rule: A signal
+in l.o.s. must be revealed, even if the agent is looking in another direction.
+8.8 Alien Assignment
+Each time a new alien is teleported onto the map, the alpha agent must draw the top card from the alien
+deck [reshuffling the discard pile when the deck runs out of cards] along with the relevant rank figure
+[GREEn, BLUE or RED]. Typically, this happens when an alien signal is revealed or when a special event
+or Close enCounter card is drawn.
+The new alien card must be assigned to a player. That player becomes the alien controller for the
+particular alien.
+To maintain game balance, the alpha agent assigns alien cards following these rules:
+The card is normally assigned to the first player, in clockwise order, who does not have alien
+cards, or has less alien cards assigned than other players. In case of tie, the alien card is
+assigned to the alpha agent.
+Exception: When a second copy of an alien card is drawn [same Species and Rank], assign it to
+the same player who controls the first one. For instance, a player who controls a BLUE Xeno-
+Beta is assigned the second BLUE Xeno-Beta when its card is drawn.
+If all alien cards in the deck are assigned [i.e. all aliens figures are in play at the same time], no
+more aliens can be teleported on the battlefield, until at least one alien dies.
+Revealing a signal in these conditions has no effect except to discard the token.
+8.9 Alien Movement
+Alien movement is completely controlled by the alien cards. Each card details relevant instructions on
+how and when to move an activated alien.
+Aliens move according to their specific behavior rules, which change from alien to alien. For
+instance, an aggressive species will attempt to close in quickly to enter contact with agents, while
+scout troops will try to avoid melee combat.
+Normal movement rules apply to aliens. For instance, they need a legal path to move, so they cannot
+walk across a BloCked hex or hex side. There are some differences between the movement of aliens and
+agents, indicated below.
+While moving aliens, keep in mind these guidelines:
+There can be only one alien or signal in each hex.
+To apply a behavior rule, there must be a l.o.s. and a legal movement path. Only the rule
+can be applied without l.o.s.
+Aliens normally move from center hex to center hex of an area. When this is not possible or when
+needed, aliens move to another hex of the area.
+At the end of its movement, an alien may redeploy to any hex in the destination area, to end its
+movement adjacent to agents - trying to engage the original target and as many other agents as
+possibile.
+Aliens may disengage from melee without an “Evade” test. They can always disengage if they are
+required to do so by their A.I.
+Aliens consider an unloCked door or WindoW as a standard hex or hex side.
+Other aliens and agents are not considered obstacles for a legal movement path. Aliens can walk
+through them, but they cannot end their movement on an occupied hex.
+When the A.I. directs an alien to move toward the closest teleport point, and the alien is already
+there, it will remain in its current position.
+When the A.I. says to “move back or move away,” it means to move in the direction where the
+alien came from; or, when not possible, away from the closest agent.
+A behavior rule indicating “Move Adjacent to...” means that the alien must try to enter the
+target’s area, in a hex adjacent to the target. If this is not possible, the alien must move to
+an adjacent area, ending its movement in a hex adjacent to the target.
+If, for any reason, the appropriate behavior rule cannot be applied, apply the next one. If no
+rule can be applied, the alien remains in its current position.
+35
+
+movement eXAMPLES
+The BLUE Xeno-Beta is at a distance of 1 area The GREEn Aracnos does not see any agent.
+from the Infiltrator. It shoots her with its There is a wounded Biotech out of its l.o.s.,
+Blaster, then moves away. and there is a legal walking path through the
+unlocked door. The Aracnos advances toward the
+agent. After moving 2 areas, it stops adjacent
+to the Biotech.
+36
+
+8.10 Alien Combat
+Each alien card also dictates the combat behavior for the relevant alien. When an A.I. rule says to
+attack an agent, the player controlling the alien card takes the dice and starts combat using the
+alien’s weapons and powers.
+If more than one agent is eligible for attack, the alien attacks the most wounded agent. If several
+agents have the same number of Wounds, it attacks the agent with the fewest remaining hps.
+The combat system used for alien attacks follows the same rules explained before [see section 7.3,
+page 16], with the following exceptions:
+Aliens always ignore and results, as alien Weapons never Jam and do not use ammo.
+The result still represents a die with no hits, but it can be re-rolled normally by an alien
+with a re-roll power.
+There is no alien “friendly fire.” No alien ever inflicts damage on another alien, even with
+area damage weapons.
+The choice of ranged or melee weapons is based on the A.I. section of the card. Remember, an attack
+performed with a ranged weapon is still considered a ranged attack even when executed against an
+adjacent target.
+To keep track of the Wounds inflicted to each alien, Wound tokens can be placed on its alien card or near
+its figure on the map.
+8.11 Alien death
+“If it bleeds...we can kill it!”
+Aliens can be hard to kill, but that’s your goal! When an alien’s Wounds equal its total health points,
+it dies. If it is the first alien killed during the round, the alpha agent takes 1 fragment of alien teCh
+[see section 7.9, page 28]. The figure is removed from the map and its card is placed in the alien
+discard pile.
+You are now ready to play!
+the invasion begins, and gd agents must get ready for
+their first close encounter...
+it’s time to start reading the storybook and playing
+your first mission
+37
+
+And, last but not least, we wish to thank each of
+our Kickstarter backers, who helped us to crea-
+te and shape Galaxy Defenders!
+Galaxy Defenders Anders Pedersen Chris Rennie Eduardo Korsgaard Jason Lee
+|     | Andre Ohlhoff | Chris Rivers | Edward Calabig | Jason Liswood |
+| --- | ------------- | ------------ | -------------- | ------------- |
+Matej Satovic Andrea Cupido Chris Szymanski Edward Parks Jason Shrapnel
+Mykalson
+|     | Andrea Giuliani | Chris Tham | Edward Sagritalo | Jay Berry |
+| --- | --------------- | ---------- | ---------------- | --------- |
+Russell Lee Andreas Monitzer Chris Woods Eileen Lee Jeff Fields
+Samuel Svanda Andres Hernandez Baldovi Christian Nauheimer Elijah Kautzman Jeffrey Andres Williams
+Andres Samaniego Christian Nord Emilio G. Acevedo Jeffrey Owen
+Stefan Frey
+Stefan Zappe Andrew Carlstrom Christine Biancheria Enrico Salvato Jeffrey S. Risdon
+|     | Andrew Caudill - SCC | Christopher Bourassa | Eric | Jeffrey Smith |
+| --- | -------------------- | -------------------- | ---- | ------------- |
+Earth Defenders Andrew Cowen Christopher Brennan Eric Berglund Jemearl Smith
+Cape Fear Games Andrew Diaz Christopher Cowles Eric Eckstein Jennifer Abe
+|     | Andrew Goldman | Christopher Islaub | Eric Heine | Jerad Grimes |
+| --- | -------------- | ------------------ | ---------- | ------------ |
+Chris Robbins Andrew J. Hayford Christopher Perkins Eric Johnson Jeremy Copley
+Ed Kiernan Andrew Park Christopher Roche Eric Ludy Jeremy Maule
+LPG sas Andrew Sekela Christopher Sziklas Eric Tewell Jerry Tresman
+Andrew Stingel Chuck Morrill Erik Berglund Jianxiong Alvin Ong
+| squads       | Andy Dunks | Cid Sugioka   | Erik Volkert | Jimmy Dillon   |
+| ------------ | ---------- | ------------- | ------------ | -------------- |
+|              | Andy Smith |               |              | Joanna Griebel |
+| Angelo Ricci |            | Clark Lovrien | Eugene Koh   |                |
+Kolby Reddish Anna Patrone Claudio Marinelli Evan Rattner Joao Pedro Sffair
+|     | Anthony Mastrangeli | Clay Skaggs | Ewan Anderson | Joe Fredo |
+| --- | ------------------- | ----------- | ------------- | --------- |
+Larry Chia Anthony Olver Clemens Zeilinger Fabian Kern Joe Held
+Shannon Espinoza
+|     | Anthony Rubbo | Cliff Hutton | Fabian Storck | Joe Kadisak |
+| --- | ------------- | ------------ | ------------- | ----------- |
+Stefan Frey  Antoni Iuliu Ludovic Clinton Hosford Fabien Mieyeville Joe Passingham
+Taylor Grow Antonio Alvarado Herrera Colin Peake Fabrice Masson Joel Lim
+|                | Antonio De Rosa | Connie Villalobos |                   | Joel Simard |
+| -------------- | --------------- | ----------------- | ----------------- | ----------- |
+| armored agents |                 |                   | Fabricio Ferreira |             |
+|                | Antonio Mendoza | Craig Hackl       | Federico Luison   | John Akin   |
+Adam Walck Antony Spencer Cristian Meloni Felipe Ricardo Machado John Bruns
+Arnold Shunneson Cristian Muscatello Felix Le Rouzes John Burkett
+Chris Baginski
+Mathias Desbois Ashley Gardiner Curtis Thornock Felix Munoz John DiMaio
+Drew Grgich Atticus Gifford Curtis Yu Fernando ML Benavidez John DiPonio
+|     | Avi Zacherman | D. Braza | Francesco Neri | John F Pachin |
+| --- | ------------- | -------- | -------------- | ------------- |
+Gary H. Wishik, M.D. Barowski, Alexander D.J. Cole John Falcon
+| Gary McGrath |     |     | Francis Gagnon |     |
+| ------------ | --- | --- | -------------- | --- |
+Ian ONeil Bastian Diedrich Dakota Wolff Nicolucci Francis Garot John Hodgkinson
+|     | Ben Croft | Dale Hall | Francis Guilbeault | John Ibarzabal |
+| --- | --------- | --------- | ------------------ | -------------- |
+J. Quincy Sperber Ben Hansen Damean Rendell Francis Polach John Jones
+James Perlmutter
+Jeffery Murphy Ben Thornton Damian Mainka Frank Branham John Lambert
+| Kevin Lai | Ben Wenger     | Damien Laing     | Frank Karl     | John Meeks    |
+| --------- | -------------- | ---------------- | -------------- | ------------- |
+|           | Bendik Vedeler | Damon Richardson | Franklin Scott | John Przylepa |
+Marco Moia Benjamin Arnault Dan Derby Fredrik Warnberg John Retrum
+Matthew Dive
+Michael Hurst Benjamin Bement Dan Porter G. Michael Bridge John Rivera
+|     | Benjamin Fowler | Dan Senne | Gabriel Vasquez | John Ross |
+| --- | --------------- | --------- | --------------- | --------- |
+Nicole Holland Benjamin Norest Daniel Blackburn Gabriele Guerre John Simpson
+| Roberto Poli |                      |               |                 | John Steemson |
+| ------------ | -------------------- | ------------- | --------------- | ------------- |
+| Roy Davis    | Benjamin Steinhauser | Daniel Imbach | Garry Shortland |               |
+|              | Bill Nadey           | Daniel Kirk   | Gary Gilliam    | John Sterle   |
+Ryan Johnson Billy Jackson Daniel Koehl Geoffrey Briggs John Talcott
+Sam Blackwell Billy Lee Daniel Magnan Geoffrey Ford John Wilson
+Silvia Illari
+Sizyakin Artem Bobby Rappolt Daniel Molina Geoffrey Squire John Woollard
+Bobby Warren Daniel Plantenberg Geoffroy Emain Johnathan Palmer
+Tim Burnett Brad Barrett Daniel Reece George M. Gibbs Jr. Jon Francum
+| Tim Overkamp | Brad Kane |               |               | Jon Greisz |
+| ------------ | --------- | ------------- | ------------- | ---------- |
+|              |           | Daniel Urdzik | Gerard Martel |            |
+Timothy Reed Brad Zepecki Daniel Vandenbor Gianluca Troiani Jon White
+Bradley Pflugh Daniele Di Mattia Gilbert Camama Jonathan Apuan
+TEAMS Brandon Barlow Darryl Jam Gilbert D. Fussell Jonathan Loyd
+Aaron Wood Braxton Nevares Daryl Bewley Glen Green Jonathan Tang
+Donald Christianson Brent Johnson Daryl McLeod Glen Howard Joris Doucet
+Duane Crago Brent Lloyd Daryl Tay Howe Liang Grant Stewart Jose Vargas
+|                 | Brent Matyas | Dave Horn |             | Joseph Estepa |
+| --------------- | ------------ | --------- | ----------- | ------------- |
+| Eddie Villaluna |              |           | Greg Merwin |               |
+Frank Clark (Ecolin) Brenton Tester Dave Rancourt Gregoire Thillay Joseph Lau Kong Kin
+Jason Stealey Bret Kelsey Dave Rancourt Gregory Frank Joseph S Forster
+Brett Lea Dave Skogstad Guilherme Chaves Corrêa Joseph Tonizzo
+John “Jack” Onstott
+Jon Shelky Brett Lopez David Acton Guillaume Joseph Zakszewski
+Jorge Luis Aldana Brett Orr David Alton Gustavo Russo Josh Glover
+Mark Jimenez Brian Bishop David Bezio Gwo-Yueh Rudolf Kuo Josh Herreshoff
+|     | Brian Hunt | David Bolegoh | Hector Rivera | Josh Kaufman |
+| --- | ---------- | ------------- | ------------- | ------------ |
+Patrick R Leacock
+Phil Christiansen Brian Jarzyna David C Mason Heiko Waelde Josh Payne
+Scott Alden Brian Lucier David Douglas Henrik Schmidt Josh Utley
+|     | Brian Monroe | David Doutch | Herb Leist | Josh Wilson |
+| --- | ------------ | ------------ | ---------- | ----------- |
+Ted Elrick
+Tim Titsworth Brian Perch David Finn herbert seifert Joshua Hernandez
+|     | Brian Sass | David Fuentes | Holger Presch | Joshua Krzych |
+| --- | ---------- | ------------- | ------------- | ------------- |
+ELITE agents Brian Severson David Hoffmann Howard Li Joshua Lloyd
+Brian Van Dyk David Huet Hugo Machado dos Santos Joshua Mosher
+Aaron Phillips
+Aaron Seymour Brian West David Hughart I Heath Julian Sotirov
+|     | Brooks Murrell | David J Solie | I.E. Tegel | Justin Bagley |
+| --- | -------------- | ------------- | ---------- | ------------- |
+Adam Bacon Bruno Ferrarini David Joyce Ian Dimitri Justin Barnes
+| Adam Brown   | Bruno Maros de Borobia |              |                 | Justin Edwards |
+| ------------ | ---------------------- | ------------ | --------------- | -------------- |
+| Adam Canning |                        | David McAvoy | Igor Shtaynagel |                |
+Bruno Sérgio Ramos Pires David Miller Ingo Arendt Justin Green
+Adam Coker Bryan Boothe David Rapp Inkari Coelho Bonilha Justin Hall
+Adam Floerchinger Bryan Hehmann David Schoenmann Ipacs Zsolt Kai Pusch
+Adam Girardo
+Adam Hennings Bryant Ross David Sussman Jack Cameron Keith Dennard
+|     | Bryce Nielsen | David Wolfe | Jack Gulick | Keith Kikawa |
+| --- | ------------- | ----------- | ----------- | ------------ |
+Adam kennah C Matt Pappathan David Zimmerman Jack McNaughton Kelvin Marn
+| Adam Pinto   | Cameron Esfahani | Davide Cazzadore |            | Ken Hiseler |
+| ------------ | ---------------- | ---------------- | ---------- | ----------- |
+| Adam Rapkins |                  |                  | Jake Kainu |             |
+|              | Cara Tucker      | Deacon Wardlow   | Jake Rose  | Ken Shannon |
+Adam Sadler Carlos Bruno Alves Dennis Karaffa James Dundas Kendon Bagley
+Adam Tucker Carlos Daniel Muñoz Diaz Deon Beswick James Grimley Kenneth Thronberry
+Adam Wilson
+Aksel Palm Carlos Elvécio Aparecido  Derek Jankowski James King JR Kenny Perry Jr.
+|     | Santos | Derek Kuper | James McHugh | Kevin Appleby |
+| --- | ------ | ----------- | ------------ | ------------- |
+Alain Marti Carlos Garcia Leiva Derrek B Kyzar James Molloy Kevin Benoit
+Alan Baxter Carlos Oliveira Diana Nati James S Hodge Kevin Stover
+Alan DeCamp
+Alan Smith Carlos Sandico IV Diepenrijkx Mark James Smith Kevin W. Brennan
+|     | Carter Brent | Dirk Grabenkamp | James Weber | Kyle Buckingham |
+| --- | ------------ | --------------- | ----------- | --------------- |
+Alberto Bonfanti Casie Davis Dirk Johnson James Wickline Kyle Grindling
+Alessandro Melchionno
+Alessio Andreoli Chad Mauch Donald Lovejoy James Wilkinson Kyle Pinches
+|     | Charles gomez | Donall Tansey | James Young | Kyle Shults |
+| --- | ------------- | ------------- | ----------- | ----------- |
+Alex de Burgh Charles Stoll Doug Childs Jamie Smith Lance Hinkel
+| Alex Hunt  | Chi Chui | Dr Adrian Bai | Jared Kinkade | Lance King |
+| ---------- | -------- | ------------- | ------------- | ---------- |
+Alex Parker
+Alex Rosenwald Chris Banaszak Dr R J Fluck Jared Orlando Larry Rice
+|     | Chris Clarke | Dr Thomas Schmid | Jason Chen | Lars Holgaard |
+| --- | ------------ | ---------------- | ---------- | ------------- |
+Alexander Chang Chris Congemi Duane Omes Jason Connerley Laura Burns
+Alexandre Rivaben Justino Chris Herbert Jason Detmers Leandro Ferreira
+| Alton Yoshii |                 | Dustin D Cameron |               |                 |
+| ------------ | --------------- | ---------------- | ------------- | --------------- |
+|              | Chris Monestero | Dustin Robb      | Jason Goodman | Lecompte Arnaud |
+Alywin Fruge Chris Nagati Ed Kowalczewski Jason Hayes Lee Chek Tin
+| Amie Lin | Chris Page | Ed Maranville | Jason Jibben | Lee Fisher |
+| -------- | ---------- | ------------- | ------------ | ---------- |
+Anders H. Pedersen
+|     | Chris Port | Eddy Marquez | Jason Krish | Leo Sebastiano |
+| --- | ---------- | ------------ | ----------- | -------------- |
+38
+
+Lieve Nachtegael Patrik Swärd Steven McCreery Erik Lind Troy Stram
+Lindsey Doyle Paul Brelsford Stuart Fern Erik Oliver Vincent E. Hoffman
+Liz de Burgh Paul Cuaresma Stuart Gairns Gary Overmoyer Walter Smith
+Lois M Zaleski Paul Haswell Stuart Glanville Gary Tanigawa William Retert
+| Lorenzo Pallotti | Paul Sacco | Stuart Lister | George Breden |     |
+| ---------------- | ---------- | ------------- | ------------- | --- |
+Loris Zanotto Paul Simmons Suman Subramaniam Greg Francisco Scientists
+| Louis Morneau | Peggy Carpenter | Summer Lui    | Gregory Dalesandre |                |
+| ------------- | --------------- | ------------- | ------------------ | -------------- |
+| Loyko Mikhail |                 |               |                    | Ann D. Christy |
+|               | Pete Millen     | Sven Sierwald | Ian Beck           | April Walter   |
+Lucas Crosby Peter Baxter Teik Chooi Oh Jack Hearon Brian Gautrey
+| Lucas Spears | Peter Little | Terry Simo | Jacob Bazar |     |
+| ------------ | ------------ | ---------- | ----------- | --- |
+Lucio Abbate Peter Oggelsby Theo Clarke Jacob Cain Chris Sanny
+Chris Severs
+Luis H. Bernabe, III Phillip Fatka Thibaut De Balmain James A. Brown Davlo Wandzek
+Lukas Doubravsky Phillip Greenberg  Thierry De Gagne James Antell George Gibbs
+| Luke Passingham | Pierre Lanrezac | Thomas Heinig  | James McCann |             |
+| --------------- | --------------- | -------------- | ------------ | ----------- |
+| Luke Platfoot   |                 |                | James Otto   | Holly Straw |
+|                 | Pierre Therrien | Thomas Kandris |              | Ivy Arkfeld |
+Mads Schultz Quintin Ang Thomas Lange James Strider James Masterton
+Manfred Laner Rand Chua TL Thomas Willoughby Jamieson Colburn
+Marc von Canal Randall Fischer Thorben Wöhler Jason Cookingham James Wallett
+Jason Gifford
+Marc-Andre Weber Randy Lofton Tim Danley Jason Gifford Jenny Haddad Mosher
+Marcel Vermeulen Raphael Barilaro Tim McFadden Jason Hartman Jeremy F. Carey
+Marcelo Souza Raphael Menezes do Nascimento Tim Wilson Jason Raczkowski
+| Marco Brugnoni | Raymond Beckmann |              | Jason Roberts | John Whitehair   |
+| -------------- | ---------------- | ------------ | ------------- | ---------------- |
+|                |                  | Timo Stepper |               | Kee Blaszczynski |
+Marco Grillini Raymond Lee Timothée Licitri Jay Lee Krissie McJohnson
+Marc-Olivier Fafard Rebecca Truax Timothy Kasprzak Jed Wegner
+Marcus Arena Reeuws Bruno Timothy Willis Jeff Schwartz Kyra Davis
+Leighton Martz
+Marcus Lindberg Reiner Perillo Tiziano D’Urbano Basile Jeff Tilden Lily Vandenbor
+Marcus Polk Renato Nunes Cosentino To Chi Fung Jeff Yeackle Mark Dillon
+Mario Kaschulla Richard Gissing Tobias Schindler Jeffery Proia
+Mark Anderson Richard Guerrero Toby de Burgh Jeffrey M. Trumbore Michael Haven
+Michael Tanigawa
+Mark Curtis Richard Hsu Tod Sistrunk Jeffry Hoffman Morien Wyn Jones
+| Mark Freeman | Richard Jenkin | Todd Hayes | Jeffry Welfare |     |
+| ------------ | -------------- | ---------- | -------------- | --- |
+Mark Hom Richard Kai Tom Hanks Jennifer E Kuipers Rebecca Francisco
+Rob Marti
+Mark Horneff  Richard Linnell Tommy Runesson Jeremiah Wright Ryan White
+Mark J. Muir Richard Reid Tony Tran Jessica Honeycutt Shaun Yin
+| Mark Mirchandani | Richard Valente | Tracy Bennett | Jim Just Jr. |     |
+| ---------------- | --------------- | ------------- | ------------ | --- |
+Mark Padding Rick Collins Travis Botts John  Barnes Tammy Stencel
+Thomas Scott
+| Mark Screen | Ricky Tafoya | Travis Myers | John Cobb | Trenf Fadden |
+| ----------- | ------------ | ------------ | --------- | ------------ |
+Mark Somogyi Rob Lugton Travis Skinner John Czahor Ty Triebenbach
+| Mark Vabulas         | Rob McCord     | Trent Carr      | John Harris   |            |
+| -------------------- | -------------- | --------------- | ------------- | ---------- |
+| Markus Canz          |                |                 | John Sullivan | Supporters |
+|                      | Rob Yan        | Troels Pedersen |               |            |
+| Marshall Scott Veach | Robert Bushell | Troy Ryder      | John Trobare  |            |
+Martin Osswald Robert Davis Troy Stram Jonathan Bagelman Aaron Beard
+Massimiliano Cretara Robert De Luna Tyler Yazzie Jonathan Pearson Adam
+Adam J Marquis
+| Massimo Rolli | Robert DiChiara | Tyson B. Cram | Jordan Wiklund |     |
+| ------------- | --------------- | ------------- | -------------- | --- |
+Mathieu Lapierre Robert Iversen Vasileios Kakkos Joseph Rhodes Alessandro Milanesi
+Matt Branstad Robert Iwan Vasilis Foukarakis Josh Carey Alessio Molteni
+| Matt Hendricks | Robert Johnson |                     | Josh Gilzow   | Andrea Buffardi   |
+| -------------- | -------------- | ------------------- | ------------- | ----------------- |
+|                |                | Víctor Ortiz López  |               | Andrey Skidchenko |
+| Matt Rollefson | Robert Macary  | Villars Alain       | Josh Willhite |                   |
+Matthew Aaron Robert McKeagney Vinson Hum Justin Steurich Anna Patrone
+Matthew Chang Robert Mitchell Vitaly Fedyunin Justin Tomlinson Antonella Palumbo
+Ben Carlton
+Matthew Compton Robert Scott Clark Walter Gagajewski Keith Ambrose Ben Misky
+Matthew Evans Robert Wilson Walter Mulder Kenneth Scheuber Jr
+Matthew Hendron Robert Yee Wayde Zalken Kenneth Wu Berit Larsen
+Matthew Kokaly Robin Eriksson Wayne Foley Kevin Billman Betsy
+Bill Reaser
+| Matthew McMahon | Robin Simons | Wayne Kaufman | Kevin Erskine |     |
+| --------------- | ------------ | ------------- | ------------- | --- |
+Matthew Rini Rogerio de Leon Pereira Wei Jen Seah Kevin Meeks Brian Coultrup
+Matthew Ryan Rolf Laun Wesley Hayward Kevin Vreeland Cameron Case
+|     |     |     | Kevin Wu | Corradino Milone |
+| --- | --- | --- | -------- | ---------------- |
+Matthias Fröschl Ron Baalke Wesley Steeves Daniel Ferreira Caldas
+| Matthieu Schloesing | Ron Charity | Will Leader | Marc Yablon |     |
+| ------------------- | ----------- | ----------- | ----------- | --- |
+Maxfield Stewart Ron Musial William Klose Mark Fadden Daniele “Kinder” Rea
+Maxwell Frattolin Ronald Rector William Payne Mark Hanna Darius du Plessis
+Data Care Srl
+Maykel Dos Santos Braz Ross Kristjuhan William Reger Mark Madden
+| Megan Ortiz | Roy Tan | William Wenz | Mark Sautman | Dave M. |
+| ----------- | ------- | ------------ | ------------ | ------- |
+Michael Baskal Russell Granberry  William Woodyard Mat Courtemanche Erich Eichner
+| Michael Boehm    |                 |                | Matt Wolf       | Fabio Polidori         |
+| ---------------- | --------------- | -------------- | --------------- | ---------------------- |
+|                  | Ryan Callbeck   | Willow Palecek |                 | Gustavo Larsen Ciorlia |
+| Michael Buchanan | Ryan Hockemeyer | Wily Madsen    | Matthew Jackson |                        |
+Michael Burcham Ryan Nakagawa Wolfgang Weber Matthew T Strand Isaac ‘Will It Work’
+| Michael Corcoran | Sacha Mallais  |               | Michael Damecour  | Dansicker      |
+| ---------------- | -------------- | ------------- | ----------------- | -------------- |
+|                  |                | ROOKIE agents |                   | Joe Tweddell   |
+| Michael Dore     | Sai Hong Cheng |               | Michael Fanno     |                |
+| Michael Eichner  | Sam Kenkel     |               | Michael Pelletier | Joerg Haarmann |
+Michael Ellis Samuel Brana-Soto Aaron Belmer Michael Potter Jordan Kyle Sirven
+Michael Harper Sante Boscolo Chio Adam Barnes Michael Van Biesbrouck Joseph Gardner - Sky Crystal
+Arts Miniature and Terrain
+| Michael J Mount | Sarah Bergstrom | Andrea Magiera | Mike Daneman |     |
+| --------------- | --------------- | -------------- | ------------ | --- |
+Michael Knecht Sarah Reed Andrew McGrath  Mike Houser Joseph Propati
+Michael Lucas Scott Arens Anthony Dickey Mike Malley JP Manzana
+|                 |              | Anthony Donisi |                  | Juliano de Souza Silva |
+| --------------- | ------------ | -------------- | ---------------- | ---------------------- |
+| Michael McNally | Scott Borror |                | Morgan Westbrook | Kyle Cherry            |
+| Michael Meador  | Scott Miller | Bill Caro      | Nathan Amor      |                        |
+Michael Morris Scott Seidler Blaise Brossard Nathan Green Leigh Marritt
+Michael S. Pitcher Sean Pearson Brendan Burchell Nathan Lax Luca Petrone
+|                 |              | Brian Cwikla |                      | M Stacy |
+| --------------- | ------------ | ------------ | -------------------- | ------- |
+| Michael Schultz | Sean Pollman |              | Nathaniel Hollibaugh |         |
+Michael Zorn Sean Sicher Brian Koch Patrick Dieveney Marco Signore
+Michel Magali Sean Smith Brian Richards Patrick Petersen Mario Barbati
+|     |     | Bryan A. Watson |     | Mark Taormino |
+| --- | --- | --------------- | --- | ------------- |
+Mickey Nuttall Sebastiaan Kok Paul Schneider Massimiliano Calimera
+| Mike Gasch | Sebastian Spatzek | Byron Campbell | R. A. Ferrara |     |
+| ---------- | ----------------- | -------------- | ------------- | --- |
+Mike Gingold Shane Steely C. Brian Bucklew Rich Kirkland Matiee
+Mike Winingham Shannon Wade Charles Pearson Robert Kuster Mike Wilkie
+|                 |                 | Chris Tokashiki |               | Nati Leonardo |
+| --------------- | --------------- | --------------- | ------------- | ------------- |
+| Miles Cheverton | Shaun McMenamin |                 | Robert Skeens |               |
+Miles Matton Sheila Davis Christopher Hoganson Robert Stencel Paolo Mantoan
+Mirko Zennaro Shelby Mehl Christopher Reeley Rodolfo Mastrapasqua Paolo Palma
+| Mor Furshpan |                     | Christopher Rogers | Roger Martin | Paul          |
+| ------------ | ------------------- | ------------------ | ------------ | ------------- |
+|              | Simone Consolazione |                    |              | Peter Schnare |
+Murl Trainham Sizyakin Artem Christopher Schwarzott Ron Clark
+Nadav Abramovitz Smykalin Vladimir Christopher Stockdale Ron Davis Rodney Hussmann
+Nancy Durgin Sonia de Llanos Clayton Helme Rory Sheehan Sally & Sunny
+|                |                | Cliff Fuhrman |             | Sannop2 |
+| -------------- | -------------- | ------------- | ----------- | ------- |
+| Nancy Hutchins | Sophie Lacroix |               | Ruby Harvey |         |
+Nathan Brown Spencer Marstiller Corey Coleman Russell Miller Serena Galli
+Nathan Zacharias Spencer Olson Damon Asher Ryan Eng Silvana Albesiano
+Neal Rideout Stacy Braxton Dan Thurot Ryan Strong Silvio Torre
+Simone Pesenti Gritti
+| Neil Christiansen | Stefano Castelli | Dan Webb | Samuel Polio |     |
+| ----------------- | ---------------- | -------- | ------------ | --- |
+Ng Hon Chung Stefano Luca Brambilla Daniel Blackwell Scott Ferrier Steve B
+Nicholas Vitek Stephan Szabo Daniel Drickman  Scott Zirngible Thomas Palzer
+|              |              | Darrel Raines |             | Victor Bugg |
+| ------------ | ------------ | ------------- | ----------- | ----------- |
+| Nick Kolacia | Stephen Hill |               | Sean Brulet |             |
+Nick Stier Stephen Montgomery David Carrus Sebastien Hahn Vincent Arebalo
+| Nicola Atti | Stephen Phung | David Felton | Shan Yin | Vincent Chan |
+| ----------- | ------------- | ------------ | -------- | ------------ |
+Nicolas Macler Stephen Seefeld David Newport Shawn MacFarland vonDorffy
+|                   |                 | David Pearson |               | Wayne Pereanu |
+| ----------------- | --------------- | ------------- | ------------- | ------------- |
+| Nikiforov Nikolay | Sterling Brucks |               | Stephen Honea |               |
+Noah Caldwell Steve Benton David Villa Stephen Wandzek XanderV
+Noel Wilkinson Steve Caltagirone Donald Poynter Steve Vrooman
+Donovan Corrick
+| Olivier Prévot   | Steve Cox     |                 | Steven Howland  |     |
+| ---------------- | ------------- | --------------- | --------------- | --- |
+| Omar Luigi Ruoti | Steve Elliott | Doug Cleland    | Steven Mott     |     |
+| Pascal Roux      | Steve Gale    | Doug Law        | Steven Pulido   |     |
+| Pasquale Priolo  | Steve Hamm    | Dustin Crenshaw | Stuart Campbell |     |
+Dustin Schwartz
+| Patrick Dolan    | Steve Laubner   |                 | Timothy Schroeder |     |
+| ---------------- | --------------- | --------------- | ----------------- | --- |
+| Patrick Joynt    | Steve McEwan    | Dwayne Sherrard | Tina Quinones     |     |
+| Patrick Knightly | Steven Chandler | Eric L Wills    | Todd Hough        |     |
+| Patrick Stangier |                 | Eric Schuld     | Tony Nguyen       |     |
+Steven J Willson
+39
+
+V. 1.5
+Home Page: www.galaxy-defenders.com
+e-mail: info@gremlinproject.com
