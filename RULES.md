@@ -49,7 +49,7 @@ Dice symbols:
 | Hit    | Successful hit (attack only)                                                                                                   | ×5   | ×7  |
 | Shield | Cancels a hit (defense only)                                                                                                   | ×4   | —   |
 | Bolt   | Triggers weapon/power bolt effect (attack) or armor bolt effect (defense); applied **once** regardless of count, unless stated | ×2   | ×3  |
-| GD     | Used only for GD-Wings rolls                                                                                                   | —    | ×2  |
+| GD     | No combat effect; used for GD-Wings rank-up rolls and Search results                                                           | —    | ×2  |
 | Ammo   | Discard 1 ammo token (max 1 per hit roll); ignore for melee/auto-ammo weapons                                                  | ×1   | ×1  |
 | Jam    | Ranged weapon jams (place Jam token); unusable until unjammed                                                                  | ×1   | ×1  |
 | Alien  | Fail; agents may not re-roll it unless a power says so; aliens with re-roll may                                                | ×1   | ×1  |
@@ -115,7 +115,7 @@ Max one rank gained per mission in a campaign (no limit in standalone). Death co
 
 ## 8. Alien Tech
 
-Gained by: first alien kill per Battle phase (1 fragment, max 1/round) and Search Bolt results in designated areas (max 1/round). 4 fragments → Reinforcements delivery; 1 fragment → revive a dead agent.
+Gained by: first alien kill per Battle phase (1 fragment, max 1/round) and Search **GD** results in designated areas (max 1/round). 4 fragments → Reinforcements delivery; 1 fragment → revive a dead agent.
 
 ## 9. The Aliens
 
@@ -127,8 +127,8 @@ Active player draws a **Close Encounter card**; all matching aliens (by species/
 
 ### Signals
 - Face-down tokens (alien or human) forming the mission's signal reserve; teleport/move mostly during Events. If the reserve is empty when a teleport is needed, reshuffle the signal discard pile into it.
-- Move center-hex to center-hex per area (another hex if blocked); one signal/alien per hex; treat unlocked doors/windows as open; may pass through (not end on) figures; can't cross blocked sides. If sent toward the closest Teleport Point while already on it, it stays put.
-- **Reveal**: a signal in agent LOS is revealed immediately — top priority in any phase; check hex by hex / area by area; a revealed signal's movement ends. If a signal can choose between a revealing and a non-revealing move, it must take the revealing one. Human signal → remove it (or per mission). Alien signal → draw the top Alien card + figure.
+- Move center-hex to center-hex per area (another hex if blocked); one signal/alien per hex; treat unlocked doors/windows as open; may pass through (not end on) figures; can't cross blocked sides. If sent toward the closest Teleport Point while already on it, it stays put. With no legal walking path, a signal doesn't move.
+- **Reveal**: a signal in agent LOS is revealed immediately — top priority in any phase; check after every single movement step (hex by hex for agents, area by area for signals); a revealed signal's movement ends. If a signal can choose between a revealing and a non-revealing move, it must take the revealing one. Human signal → remove it (or per mission). Alien signal → draw the top Alien card + figure.
 
 ### Teleport
 Roll 1 BLUE die to pick the Teleport Point matching the symbol (re-roll until a present symbol comes up; if a face shows both, the **Bolt** symbol takes precedence over the **starburst**); place the signal on the TP or nearest free hex (Alpha decides ties). Teleporting an *alien* directly: fetch its exact card (species + rank) from the alien deck instead of a signal.
