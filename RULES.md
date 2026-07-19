@@ -102,6 +102,7 @@ Dice symbols:
 - **Close Fight** (default OFF): an engaged agent may only attack aliens it is engaged with.
 - **Permanent Death** (default OFF): dead agents rejoin the campaign at Copper rank (keeping researched weapons).
 - **Rank-based Defense** (Storybook §5.4): limits the defend roll for quicker combat.
+- **Official difficulty tips** (FAQ Tips): to make gameplay faster/easier, remove one Close Encounter #1 card from each Core Set mission (experienced players play as written). If Mission 5 proves too hard or long, play the short version from the site's Utility/Missions section.
 
 ## 7. GD-Wings (Experience)
 
@@ -168,15 +169,15 @@ All rules in this document that were changed, added, or corrected based on offic
 | §   | Rule                                                                                       | Source                       | Type                                  |
 | --- | ------------------------------------------------------------------------------------------ | ---------------------------- | ------------------------------------- |
 | §1  | Tokens (Flame, Signal, T.P., …) never block LOS                                            | FAQ                          | Clarification                         |
-| §1  | No diagonal LOS past a blocking hex                                                        | FAQ                          | Clarification                         |
+| §1  | No diagonal LOS past a blocking hex/hex side                                               | FAQ                        | Clarification                         |
 | §3  | Armor Bolt effects resolve before wounds are inflicted                                     | FAQ                          | Clarification                         |
 | §3  | GD symbol also used for Search (dice table footnote)                                       | Rulebook p.20/p.28 vs p.17   | Rulebook internal inconsistency       |
 | §4  | HP **and ammo** capped at printed/starting maximum                                         | FAQ                          | Clarification                         |
 | §5  | Limited-ammo weapons replaceable by any; infinite-ammo only by infinite-ammo               | FAQ (Tricks & Tips)          | Official restriction (house-ruleable) |
 | §5  | Armoury tokens: discard on move-over → random Improved/Alien weapon at next Reinforcements | FAQ (color mapping inferred) | Rule missing from rulebook            |
 | §5  | Drones cannot be Engaged; disengage without Evade test                                     | FAQ                          | Correction                            |
-| §5  | Sentry-Gun/GD-209 attack die is RED, not green                                             | Errata (rulebook p.26/27)    | Image correction                      |
-| §9  | Alien/signal with no legal walking path stays put                                          | FAQ                          | Confirmation of rulebook rule         |
+| §5  | Sentry-Gun/GD-209 attack die is RED, not green                                             | Errata (rulebook p.26/27)    | Image correction                      || §6  | Remove one Close Encounter #1 card per Core Set mission for easier/faster play             | FAQ (Tricks & Tips)        | Official difficulty variant           |
+| §6  | Short version of Mission 5 available (site Utility/Missions)                               | FAQ (Tricks & Tips)        | Official difficulty variant           || §9  | Alien/signal with no legal walking path stays put                                          | FAQ                          | Confirmation of rulebook rule         |
 | §11 | "Attack twice" AI: second attack vs same target, else same-distance target                 | FAQ                          | Clarification                         |
 | §11 | Xeno-Grey: not activatable by another Xeno-Grey; immune to "Save The Master"               | FAQ                          | Clarification                         |
 | §11 | Xeno-Beast rage: swap to Enraged card at full health                                       | FAQ                          | Clarification                         |
