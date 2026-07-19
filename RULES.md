@@ -49,10 +49,12 @@ Dice symbols:
 | Hit    | Successful hit (attack only)                                                                                                   | ×5   | ×7  |
 | Shield | Cancels a hit (defense only)                                                                                                   | ×4   | —   |
 | Bolt   | Triggers weapon/power bolt effect (attack) or armor bolt effect (defense); applied **once** regardless of count, unless stated | ×2   | ×3  |
-| GD     | No combat effect; used for GD-Wings rank-up rolls and Search results                                                           | —    | ×2  |
+| GD     | No combat effect; used for GD-Wings rank-up rolls and Search results*                                                          | —    | ×2  |
 | Ammo   | Discard 1 ammo token (max 1 per hit roll); ignore for melee/auto-ammo weapons                                                  | ×1   | ×1  |
 | Jam    | Ranged weapon jams (place Jam token); unusable until unjammed                                                                  | ×1   | ×1  |
 | Alien  | Fail; agents may not re-roll it unless a power says so; aliens with re-roll may                                                | ×1   | ×1  |
+
+\* The rulebook's own symbol table (p.17) mentions only the GD-Wings use and omits Search — but the Search rules (p.20) and Alien Tech section (p.28) clearly key device/fragment finds off the GD symbol. Don't "fix" this back to match p.17.
 
 - No die may be re-rolled more than once, ever.
 - Never target an empty hex/area. No friendly fire (unless optional rule): agents can't target/harm agents except with healing weapons.
