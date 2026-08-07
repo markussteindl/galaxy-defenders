@@ -1,0 +1,2287 @@
+
+2
+
+1 INTRODUCTION
+2 mission setup
+2.1 briefing
+2.2 setup
+This manual gives detailed instructions how to set up the missions Galaxy Defenders face in their 
+desperate attempt to avert the destruction of the Human race, as envisioned by the Xenos.
+Also included are the rules needed for Campaign mode. In this mode, every action modifies the future 
+development of the campaign. We strongly suggest playing the game this way, to better understand the 
+storyline of Galaxy Defenders.
+This section describes agent rank status, their equipment at the beginning of the mission, and their 
+objectives. To keep the right mood, we suggest reading it just before the start of the mission.
+This section contains all of the information necessary to setup the mission:
+GD STARTING AREA:
+Represents the deployment AreA for the agent figures.
+SIGNAL RESERVE:
+Describes how to create the SignAl reServe. This is usually done by adding and shuffling Alien and HumAn SignAl 
+tokens. Sometimes there are also specific rules for placing SignAlS on the battlefield.
+The          icon indicates the relative SignAlS must be kept aside until brought into play due to a SpeciAl 
+event effect with the flipped icon  during the mission.
+The SignAlS placed on the map at the start of the mission are drawn from the SignAl reverSe.
+This section explains the structure of a GD mission and how to use the information to setup the game.
+FOR STANDALONE MISSIONS: 
+Starting gD-WingS rAnk, if 
+the mission is played as 
+a stand-alone.
+DURING THE CAMPAIGN:
+Each agent starts with 
+the rank from his last 
+mission.
+The number of 
+devices each 
+agent receives 
+at the start 
+of the mission. 
+During setup, 
+the players may 
+cooperate to 
+select the most 
+useful devices, 
+based on the 
+mission briefing.
+The selected 
+devices may be 
+class related or 
+generic.
+Type and quantity 
+of Improved and AlIen 
+weapons assigned 
+at the start of a 
+mission.
+FOR STANDALONE 
+MISSIONS:
+These weapons must 
+be randomized 
+between generic and 
+the classes in 
+play.
+DURING THE 
+CAMPAIGN:
+The maximum number 
+of Improved and AlIen 
+weapons assigned 
+at the start 
+of a mission, 
+selected from those 
+available in the 
+Headquarter.
+The minimum and 
+maximum number of 
+agents who can play 
+the mission.
+Estimated 
+time 
+needed to 
+complete 
+the 
+mission.
+devices
+1 per agent
+gd-wings
+For Standalone mission:
+copper
+weapons
+0 IMPROVED Weapons
+0 ALIEN Weapons 45-60 m
+3
+TOKENS IN PLAY:
+Indicates which tokens must be placed on the battlefield at the start of the mission.
+SPECIAL TOKENS:
+Lists the required special tokens. The          icon indicates the relative token must be kept aside until 
+brought into play due to a SpeciAl event effect with the flipped icon  during the mission.
+OVERLAYS:
+Indicates which overlays must be placed on the maps at the start of the mission.
+ALIEN CARDS and MINIATURES IN PLAY:
+Indicates which alien figures must be placed on the map at the start of the mission after the first AlpHA 
+Agent promotion. Their Alien cards must be identified and assigned to the agents at the start of the mission 
+according to the “Alien Assignment” rules (see section 8.8, page 35 of the Rulebook).
+ALIEN CARDS and MINIATURES:
+Describes the Alien cards and figures used in the mission [not including those already on the map at the 
+start of the mission] and how to create the Alien deck. This is usually done by adding all the Alien cards 
+indicated and shuffling them to create the deck. The relative figure for each card will be placed on 
+the battlefield when the appropriate card is drawn.
+The          icon indicates the relative Alien card and figure must be kept aside until brought into play 
+due to a SpeciAl event effect with the flipped icon  during the mission. When this happens, place the 
+alien figure as indicated and assign the Alien card as usual [unless the scenario indicates differently].
+Keep in mind, these cards are not a part of the initial Alien deck at the start of the mission. Once in 
+play, the cards become part of the deck, so they may be reshuffled into the deck when it runs out of 
+cards.
+CLOSE ENCOUNTER DECK:
+Describes how to create the cloSe encounter deck. This is usually done by adding all the cloSe encounter cards 
+indicated and shuffling them to create the deck.
+The          icon indicates the relative cloSe encounter card must be kept aside. It is added to the deck when 
+a SpeciAl event effect with the flipped icon  is revealed during the mission.
+Keep in mind, these cards are not a part of the initial cloSe encounter deck at the start of the mission. 
+Once in play, the cards become part of the deck, so they may be reshuffled into the deck when it runs 
+out of cards.
+EVENTS DECK:
+Describes how to create the eventS deck. The box contains the list of cards comprising the eventS deck and 
+instructions for building the deck. This is usually done by shuffling or adding cards to several separate 
+stacks prior to creating the final one, so that the SpeciAl eventS will be drawn in the appropriate round.
+The  icon indicates the left group of cards must be placed on top of the right group of cards.
+This example shows the Mission 1 events deck setup:
+ Create small stack (1) shuffling eventS: T, J and L
+ Create small stack (2) shuffling eventS: A, G, M and K
+ Create small stack (3) shuffling eventS: N, F, P, R and S
+ Place stack 1 on top of stack 2
+ Place the new stack [1+2] on top of stack 3
+ The eventS deck [1+2+3] is now completed
+ SpeciAl event A will appear between the 4th and the 7th event
+events deck
+[SPECIAL EVENT A will appear between the 4th and the 7th EVENT].
+shuffle
+shuffle
+ shuffle
+4
+2.4 Objectives
+2.5 Special Event Cards Effects
+2.6 Debriefing
+This section lists special cards effects from the eventS deck. The column to read and apply may depend 
+upon the results of previous missions.
+When an effect requires a teleport, place or move a SignAl/Alien to a particular Hex/teleport point, if this 
+is not possible because it is already occupied, then teleport, place, or move the SignAl/Alien to an 
+adjacent Hex [decided by the AlpHA Agent].
+The following table describes a typical mission. In this case, the effects of special event “A” vary, 
+based on the results of the previous mission. There may be several different conditions that alter the 
+effects of SpeciAl event cards.
+This section contains the ending to read, depending on the agents’ final mission results.
+Read this chapter only when the mission is over.
+As the last step of the StrAtegy phase, players must check if the mission victory/defeat conditions apply. 
+The result is based on the first matching condition, starting from the top, in the “Objectives” table 
+of the mission.
+This section lists:
+ The maximum number of eventS/rounds the mission lasts (unless it is accomplished before).
+ The objectives used to determine if the mission is a success, a partial success, or a failure.
+ In the campaign game, the next mission, based on the current mission outcome.
+We suggest not reading this section, until the relevant card is drawn during the mission’s event 
+phase, to avoid spoiling the mood of the game.
+card list
+EFFECTS: 1, 2, 4...EFFECTS
+SpeciAl event A
+Read and apply this statement, if 
+your previous mission was PARTIALLY 
+ACCOMPLISHED.
+Apply this column, if you are 
+playing a standalone mission.
+Read and apply this statement, 
+if your previous mission was 
+ACCOMPLISHED.
+2.3 Special Mission Rules
+This section contains any special rules applying to the current mission ONLY. 
+These rules supersede the normal game rules and strictly concern the mission accomplishment.
+5
+EFFECTS: 1, 3, 5...
+Most of the missions require the placement on the map of several special tokens:
+flame
+waypoints
+landmine
+ALIEN NPC
+BLUE ARMORY
+Red ARMORY
+Any agent moving across this token immediately suffers 1 WounD.
+WAypointS are used to indicate key HexeS, for movement or other special effects 
+defined in the mission special rules or by the SpeciAl event cards.
+The effect of the lAnDmine is defined in the mission special rules. It is 
+usually activated by an Alien who enters its AreA.
+This token represents special Alien characters/items during the mission.
+3 Special tokens
+6
+Once any agent reaches this token, discard it and triggers a new improveD WeApon.  
+If all improveD WeAponS has been researched the token triggers a new Alien WeApon. 
+The weapon is sent during reinforcementS in the next StrAtegy phase, following the 
+special mission rules, if any, or the standard reinforcement rules
+[the Campaign additional rules on reinforcements are detailed in section 5.1, 
+page 8].
+Once any agent reaches this token, discards it and triggers a new Alien WeApon. 
+If all Alien WeAponS has been researched simply ignore the effect. The weapon 
+is sent during reinforcementS in the next StrAtegy phase, following the special 
+mission rules, if any, or the standard reinforcement rules 
+[the Campaign additional rules on reinforcements are detailed in section 5.1, 
+page 8].
+sunny / Sally
+Stationary weapons: they can be used as a weapon [with a 180° field of view, measured from the 
+barrels Hex] by any agent in the seat Hex [NOT the barrels Hex] using his combAt.
+The attack is performed with the SAlly/Sunny stats following standard combat rules.
+4 Playing Standalone Missions
+5 Playing GD Campaign
+If you want to play [or replay!] a mission in stand-alone mode, each player selects one or more agents 
+and equips them as listed in the relative mission’s section. Use the indicated agent’s Rank to determine 
+their current skills, tactics, and level.
+Follow the setup as described. When a 
+SpeciAl event card is drawn, its effects always follow the leftmost 
+column of the “Special Event Cards Effects” section. Finally, decide if you want to use any optional 
+rules, and then begin.
+Campaign mode in Galaxy Defenders allows you to enjoy the full game experience. Players choose their 
+equipment and their agents, specializing as they gain ranks, but they will also grieve the possible death 
+of their agent. A failed mission in a campaign does not always spell doom, but it will have consequences 
+in the following missions, potentially requiring agents to take completely different missions.
+During a campaign, any weapon and equipment researched in the GD labs becomes available for the following 
+missions. They can also be reassigned when the mission allows it.
+Agents gaining 
+gD-WingS in a mission must pay attention to their skills and tactics choices, because once 
+chosen, there is no turning back.
+Between missions, after the briefing, any player may choose a different agent, if desired. The newly 
+chosen agent enters the field with any weapon available in the HeADquArter [respecting the mission weapon 
+limits] and the rank from his last mission.
+If, during a mission, the agents gain the four Alien tecH fragments and ask for a device in reinforcementS of 
+the StrAtegy phase, the device is chosen by player agreement. If an agreement cannot be reached, then the 
+AlpHA Agent selects the device.
+To keep track of rank advancements, acquired weapons, and Defender Points [see section 7, page 9] gained 
+in a campaign, you can use the Campaign Sheet in the utility section of our website: 
+http://www.galaxy-defenders.com
+7
+5.1 Calling reinforcements
+5.2 Gain GD-Wings in a Campaign
+5.3 agent’s death
+5.4 Rank based Defense [Optional Rule, Default = OFf]
+6 LEVEL OF DIFFICULTY
+In a campaign, calling reinforcements by spending the four Alien tecH tokens during reinforcementS in the 
+StrAtegy phase offers different options. The AlpHA Agent can request:
+During a campaign, each agent may gain a single rank per mission. The gained rank will be carried over 
+to the next mission, according to the section “GD-Wings” [see 7.8, page 27 of the rulebook]. Furthermore, 
+during a campaign, if an agent fails all rolls to gain a rank during a mission, he is able to roll one 
+last time at the end of the mission.
+If a Mission ends with 
+inoperAtive players, their dead agents may return to the campaign and starting 
+their next mission with their current rank [decreased during the previous mission due to the death]. 
+Any researched/owned weapon can be used again by these agents. 
+This option makes each fight more deadly, dynamic, and spectacular by limiting the defensive power of 
+any agent and alien, based on their color rank. In game terms, during the defense roll, the defender 
+rolls 1 Blue die for each successful 
+  result rolled by the attacker, but limits the number of dice 
+based on the following color-rank figure table:
+Each successful 
+  result rolled cancels one 
+. 
+  results and EnErgy ShiEldS works as usual. 
+Each remaining 
+  result deals one wound to the 
+defender’s health points. This means, normally, 
+no one can roll more than 5   or obtain more 
+than five 
+  icons by rolling dice, although 
+  
+effects, additional powers, and items can still 
+be used to raise the number of total shields. 
+Galaxy Defenders may be played with different “settings”; the desired level of difficulty may be reached 
+by switching optional rules OFF/ON.
+These options can be summarized in four levels of difficulty:
+If a device is chosen, the agent can pick any one device from those available in the 
+WAreHouSe [i.e.: the 
+game box]. If a new weapon is chosen, all improveD WeAponS are randomized [except those already in use by 
+the agents or already present in the HeADquArter], regardless of the number and class of agents in play. 
+If the agents do not immediately accept the new weapon, then it is kept in HeADquArter and reassigned to 
+the agents.
+Note: When there are no more improveD WeAponS to randomize, Alien WeAponS can be obtained instead.
+Any weapon delivered by reinforcementS is provided with full ammo.
+Use the same random procedure when the mission requires delivery of a new Alien WeApon.
+One selected generic Device
+One new improveD WeApon
+8
+Aliens Agents
+Green = Up to 3 
+Blue = Up to 4 
+Red/Purple = Up to 5 
+Gray Drones = Up to 3  
+Yellow NPCs = Up to 4 
+Gray Agents = Up to 5 
+EASY NORMAL VERY HARDHARD
+CLOSE FIGHT
+RANK BASED DEFENSE
+FRIENDLY FIRE
+OFFON
+OFF
+OFF
+OFF OFF
+OFF
+ON ON
+ONON
+ON
+ON ON
+ONHUMAN VIEW
+CLOSE FIGHT
+RANK BASED DEFENSE
+FRIENDLY FIRE
+HUMAN VIEW
+CLOSE FIGHT
+RANK BASED DEFENSE
+FRIENDLY FIRE
+HUMAN VIEW
+CLOSE FIGHT
+RANK BASED DEFENSE
+FRIENDLY FIRE
+HUMAN VIEW
+PERMANENT DEATH OFF PERMANENT DEATH OFF
+ON
+PERMANENT DEATH PERMANENT DEATH ON
+ON
+7 Defenders Point System [DPS] – Optional
+8 MIssions
+If you want to keep track of your achievements during a mission or a campaign, you may use the Defender 
+Point System [DPS]. Each mission is related to a table with point values for each achievement. Simply 
+sum all points [positive/negative] and the total shows how well your team performed.
+The DPS sheet is available in the utility section of our website:
+http://www.galaxy-defenders.com/mission.php
+This section includes the 12 missions of the GD Campaign.
+New mission will be published through the official GD Website:
+http://www.galaxy-defenders.com/mission.php
+New downloadable missions will be released in the future and most importantly, the best-customized 
+missions created by players from around the World will be published there.
+mission id mission name mission report
+partiallyaccomplished
+partiallyaccomplished
+partiallyaccomplished
+partiallyaccomplished
+partiallyaccomplished
+partiallyaccomplished
+partiallyaccomplished
+partiallyaccomplished
+partiallyaccomplished
+partiallyaccomplished
+partiallyaccomplished
+partiallyaccomplished
+failed
+failed
+failed
+failed
+failed
+failed
+failed
+failed
+failed
+failed
+failed
+failed
+ACComplished
+ACComplished
+ACComplished
+ACComplished
+ACComplished
+ACComplished
+ACComplished
+ACComplished
+ACComplished
+ACComplished
+ACComplished
+ACComplished
+dps
+9
+YOU CAN COPY THIS PAGE FOR PERSONAL USE.
+tired of fighting aliens ?
+have a break!
+challenge them to a
+not-so-friendly game of
+galaxy ball
+the sport where you can win by 
+scoring touchdowns... or 
+crushing your opponents 
+on the field!
+to DoWnloAD tHiS Free print-AnD-plAy expAnSion for gAlAxy DefenDerS viSit:
+http://www.galaxy-defenders.com/gb-cards.php
+
+briefing
+devices
+1 per agent
+gd-wings
+For Standalone mission:
+copper
+weapons
+0 IMPROVED Weapons
+0 ALIEN Weapons 45-60 m
+The agents are sent in the desert to investigate sightings of strange creatures. Once there, the agents are 
+dazzled by strange unnatural lights that gradually change shape into alien figures previously only seen in 
+Sci-fi movies...
+“Alpha Agent to Galaxy Defender HQ, we have a problem! - Over”
+“We are receiving the images, Alpha Agent. The Xenos are using teleporting devices... destroy them at all 
+costs! We are sending you reinforcements.” 
+“AGENTS, your mission is to destroy the teleport points and come back alive! Over and out.”
+Mission 1 – Close Encounters
+10
+setup
+agent
+starting
+area
+signal reserve
+x7
+ x1
+Shuffle all SignAlS.
+Randomly take two SignAlS and place 
+them as indicated.
+tokens in play
+x2
+ 
+x1
+ x1
+x1
+ x1
+ x1
+special tokens
+x4
+Overlays
+x2
+objectives
+The mission ends in the StrAtegy phase of the 11th round.
+Mission Status Mission report nextmission
+All t.p.S are destroyed. Mission Accomplished 2-3
+2
+1Mission Failed
+Mission Partially
+AccomplishedAt least two t.p.S are destroyed at the end of the mission.
+Half of the agents [rounded up] are dead OR less than two t.p.S 
+are destroyed at the end of the mission.
+x1
+ x1
+alien cards and miniatures IN PLAY
+CLOSE ENCOUNTER deck
+x1 x1 x2 x1 x1 x1x2 x2 x2 x1
+shuffle
+events deck
+[SPECIAL EVENT A will appear between the 4th and the 7th EVENT].
+shuffle
+shuffle
+ shuffle
+alien cards and miniatures
+x1x1x2 x2 x1
+shuffle
+special mission rules
+Mission Special Actions
+DESTROY:
+To destroy a teleport point [T.P.], an agent, not engAgeD in combat, must be adjacent to the T.P., and spend 
+his Action. Once done, place one flAme 
+   token over the T.P., it will be destroyed in the next 
+StrAtegy phase. Any destroyed T.P. must be removed from the map [leaving the flAme token].
+11
+debriefing
+Mission Accomplished
+“This is the Galaxy Defender HQ speaking. Good job, agents. Your intense and difficult training was useful 
+to stop this first assault. We are now intercepting the escaped signals. They are headed to the Area 51. 
+We are contacting local security, who can probably handle these few Xenos. Return to GD HQ, while we 
+decide how to proceed.”
+Mission Partially Accomplished
+“This is the Galaxy Defender HQ speaking. Well done, agents. Nevertheless, we have only partially stopped 
+this first assault. We are now intercepting the remaining signals. They are headed to Area 51. We are 
+contacting local security, but they can never survive attack on their own. We are asking a lot, but the 
+planet still needs you...“
+Mission Failed
+“This is the Galaxy Defender HQ speaking. RETREAT. I repeat, RETREAT. They are everywhere! Despite our 
+efforts, we cannot stop them. The end of all human life is coming... The Mayan prophecy was right! It was 
+just late...”
+special event cards effects
+“This is Galaxy Defender HQ speaking. All signals are targeted and we are ready to blow them 
+up... in 3-2-1. GO! Danger.., I repeat, danger. The energy readings of the teleporters is 
+increasing, we recommend extreme caution!!!”
+EFFECTS:
+ Destroy all SignAlS in play.
+ Place the Green xeno-AlpHA  on the furthest t.p. from the agents and assign its Alien card 
+to the AlpHA Agent.
+ Put the cloSe encounter #8  card on top of the cloSe encounter deck.
+Read this chapter only when the related SPECIAL EVENT CARD is drawn.
+12
+briefing
+gd-wings
+For Standalone mission:
+bronze
+weapons
+60-90 m
+Galaxy Defenders HQ sends the agents to assist Area 51 with security. Entering the site, the agents detect 
+fighting in the distance, but the scanners signals are not clear and there is no way to tell the aliens from 
+humans. 
+“Alpha Agent to HQ, we have problems reading alien signals. We are picking up a large number of targets in 
+the area, but we have either come too late and the scientists are all dead or there are no aliens nearby. Do 
+you copy, HQ?”
+“HQ speaking. We are receiving communications from the survivors – they are asking for an immediate rescue. 
+Maintain your mission. We are dealing with the technical malfunction.”
+“AGENTS, your mission is to save the scientists.”
+Mission 2 – new hopeS
+1 IMPROVED Weapons
+0 ALIEN Weapons 
+devices
+1 per agent
+13
+setup
+agent
+starting
+area
+signal reserve
+x7
+ x5
+ x1
+Take two HumAn SignAlS and two Alien SignAlS, 
+shuffle them and place two of these SignAlS 
+close to each T.P. of the S2 map as indicated.
+Repeat the same procedure for the C1 map.
+Shuffle all the remaining SignAlS.
+tokens in play
+x8
+ 
+x2
+ x1
+x1
+ x1
+ x1
+Overlays
+x3
+ x2
+  
+x1
+x1
+alien cards and miniatures IN PLAY
+events deck
+[SPECIAL EVENT B will appear between the 3th and the 5th EVENT].
+shuffle
+ shuffle
+shuffle
+ shuffle
+alien cards and miniatures
+x1 x1 x2x1
+shuffle
+special mission rules
+HUMAN SIGNALs:
+Revealed HumAn SignAlS represents the scientists. Once revealed, they remain in play and continue to move 
+together with unrevealed SignAlS during the event phase.
+Each scientist has 2 HeAltH pointS and defends as normal. If a scientist dies, his SignAl is removed from the 
+map and discarded in the WAreHouSe instead of the SignAl DiScArD pile. 
+Aliens may target revealed HumAn SignAlS as if they are agents and consider a HumAn SignAl the most wounded 
+and weakest agent.
+RESCUE:
+To save a scientist, an agent not engAgeD in combat must be adjacent to a HumAn SignAl, and use his Action. 
+This will teleport the scientist away. Remove the HumAn SignAl from play [but return it to the WAreHouSe, not 
+to the SignAl DiScArD pile].
+SEARCH:
+Agents may perform the 
+SeArcH Action in any building room in C1 map.
+x1
+ x1
+ x1
+CLOSE ENCOUNTER deck
+shuffle
+x1 x1 x1 x1x1x2 x1 x1 x1x1
+MISSION SPECIAL ACTIONS
+14
+debriefing
+Mission Accomplished
+“Galaxy Defender HQ speaking. Return to base immediately with all the rescued scientists. Congratulations 
+on the rescue. The people you saved will help us in our fight against this alien menace.”
+Mission Failed
+“Galaxy Defender HQ speaking. We have tracked down the last survivor’s signal. Leave the area at once. 
+Return to base. There is no one left alive... The aliens control the base.”
+objectives
+The mission ends in the StrAtegy phase of the 11th round.
+Mission Status Mission report nextmission
+Three or more scientists saved AND at least half of the agents 
+[rounded down] are still alive at the end of the mission. Mission Accomplished 3
+4Mission FailedAt least half of the agents [rounded up] are dead OR fewer than 
+three scientists have been saved at the end of the mission.
+special event cards effects
+Read this if MISSION 1 was PARTIALLY 
+ACCOMPLISHED.
+“Galaxy Defenders HQ speaking ... We found 
+the malfunction is caused by alien jamming 
+signals. We cannot – repeat, cannot – 
+counter their jammers. Proceed with visual 
+identification. Out.”
+EFFECTS:
+ Take all SignAlS in play, add one Alien SignAl 
+from the SignAl reServe, if any, and shuffle all 
+of them.
+ Take half of the shuffled SignAlS [rounded 
+down] and place them on the HexeS adjacent to 
+each t.p. in the C1 map.
+ Place the remaining SignAlS on the HexeS 
+adjacent to each t.p. in the S1 map.
+Read this if mission 1 was ACCOMPLISHED.
+“Galaxy Defenders HQ speaking ... We found 
+the malfunction is caused by alien jamming 
+signals. We cannot – repeat, cannot – 
+counter their jammers. Proceed with visual 
+identification. Out.”
+EFFECTS:
+ Take all SignAlS in play, then add the HumAn 
+SignAl  and shuffle all of them.
+ Take half of the shuffled SignAlS [rounded 
+down] and place them on the HexeS adjacent to 
+each t.p. in the C1 map.
+ Place the remaining SignAlS on the HexeS 
+adjacent to each t.p. in the S1 map.
+Read this chapter only when the related SPECIAL EVENT CARD is drawn
+15
+briefing
+devices
+2 per agent
+gd-wings
+For Standalone mission:
+bronze
+weapons
+2 IMPROVED Weapons
+0 ALIEN Weapons 60-90 m
+The agents are back at Galaxy Defenders HQ, where the rescued scientists wait to thank them for saving their 
+lives.
+“Agents, the scientists you just rescued are here to report about a very urgent matter.”
+“Welcome back Agents! Two years ago, an alien starship fell on our planet. We have studied it and deciphered 
+some of the alien tech to help you in this conflict. Luckily at the time, the GD agency decided not to keep 
+the ship in the Area 51... So we may still attempt to recover the technology, but we need your help. We have 
+seen you in action – you are the men to accomplish this mission!” 
+“The pilots already have the coordinates for the secret base, you’ll be out and running in no time…”
+“AGENTS, your mission is to search and recover the Alien technology hidden inside the buildings.”
+Mission 3 – star tech
+16
+setup
+agent
+starting
+area
+signal reserve
+x7
+ x1
+Shuffle all SignAlS.
+tokens in play
+ 
+x2
+ x1
+ x1
+ x1
+Overlays
+x1
+ x1
+alien cards and miniatures IN PLAY
+CLOSE ENCOUNTER deck
+events deck
+[SPECIAL EVENT C will appear between the 4th and the 6th EVENT. SPECIAL EVENT D will appear between the 7th and 9th EVENT]
+shuffle
+shuffle
+shuffle
+ shuffle
+alien cards and miniatures
+x1 x1 x2 x1 x1x1
+special mission rules
+ALIEN TECH:
+Alien tecH fragments are not gained as usual in this mission. In fact, it is impossible to obtain fragments 
+by killing aliens. The only way to obtain fragments is to perform the SeArcH Action.
+SEARCH:
+An agent, not engAgeD in combat, may spend his Action to attempt a SeArcH for Alien tecH fragments inside the 
+rooms of any building on the battlefield. When performed, roll 1  . If a  is rolled, collect an Alien 
+tecH fragment. Any other die result means nothing happens. It is not possible to obtain more than one Alien 
+tecH fragment per room regardless of the number of searching agents.
+Each agent may keep searching in a given room as long as a fragment of Alien tecH has not been found. For 
+each attempt after the first, the agent may add 1  to the SeArcH roll, up to two bonus dice [maximum 
+of 3  rolled].
+For instance, if Agent Mercury searches the desert tent in D2 map on the first turn, she rolls 1  and 
+is only successful on a roll of  ; if she fails, the next turn she rolls 2  , still needing one  
+result to succeed.
+x1
+ x1
+ x1
+shuffle
+x1 x1 x1 x1x1x1 x1 x2 x1x1
+Mission Special Actions
+shuffle
+17
+debriefing
+Mission Accomplished
+“GD HQ, Alpha Agent speaking. We request immediate evac. We have found what we were looking for. The alien 
+mech seems impervious to our weaponry. Only alien tech can damage it. Over.” 
+“HQ speaking, evac on the way. Immediate debrief as soon as you’re back. We must understand how to proceed. 
+Good work, agents.”
+Mission Failed
+“GD HQ, Alpha agent speaking. We request immediate evac. We have only found part of what we were looking 
+for, but we cannot stay any longer. Aliens charging us en masse and the alien mech is impervious to our 
+weapons. It can only be damaged by alien tech! Do you copy, HQ?” 
+“HQ speaking, evac on its way. Immediate debrief as soon as you’re back. We better hope the scientists 
+can help after this mission failure.”
+objectives
+The mission ends in the StrAtegy phase of the 13th round.
+Mission Status Mission report nextmission
+Four Alien tecH fragments have been found AND at least half of the 
+agents [rounded down] are alive. Mission Accomplished 5
+5Mission FailedAt least half of the agents [rounded up] are dead OR less than 
+four Alien tecH fragments were not found at end of mission.
+special event cards effects
+A strange metallic noise resonates in the air and a robotic creature appears, teleported with 
+one of the alien commanders. “GD HQ, Alpha Agent speaking. We have detected a hostile creature, 
+never seen before. Waiting for info on how to engage. Over.” 
+“HQ here. Scanning... The creature is not organic; it is made from an unknown material. We don’t 
+know – repeat WE DON’T KNOW - if your weapons can even damage it!”
+EFFECTS:
+ Place the Blue xeno-AlpHA  on t.p. 
+ .
+ Place the Green nexuS  adjacent to the Blue xeno-AlpHA.
+“Alpha Agent, HQ speaking. The scientists are telling us they can craft a new toy for you in no 
+time, if you’ve already recovered any alien tech; otherwise, you’re stuck with home products!”
+EFFECTS:
+ During reinforcementS in the next StrAtegy phase, the AlpHA Agent may select a new weapon from the 
+WAreHouSe [the game box]:
+IF at least three Alien tecH fragments have been found, then he may select an AlIen WeApon. 
+Otherwise, he must select an Improved WeApon. The weapon obtained may be directly transferred to 
+any one agent on the map with the agreement with the AlpHA Agent.
+Read this chapter only when the related SPECIAL EVENT CARD is drawn
+18
+briefing
+devices
+2 per agent
+gd-wings
+For Standalone mission:
+bronze
+weapons
+2 IMPROVED Weapons
+0 ALIEN Weapons 60-90 m
+Upon returning to HQ, the agents are debriefed by the few surviving scientists. As the agents enter the 
+briefing room, one of the scientists starts talking. “We appreciate your efforts, but there are few of us left 
+and the enemy has recovered the alien tech we were analyzing.”
+One of the Agency commanders continues, “All is not lost. We have found the alien outpost.”
+“AGENTS, your mission is to storm the outpost and take back the stolen tech by defeating and looting the Xeno 
+Alpha and Beta corpses.”
+Mission 4 – ALIeN NATION
+19
+setup
+agent
+starting
+area
+signal reserve
+x7
+ x1
+Shuffle all SignAlS.
+Randomly take three SignAlS and place 
+them as indicated.
+tokens in play
+x3
+ x1
+ x1
+ x1
+special tokens
+x4
+Overlays
+x2
+ x3
+x1
+ x1
+x1
+ x2
+special mission rules
+REFRESH Phase:
+The following steps must be performed in each refreSH phase:
+Remove all killed xeno-AlpHA or xeno-betA aliens without a WAypoint token over them and discard their Alien 
+cards into the discard pile. 
+Discard all 
+WAypoint tokens on the battlefield. They can be reused in the next round.
+ALIEN TECH:
+Alien tecH fragments are not gained as usual in this mission. In fact, it is impossible to obtain fragments 
+by searching or killing aliens. The only way to obtain fragments is to perform the mission special action 
+loot Alien tecH.
+XENO-ALPHA & XENO-BETA:
+Each time an agent kills a xeno-AlpHA or xeno-betA alien, do not remove its corresponding figure [and Alien 
+card] from the battlefield. Instead, place it on its side with a WAypoint  token over it. If there 
+are no more WAypoint tokens left, then immediately remove the alien figure and discard its card as usual.
+Killed aliens on the battlefield cannot be activated by cloSe encounter cards and no longer engage in combat 
+when adjacent to an agent.
+CLOSE ENCOUNTER deck
+x1x1 x1 x1 x1x1 x2 x2 x1x1
+MISSION SPECIAL ACTIONS
+alien cards and
+miniatures IN PLAY
+x1
+ x1 x1
+ x1
+events deck
+[SPECIAL EVENT C will appear between the 4th and the 6th EVENT. SPECIAL 
+EVENT D will appear between the 7th and 9th EVENT]
+shuffle
+shuffle
+ shuffle
+ shuffle
+shuffle
+alien cards and
+miniatures
+x1x2 x1 x1x1
+shuffle
+shuffle
+LOOT ALIEN TECH:
+An agent, not engAgeD in combat, adjacent to a killed xeno-AlpHA or xeno-betA, can spend his Action to attempt 
+to loot Alien tecH. Roll 1 . If a  is rolled, he collects one Alien tecH fragment, then the killed alien 
+figure and its Alien card are immediately discarded as usual. Any other die result means nothing happens. 
+Other agents may attempt to loot Alien tecH using their Action during their turn. 
+20
+debriefing
+Mission Accomplished
+“GD HQ, Alpha Agent speaking. Get us out of here. We’ve found what we were looking for and the aliens are 
+becoming annoying. Do you copy?” 
+“HQ speaking, Alpha Agent. Roger. Evacuation ordered. You’ll be out as soon as possible. Debrief upon 
+returning. Good work, Agents!”
+Mission Failed
+“GD HQ, Alpha Agent speaking. Get us out of here. We’ve only found part of what we came for, but we cannot 
+stand our ground anymore. Aliens are massing their forces. Do you copy?” 
+“HQ speaking, Alpha Agent. Roger. Evacuation ordered. You’ll be out as soon as possible. Debrief upon 
+returning. Hopefully, the scientists here can help even with this failure.”
+objectives
+The mission ends in the StrAtegy phase of the 15th round.
+Mission Status Mission report nextmission
+Four Alien tecH fragments have been found AND at least half of the 
+agents [rounded down] are alive. Mission Accomplished 5
+5Mission FailedAt least half of the agents [rounded up] are dead OR less than 
+four Alien tecH fragments were found at end of mission.
+special event cards effects
+“Alpha Agent, HQ speaking. The scientist here tell us they can prepare a new toy for you in no 
+time, if you’ve already recovered any alien tech; otherwise, you’re stuck with home products!”
+EFFECTS:
+ During reinforcementS in the next StrAtegy phase, the AlpHA Agent may select a new weapon from the 
+WAreHouSe [the game box]:
+IF at least one Alien tecH fragment has been found, then he may select an Alien WeApon. Otherwise, 
+he may select an improveD WeApon. The weapon obtained may be directly transferred to any one agent 
+on the map with the agreement with the AlpHA Agent.
+“HQ speaking. We detect an alien ship above you with strong energy emissions – possible teleport 
+incoming. They may attempt to evac their wounded. Make it quick!”
+EFFECTS:
+ Remove [by discarding figures and Alien cards] the two most wounded xeno-AlpHA or xeno-betA Aliens 
+on the map, ignore this effect if there are no wounded xeno-AlpHA or xeno-betA.
+ Discard all WAypoint tokens on the battlefield. They can be reused in the next round.
+Read this chapter only when the related SPECIAL EVENT CARD is drawn 
+21
+briefing
+devices
+0 PER agent
+gd-wings
+For Standalone mission:
+silver
+weapons
+2 IMPROVED Weapons
+1 ALIEN Weapons 120-180 m
+The Agents are back at their HQ after their efforts to recover alien tech. The Agents are summoned to a 
+meeting to establish new strategies against the Xeno onslaught, but as one of the commanders starts speak-
+ing, alarms ring throughout the base.
+“All hands to battle stations. This is not a drill, repeat – this is not a drill. Alien vessel landed on 
+our perimeter. All operatives, engage! All non-combat personnel, retreat to shelters.”
+“AGENTS, your mission is to defend the base and repel this attack!”
+Mission 5 – starship troops
+22
+setup
+agent
+starting
+area
+signal reserve
+x7
+ x1
+Shuffle all SignAlS.
+Randomly take two SignAlS and place them 
+as indicated.
+tokens in play
+x2
+ x1
+ x1
+x1
+ x1
+ x1
+special tokens
+x3
+Overlays
+x3
+ x1
+x1
+ x1
+x1
+ x1
+alien cards and miniatures IN PLAY
+x1
+ x1
+x1
+ x1x1
+ x1
+x1
+ x1
+events deck
+[SPECIAL EVENT C will appear between the 4th and the 6th EVENT, SPECIAL EVENT E appear 
+between the 7th and 8th EVENT, and SPECIAL EVENT A appear between the 9th and 10th EVENT].
+alien cards and miniatures
+x1 x1x1 x1 x1x1 x1 x1 x1
+shuffle
+CLOSE ENCOUNTER deck
+x1 x1 x1 x1x1 x1 x2 x1 x1 x1 x1x1
+shuffle
+special mission rules
+LANDMINES:
+During the reinforcementS in the first Strategy phase of the mission, the AlpHA Agent may place a number of 
+lAnDmineS equal to the number of missions successfully accomplished until now [up to three].
+If this is a standalone mission, the AlpHA Agent may place two lAnDmineS.
+lAnDmineS may be placed in any AreA of the C1 and D2 maps, and are marked on the map with the relative 
+lAnDmine 
+   token on the center Hex of the AreA. As soon as an alien enters the mined AreA, the lAnDmine 
+explodes, attacking all aliens in that AreA with 4 .
+SALLY:
+Put two Ammo 
+  tokens on the stationary weapon SAlly at the start of the mission.
+XENO-GREY:
+The xeno-grey cannot be activated by another xeno-grey and cannot be targeted by the “Save The Master” power. 
+If any xeno-grey dies, remove it from play [by discarding its figure and Alien card in the WAreHouSe instead 
+of the DiScArD pile].
+MISSION SPECIAL ACTIONS
+SEARCH:
+Agents may perform the SeArcH Action in any building’s room in C1 map.
+23
+shuffle
+shuffle
+shuffle
+ shuffle
+ shuffle
+objectives
+The mission ends in the StrAtegy phase after the last event card is drawn.
+Mission Status Mission report nextmission
+At least two agents are still alive at the end of the mission.
+At least one agent is alive at the end of the mission.
+All agents are dead.
+Mission Accomplished
+Mission Partially 
+Accomplished
+Mission Failed
+6
+6
+5
+special event cards effects
+“Agents, beware! We detect Xeno leaders 
+entering the battlefield!”
+EFFECTS:
+ Place the green xeno-AlpHA     on the                    
+t.p. 
+ .
+ Put the blue xeno-AlpHA     Alien card on top 
+of the Alien deck.
+ Put the cloSe encounter #8     card on top 
+of the cloSe encounter deck.
+“Agents, beware! We detect Xeno leaders 
+entering the battlefield!”
+EFFECTS:
+ Place the blue xeno-AlpHA     on the                    
+t.p. 
+ .
+ Put the green xeno-AlpHA     Alien card on top 
+of the Alien deck.
+ Put the cloSe encounter #8     card on top 
+of the cloSe encounter deck.             
+Read this if the previous mission was the 4th 
+or was FAILED.
+Read this if the previous mission was the 
+3rd and was ACCOMPLISHED.
+Read this chapter only when the related SPECIAL EVENT CARD is drawn 
+Read this if the previous mission was the 4th 
+or was FAILED
+“A loud metallic noise is heard over the shots 
+ringing around, and from one of the teleporters 
+a mechanical alien sentry appears.”
+EFFECTS:
+ Move the t.p. 
+  over WAypoint 1 and move 
+the blue xeno-grey on it [if it is still alive].
+ Move the t.p. 
+  over the WAypoint 2 and 
+move the green xeno-grey on it [if it is still 
+alive].
+ Place the blue nexuS     adjacent to the 
+t.p. 
+ .
+ Shuffle the green nexuS     Alien card in 
+the Alien deck.
+ Put the cloSe encounter #9     card on top 
+of the cloSe encounter deck.
+Read this if the previous mission was the 
+3rd and was ACCOMPLISHED.
+“A loud metallic noise is heard over the shots 
+ringing around, and from one of the teleporters 
+a mechanical alien sentry appears.”
+EFFECTS:
+ Move the t.p. 
+  over WAypoint 1 and move 
+the blue xeno-grey on it [if it is still alive].
+ Move the t.p. 
+  over the WAypoint 2 and 
+move the green xeno-grey on it [if it is still 
+alive].
+ Place the green nexuS     adjacent to the 
+t.p. 
+ .
+ Shuffle the blue nexuS     Alien card in the 
+Alien deck.
+ Put the cloSe encounter #9     card on top 
+of the cloSe encounter deck.
+“For a second time seems to freeze and then a gigantic Beast appears, roaring and howling at 
+the Agents”
+EFFECTS:
+ Place the reD xeno-beASt     on the t.p. 
+ . Assign its Alien card to the AlpHA Agent.
+ Put the cloSe encounter #11     card on top of the cloSe encounter deck.
+24
+
+debriefing
+Mission Accomplished
+With the last of their strength failing, the Agents know this will be their last stand, but suddenly the 
+communicators come to life. “Agents, take cover immediately! Fighters and artillery are converging on the 
+perimeter. Over!” Jet engines and artillery explosions nearly stun the heroes and when the dust settles 
+down, the aliens are nowhere to be seen. Perhaps they escaped by teleport.
+Mission Partially Accomplished
+Mission Failed
+With the last of their strength failing, the Agents know this will be their last stand, but suddenly the 
+communicators come to life. “Agents, take cover immediately! Fighters and artillery are converging on the 
+perimeter. Over!” Jet engines and artillery explosions nearly stun the heroes and when the dust settles 
+down, the aliens are nowhere to be seen. Perhaps they escaped by teleport... Now, it is time to grieve 
+over the Agents who gave their lives to save the resistance and keep hope alive.
+Chromium pauses to breathe, the ID tag of Iridium in his hand – killed against the Beast. “Chromium... 
+Titanium speaking. Situation critical... I never liked you too much... but... well, it has been an honor 
+to serve beside you. Me and Thorium, we’re surrounded, but we’ll teach to this alien scum whose planet 
+is this. See you on the other side.” Titanium screams, bringing the Vulcan to life. A shotgun blasts and 
+an alien screams, then silence. 
+“Chromium speaking. Mercury, are you around? Do you copy, Mercury?” Appearing from the shadow as usual, 
+Mercury replies “I’m behind you, but we’re the only ones standing. Are we going to flee, or will we join 
+our friends?” 
+Chromium reloads, looks Mercury in the eyes, and smiles. “Pointless question, Lieutenant. We’ll buy time 
+for the others and take some alien scum with us.” 
+“You ugly bastard... acknowledged, sir! We’ll meet again in hell. Or heaven.”
+25
+briefing
+gd-wings
+For Standalone mission:
+SILVER 30-60 m
+The attack on the base was a devastating blow to the Agency, but not a fatal one. However, there is something 
+totally wrong here. While the agents help clean the debris of battle, their personal communicators flash to 
+life as the GD HQ calls them back to duty. The agents reach the mostly intact briefing room, memories of the 
+attack still fresh in mind and fueling their desire for revenge.
+“Galaxy Defenders! We have survived a massive onslaught from our enemies, yet we have a serious problem. How 
+did they know the location of our secret base? There must be an infiltrator or - worse - a spy selling us out 
+to the aliens.”
+“AGENTS, your mission is to find and stop this traitor by detecting and revealing signals. If you find anyone 
+or anything suspicious, do not hesitate to perform a scanning action on them.”
+Mission 6 – AGENTs IN BLACK
+weapons
+1 IMPROVED Weapons
+0 ALIEN Weapons 
+devices
+1 per agent
+26
+setup
+agent
+starting
+area
+signal reserve
+x1
+ x6
+Shuffle all SignAlS.
+Randomly take four SignAlS and place 
+them as indicated.
+tokens in play
+x4
+ x1
+ x1
+x1
+ x1
+ x1
+x1
+events deck
+[SPECIAL EVENT E will appear at 3rd EVENT, SPECIAL EVENT B between the 7th and 9th EVENT, 
+and SPECIAL EVENT D between the 10th and 12th EVENT]
+shuffle
+shuffle
+ shuffle
+shuffle
+alien cards and miniatures
+CLOSE ENCOUNTER deck
+X2
+x1
+x2
+x2
+special mission rules
+EVENT phase:
+event card effects do not move SignAlS during this mission.
+SIGNALs:
+SignAl revelation works differently from the standard rules.
+An agent, ONLY during his turn and when not engAgeD in combat, may [but is not forced to] reveal an adjacent 
+SignAl. 
+A revealed Alien SignAl remains in play until a scanning action is performed on it or it is destroyed by 
+events, items, or powers.
+Each time a SignAl is revealed, the AlpHA Agent must draw the top event card from the eventS deck and apply 
+all its effects [except SignAlS movements].
+XENO-ALPHA:
+Each time the xeno-AlpHA alien is activated, it acts as follow [ignoring range and behaviors on its Alien 
+card]:
+ Attack the closest agent with plASmA rifle, if possible, then move 1 AreA toward the closest t.p.
+SCANNING:
+To scan the identity, an agent not engAgeD in combat, must be adjacent to an Alien SignAl, and use his Action 
+to roll 1  .
+With a 
+  result, apply the following:
+ Move the t.p. 
+  over WAypoint 1 and the t.p. 
+  over WAypoint 2.
+ Replace the scanned Alien SignAl [by discarding the it in the WAreHouSe instead of the SignAl DiScArD pile] 
+with the Green xeno-AlpHA . Assign its Alien card to the AlpHA Agent.
+With any other die result, apply the following:
+ Discard the Alien SignAl into the SignAl DiScArD pile.
+SeArch:
+Agents may perform the 
+SeArcH Action in any building’s room on the maps.
+Mission Special Actions
+27
+objectives
+The mission ends in the StrAtegy phase after the last event card is drawn.
+Mission Status Mission report nextmission
+The mission is accomplished with ANY of the following conditions:
+There are no aliens AND there is at least one Alien SignAl in play 
+at the end of the mission.
+The mission fails with ANY of the following conditions:
+Mission Accomplished
+Mission Partially 
+Accomplished
+Mission Failed
+8
+7
+7
+special event cards effects
+The tech sessions learned and ceaselessly rehearsed during the agents’ training days now pay 
+off! They manage to repair and reactivate all sensors. The commlink activates: “Alpha Agent, 
+this is HQ. Good job there! Now we have much clearer signals and the Xeno spy may be detected! 
+on our screens.”
+EFFECTS:
+ Reveal all SignAlS in play without draw any additional event card.
+Read this chapter only when the related SPECIAL EVENT CARD is drawn
+ The xeno-AlpHA dies.
+ There are no aliens AND no Alien SignAlS in play at the end of  
+the mission.
+The Alpha Agent barely hears the beep of his commlinks as HQ calls him - “Alpha Agent, this is 
+HQ speaking. We have a situation there. Our sensors detect teleport points opening in your area 
+and something large is coming out. From the incomplete readings we have here, it looks like a 
+large Aracnos-type Xeno. Stay sharp! Do not let the newcomer distract you from your chase!”
+EFFECTS:
+ Place one Green ArAcnoS  on the T.P. 
+ .
+ Place one Blue ArAcnoS  on the t.p. 
+ .
+As a teleport gate opens in the area, the sensors jam for a brief instant. Then, the familiar 
+voice of the HQ operator rings in your ears: “Alpha Agent, HQ speaking. We are picking up 
+another teleport opening, and it seems the bloody Xenos have another Aracnos for you to greet. 
+Stay on your target. Do not let it detain you!”
+EFFECTS:
+ Move the t.p. 
+  over WAypoint 3 and the t.p. 
+  over WAypoint 4.
+ Discard all SignAlS in play to the SignAl DiScArD pile.
+ Shuffle all SignAlS from the SignAl DiScArD pile into the SignAl reServe.
+ Randomly place one SignAl on each t.p. on the Battlefield.
+ Place one Green ArAcnoS  on the t.p. 
+ .
+ Place one Blue ArAcnoS  on the t.p. 
+ .
+28
+ The xeno-AlpHA reaches or is adjacent to any t.p.
+ At least one agent dies.
+ At least one alien is in play at the end of the mission.
+debriefing
+Mission Accomplished
+An old fashioned blow on the head seems to work, even for aliens! The agents capture the Xeno-Alpha alive 
+and bring it to the science department. After several hours, the intercom voice reaches the squad.
+“Galaxy Defenders! This is HQ speaking. Rise and shine, boys! The enemy spy decided to... well, cooperate. 
+Payback time, soldiers! We have the coordinates of their advanced base and - more importantly - we know 
+one of their leaders will be there soon! This time your mission will be critical. You must capture the 
+Grey alive and bring it here. Now we can really end this war. The whole planet is counting on you! On 
+toward victory!”
+Mission Partially Accomplished
+Mission Failed
+Something went wrong. As the agents turn the last corner, they know it’s just a second too late and the 
+scanners reveal the last alien departing from the base. The agents have missed their prey, but at least 
+the base is safe now. The intercom calls again... 
+“Alpha Agent, this is HQ speaking. It seems your prey escaped the trap, but at least you’ve collected some 
+info. Our scientists are at work as we speak. One thing we are sure about is we have found their advanced 
+base and one of their leaders will be there very soon. Apart from the location, we know very little, so 
+we need to perform another action prior to going there and capturing that damned Grey thing.
+There seems to be a computer server connected to the Alien system. You can go there and hack through it 
+and gather what info you may find.”
+You catch a glimpse of what seems to be a smile on the Alpha’s lips as it rushes to its freedom. You have 
+missed your prey, but at least the base is safe. The intercom calls again... “Galaxy Defenders, this is 
+HQ speaking. We have followed your efforts through the CCTV. Too bad the traitor escaped, but we have one 
+more chance. You must penetrate the alien computer system and hack any useful data on their position. We 
+will avenge our base! HQ, out.”
+29
+briefing
+gd-wings
+For Standalone mission:
+SILVER
+weapons
+3 IMPROVED Weapons
+1 ALIEN Weapons 60-90 m
+The agents eagerly await the final report based on the information gathered during their brave, but fruitless 
+chase with the alien spy. The doors of the briefing room open as the commander enters, along with two 
+scientists. The lights dim as the screen flashes on. The scientists provide a lot of technical details about 
+mainframes, firewalls, and computer architecture, but then, the commander takes the spotlight.
+“Agents. The moment is dire, but we have the excellent opportunity to capture one of their leaders. Your task 
+won’t be easy…”
+“AGENTS, your mission is to infiltrate in the halls of the Naren Corporation, a world-leader in computers, 
+located in the C2 city sector. The company seems to be affiliated with the aliens. You must enter their 
+mainframe, hack their system, and extract the relevant data about a possible meeting with the Xeno-Grey leader. 
+Details are in your data-pads. Now go! Victory has never been so close!”
+Mission 7 – IN THE MATRIX
+devices
+2 per agent
+30
+setup
+agent
+starting
+area
+signal reserve
+x4
+ x1
+Shuffle all SignAlS.
+Randomly take two SignAlS and place 
+them as indicated.
+tokens in play
+x2
+ x1
+ x1
+x1
+ x1
+ x1
+x5
+ x3
+special tokens
+x4
+ x1
+alien cards and miniatures IN PLAY
+close encounter deck
+events deck
+alien cards and miniatures
+special mission rules
+x2
+ x1
+[SPECIAL EVENT D will appear at 3rd EVENT, SPECIAL EVENT A at 4th EVENT, and SPECIAL EVENT C between the 5th and 8th EVENT]
+shuffle
+ shuffle
+ shuffle
+x1x2 x2 x1
+shuffle
+x2x1 x2 x1 x1x1
+shuffle
+SIGNALs: 
+To successfully teleport a new SignAl onto the battlefield, each die result must exactly match the relative 
+t.p. symbol on the first attempted roll 
+  or 
+ . With any other result discard the SignAl into the 
+SignAl DiScArD pile.
+BLUE NEXUS:
+If the 
+Blue nexuS dies, remove it from play [by discarding its figure and Alien card in the WAreHouSe, instead 
+of the discard pile].
+ 
+UNLOCK SECURITY DOOR: 
+An agent adjacent to a block 
+  token, not engAgeD in combat, may unlock Security Door by spending his Action 
+to attempt to successfully remove the security lock by rolling a  result on 1 . Any other result is 
+considered a failure.
+Mission special actions
+31
+special event cards effects
+Read this chapter only when the related SPECIAL EVENT CARD is drawn.
+objectives
+The mission ends in the StrAtegy phase after the last event card is drawn.
+Mission Status Mission report nextmission
+The Blue nexuS is destroyed AND there is at least one WAypoint 
+without the flAme token over it. Mission Accomplished 8
+8Mission Partially
+Accomplished
+The Blue nexuS is destroyed AND all four WAypointS are burning [i.e. 
+four flAme tokens are present]. 
+7Mission Failed
+All four WAypointS are burning [i.e. four flAme tokens are present] 
+OR The Blue nexuS is still alive at the end of the mission.
+“HQ to Alpha Agent. We have located the 
+computer room, marked Waypoint 1 on your data 
+pad. It looks like the room is locked, so you 
+must force your way in.”
+EFFECTS:
+ At least one agent must successfully perform 
+an unlock Security Door Action to remove all the 
+block 
+  tokens from the C1 map.
+ Place the WAypoint 1  token over the #1 
+Hex mArk in the C2 MAP.
+ Skip the event phase until at least one 
+agent reaches WAypoint 1. Once done, perform 
+event phases as normal.
+“HQ to Alpha Agent. We have located the 
+computer room, marked Waypoint 1 on your data 
+pad. It was locked, but our intelligence has 
+over-ridden the security locks. Once more, 
+you’ve got to thank the geeks here at GD HQ 
+for helping you!”
+EFFECTS:
+ Remove all block 
+  tokens from the C1 map.
+ Place the WAypoint 1  token over the #1 
+Hex mArk in the C2 MAP.
+ Skip the event phase until at least one 
+agent reaches WAypoint 1. Once done, perform 
+event phases as normal.
+Read this if the previous mission was FAILED. Read this if the previous mission was PARTIALLY 
+ACCOMPLISHED.
+OPERATOR TASKS: 
+The operAtor Agent may perform one of these tasks using his Action, while he is adjacent to any WAypoint token:
+ 
+  : The Blue nexuS suffers 1 wound.
+ 
+  : Remove all 
+  
+  tokens from the Blue nexuS until the next refreSH phase.
+ 
+  : Teleport one alien [by drawing the top Alien card from the Alien deck] on the t.p. 
+ .
+ 
+  : Teleport one alien [by drawing the top Alien card from the Alien deck] on the t.p. 
+ .
+ USE THE FIRE EXTINGUISHER: If adjacent to a flAme 
+  token, the agent may flip down the SpeciAl Device 
+to remove the flAme 
+  token. The SpeciAl Device cannot be used again until it is recHArgeD.
+ 
+ RECHARGE THE FIRE EXTINGUISHER: Flip up the SpeciAl Device.
+ 
+ HACK THE SYSTEM: Roll 1  for each WAypoint without a flAme 
+  token. Choose the preferred die result 
+[Only one result is used, no matter how many dice are rolled] and immediately apply the relative effect:
+32
+debriefing
+Mission Accomplished
+The agents watch with virtual eyes as the Nexus explodes in a firework of ASCII characters. Finally, the 
+critical information can be retrieved, along with an entire project for a new EMP weapon! At least one 
+server is not burning and that is the way out of this digital hell. All the agents manage to jack out 
+just in time, as the Operator Agent receives the call from the HQ. “Operator Agent, this is HQ speaking. 
+Excellent work! The data is in our hands and we’re beginning your extraction. As we read the preliminary 
+reports, we now know when and where the meeting will be held. A Grey will be there, confirmed. Time to 
+turn the table against those xeno-invaders!”
+Mission Partially Accomplished
+Mission failed
+The agents watch with virtual eyes as the Nexus explodes in a firework of ASCII chars. Finally, the 
+critical information can be retrieved together with a partial project for a new EMP weapon! All the agents 
+manage to jack out just in time, as the Operator Agent receives the call from the HQ. “Operator Agent, 
+this is HQ speaking. Excellent work! The data is in our hands and we’re beginning your extraction. As we 
+read the preliminary reports, we now know when and where the meeting will be held. A Grey will be there, 
+confirmed. Time to turn the table against those xeno-invaders!”
+The Firewall is too strong, and the agents’ efforts are in vain. The entire server farm is burning because 
+of the intrusion countermeasures! The Operator recalls the squad while the sirens are screaming… At the 
+same time, HQ calls “Alpha Agent, the mission was a failure, but we must gather that data, so we are 
+asking you to make an extreme sacrifice. You must reenter the system and destroy that damned firewall! We 
+won’t be able to hold back the guards anymore, so we’re picking you up. You can try again later, but now 
+is time to come back to the HQ and lick your wounds.”
+“ALPHA AGENT to HQ, we are in the computer room. Awaiting instructions. Do you copy?” 
+“Alpha Agent, this is HQ speaking. Starting now, you’ve got to split the squad. One of you 
+will be the operator, watching over the team from outside the system and managing any external 
+events. The rest of the squad will go virtual and enter the system to attack and destroy the 
+Firewall Nexus and recover the data. Use caution, as some programs can affect you, even outside 
+the virtual world!”
+EFFECTS:
+ The AlpHA Agent must elect the operAtor Agent who can perform the operAtor tASkS SpeciAl Action.
+ The operAtor Agent gains the fire extinguiSHer SpeciAl Device [by taking the SpeciAl Device from the 
+WAreHouSe; it works as described in the “Special Mission Rules” section] during reinforcementS in 
+the next StrAtegy phase.
+ Move all the agents, except the operAtor, to the HexeS adjacent to the #2 Hex mArk inside the 
+room of the G1 map. Agents cannot leave the G1-G2 maps until the end of the mission.
+ Place the Blue nexuS   over the #3 Hex mArk in the G2 Map, assign its Alien card to the AlpHA 
+Agent.
+ Put the two cloSe encounter #9     cards on top of the cloSe encounter deck.
+ Add this effect to EACH event phase, starting with the next round: Add one flAme 
+  token 
+on the lowest-numbered WAypoint without a flAme 
+  token over it [starting from 1 to 4].
+“HQ to Operator Agent, do you copy? We are 
+detecting a strong increase in the virtual 
+defence lines of the server. Destroy the 
+firewall, save the servers from the fire!”
+EFFECTS:
+ The Blue nexuS heals 
+ .
+ Draw the top Alien card from the Alien deck 
+[if any] and teleport that alien on the t.p. 
+, assign its Alien card as normal.
+“HQ to Operator Agent, do you copy? We are 
+detecting a strong increase in the virtual 
+defence lines of the server. Destroy the 
+firewall, save the servers from the fire!”
+EFFECTS:
+ The Blue nexuS heals 
+ .
+Read this if the previous mission was FAILED Read this if the previous mission was PARTIALLY 
+ACCOMPLISHED
+33
+briefing
+gd-wings
+For Standalone mission:
+Silver
+weapons
+3 Improved weapons
+2 alien weapons 75-120 m
+The agents are waiting for a call, following the last mission. It seems to be the right time for heroes; the 
+time to avenge all those who fell in the face of the alien onslaught. This is the time to bring the fight to 
+the aliens!
+Suddenly, the commlinks switch to life:
+“Galaxy Defenders! At last, the Agency has managed to obtain vital information to strike hard at the alien 
+invasion: the exact location of the alien base-ship and the Xeno-Grey commander! The information you’ve 
+retrieved is precise and timely. We can behead the aliens by capturing their leader. This won’t be a piece of 
+cake, Agents. This will be the final showdown. This is where your bravery and ability will shine against all 
+odds. Failure is not an option, Galaxy Defenders. This time we must win!”
+“AGENTS, your mission is to recollect the squad; eliminate any opposition, enter the spaceship, find the Grey, 
+and bring it here. Good luck, Agents. You’ll need it!”
+Mission 8 – Visitors
+devices
+3 per agent
+34
+setup
+agent
+starting
+area
+signal reserve
+x6
+ x1
+Shuffle all SignAlS.
+Randomly take two SignAlS and place them 
+as indicated.
+special tokens
+x1
+ x1
+x1
+ x1
+tokens in play
+x2
+ x1
+ x1
+ x1
+Overlays
+x3
+ x2
+alien cards and miniatures IN PLAY
+CLOSE ENCOUNTER deck
+events deck
+[SPECIAL EVENT event B will appear at 3rd EVENT, SPECIAL EVENT E at 6th EVENT, and SPECIAL EVENT A between the 10th and 13th EVENT]
+alien cards and miniatures
+special mission rules
+BLUE NEXUS: 
+If the Blue nexuS dies, remove it from play [by discarding its figure and Alien card to the WAreHouSe instead 
+of the discard pile].
+GREEN XENO-GREY: 
+Assign the 
+Green xeno-grey Alien card to the AlpHA Agent at the start of the mission.
+The Green xeno-grey cannot move from his starting position.
+When the Green xeno-grey reaches 0 HP or when the  effect of the Stunner SpeciAl Device is applied, it become 
+StunneD. Instead of removing its figure from the battlefield, lay it down. It will remain in play until the 
+end of the mission, but it may no longer be activated.
+x2
+ x2
+ x1
+ x1
+shuffle
+ shuffle shuffle
+shuffle
+shuffle
+x1x1 x2 x1 x1 x1x1 x1 x1 x1 x1
+shuffle
+x2 x2
+shuffle
+35
+STUNNER SPECIAL DEVICE:
+KIDNAP: 
+An agent adjacent to the stunned xeno-grey, not engAgeD in combat, can spend his Action to kiDnAp the alien. 
+Place the alien figure on its side, and move it with him. At the end of the agent’s movement leave the 
+stunned xeno-grey on a Hex adjacent to the agent. The stunned xeno-grey may be moved again by another agent 
+in the same round.
+objectives
+The mission ends in the StrAtegy phase after the last event card is drawn.
+Mission Status Mission report nextmission
+The xeno-grey is stunned AND outside the S2 Map. Mission Accomplished 10
+9Mission FailedThe xeno-grey is not stunned OR it is still inside the S2 Map at 
+the end of the mission.
+special event cards effects
+“HQ to Alpha Agent. We have one of our aerodrones 
+above the area. We can attempt an EMP attack 
+against the Nexus guarding the alien ship, but 
+our EMP cannon is still experimental. We cannot 
+repeat, we CANNOT - predict the effects… Once 
+finished, proceed inside the spaceship.”
+EFFECTS:
+ During reinforcementS in each StrAtegy phase, 
+the AlpHA Agent rolls 3 . If at least one 
+ is rolled, apply the following: the Blue 
+nexuS cannot be activated until the next refreSH 
+phase.
+ Place WAypoint 1  token over the #1 Hex 
+mArk in the S2 Map.
+ If the WAypoint 1 token is reached by any 
+agent, before the event E is resolved: at the 
+start of the next event phase, draw and discard 
+from the eventS deck until event E card is drawn. 
+Apply all its effects. Ignore the effects of 
+discarded event cards.
+“HQ to Alpha Agent. We have one of our aerodrones 
+above the area. We can attempt an EMP attack 
+against the Nexus guarding the alien ship, but 
+our EMP cannon is still experimental. We cannot 
+repeat, we CANNOT – predict the effects… Once 
+finished, proceed inside the spaceship.”
+EFFECTS:
+ During reinforcementS in each StrAtegy phase, 
+the AlpHA Agent rolls 3 . If at least one 
+ is rolled, apply the following: The Blue 
+nexuS cannot be activated until the next refreSH 
+phase.
+ Place WAypoint 1  token over the #1 Hex 
+mArk in the S2 Map.
+ If the WAypoint 1 token is reached by any 
+agent, before the event E is resolved: at the 
+start of the next event phase, draw and discard 
+from the eventS deck until event E card is drawn. 
+Apply all its effects. Ignore the effects of 
+discarded event cards.
+Read this chapter only when the related SPECIAL EVENT CARD is drawn
+The Stunner SpeciAl Device may be used by spending an Action to attack the 
+Green xeno-grey.
+With a  result, stun the Green xeno-grey and discard the Stunner SpeciAl 
+Device.
+Ignore any other dice results.
+Mission special actions
+Read this if the previous mission was PARTIALLY 
+ACCOMPLISHED.
+Read this if the previous mission was 
+ACCOMPLISHED.
+36
+debriefing
+Mission Accomplished
+As the extraction helicopters land, the agents feel a sense of elation. Mission complete. One of the alien 
+commanders is in their hands! 
+Later, after the debriefing, the commander visits the barracks to congratulate the squad on the great 
+outcome.
+“Excellent work, Galaxy Defenders! The capture of the alien commander is a gateway to victory! Our 
+scientists will be able – one way or another – to extract vital information from the alien. We will march 
+towards victory… Time is on our side! And now, we will discover alien willpower and its tolerance to pain.”
+Mission failed
+As the alien spacecraft rises into the sky, it creates massive dust devils on the ground. The agent’s 
+commlink rings with the HQ call.
+“Alpha Agent, this is HQ speaking. Capturing the alien commander is the only priority. Failure is not an 
+option. Even now, we are analyzing the new data, to find where the ship will land next. Prepare yourselves 
+to go in again.”
+“Alpha Agent, this is HQ speaking. We have learned of the presence of a stunning device, located 
+somewhere in one of the ship rooms. This device could be used to stun and capture the alien 
+commander. Find the device and use it to capture the Xeno-Grey.”
+EFFECTS:
+ Take the WAypoint tokens 2  , 3  and 4  tokens, shuffle them, and place them, 
+face down, on the HexeS mArked #2, #3 and #4 in the rooms on the S2 map.
+ When an agent moves over a WAypoint, immediately turn the token face up. If WAypoint 4 is 
+revealed, the agent gains the Stunner SpeciAl Device [by taking the SpeciAl Device from the WAreHouSe; 
+it works as described in the “Special Mission Rules” section], otherwise any other WAypoint token 
+is discarded without effect.
+ Put the cloSe encounter #10  card on top of the cloSe encounter deck.
+“Alpha Agent, this is HQ speaking. Time is running out. Please redouble your efforts. Humanity’s 
+future is at stake. Failure is not an option!”
+EFFECTS:
+ During reinforcementS in the next StrAtegy phase, the AlpHA Agent gains two Ammo 
+  tokens.
+37
+briefing
+gd-wings
+For Standalone mission:
+SILVER
+weapons
+3 Improved weapons
+2 alien weapons 75-90 m
+It seems the aliens will not give the humans any rest. The base commlink activates again… “Galaxy Defenders! 
+The invaders have made a bold move and are attacking the city nearby! Unfortunately, this does not seem to be 
+a typical recon attack. They have unleashed something never seen before – a large, heavily armed and armoured 
+creature, and it is in full rampage.” 
+“AGENTS, your mission is to stop this Xeno-beast – at all costs! Now go, there’s no time to waste!”
+Mission 9 – on earth everyone
+can hear you scream
+devices
+2 per agent
+38
+setup
+agent
+starting
+area
+signal reserve
+x7
+ x1
+Shuffle all SignAlS.
+Randomly take two SignAlS and place 
+them as indicated.
+tokens in play
+x2
+ x1
+ x1
+x1
+special tokens
+x4
+alien cards and miniatures IN PLAY
+x1
+ x1
+ x1
+x1
+special mission rules
+RED XENO-BEAST:
+Assign the red xeno-beASt Alien card to the AlpHA Agent at the start of the mission.
+If the red xeno-beASt dies, remove it from play [by discarding its figure and Alien card in the WAreHouSe 
+instead of the discard pile].
+ENHANCED LANDMINE: 
+An enHAnceD lAnDmine token detonates when the red xeno-beASt enters the AreA. 
+The red xeno-beASt and all other AlienS in the AreA suffer 2 WounDS. Once an enHAnceD lAnDmine explodes, its token 
+is flipped over on the flAme side. The flAme token stays in place until the end of the mission.
+TAUNT: 
+An agent not engAgeD in combat, may spend his Action+combAt to move the red xeno-beASt one AreA toward the agent.
+SEARCH: 
+Agents may use the SeArcH Action in any building’s room of the R1 and R2 maps.
+Mission special actions
+alien cards and miniatures
+x1 x1 x2x1
+shuffle
+CLOSE ENCOUNTER deck
+x1 x1 x1 x1 x1x1 x1 x2
+shuffle
+events deck
+[SPECIAL EVENT C will appear between the 2nd and 3rd EVENT].
+shuffleshuffle shuffleshuffle
+39
+objectives
+The mission ends in the StrAtegy phase of the 13th round. 
+Mission Status Mission report nextmission
+The red xeno-beASt is dead. Mission Accomplished 10
+9Mission FailedThe red xeno-beASt is still alive at the end of the mission.
+special event cards effects
+“HQ to Alpha Agent. From the battle data we read here, it seems you cannot stop the Xeno-beast 
+with your weapons, but there is an alternative. We have just finished setting up a minefield 
+in the desert zone of sector D1. Draw the beast there and we think two landmines should do the 
+job or, at least, severely wound the Xeno-beast.”
+EFFECTS:
+ Place the four enHAnceD lAnDmine 
+  
+  
+  
+  tokens on the HexeS mArked #1, #2, #3 
+and #4.
+ The red xeno-beASt no longer suffers damage from any agent weapon, tactic, skill, or device. 
+This remains true until the red xeno-beASt suffers damage from three enHAnceD lAnDmineS. Once this 
+occurs, the red xeno-beASt may be attacked and wounded as normal.
+READ THIS CHAPTER ONLY WHEN the SPECIAL CARD is REVEALED
+debriefing
+Mission Accomplished
+The gigantic bioconstruct that once was a Xeno-Beast falls to the ground, motionless. An unnatural silence 
+surrounds the agents for an instant, just before the commlinks ring: “Galaxy Defenders! This is HQ 
+speaking. You did it! You did it! These invaders may have tech and their wicked fury, but we are fighting 
+for our home and for our people. The day we surrender our freedom has not dawned yet! Once again, our 
+human heart and will triumphed over brute strength and alien technology! Come back, Agents! Time to rest!”
+Mission failed
+Enemy forces are unstoppable. The sheer devastating fury of the humongous Xeno-beast and its alien allies 
+is unparalleled. Flames, screams, and blood cloud the scene, making it impossible even for battle-hardened 
+veterans like the GD squad to remain. Each agent begins to wonder what the human race has done to deserve 
+such a harsh punishment.
+“Alpha Agent, this is HQ speaking. Retreat! We must devise a better strategy and try again. There is no 
+surrender – we will fight another day!” 
+40
+briefing
+devices
+gd-wings
+2 per agentFor Standalone mission:
+gold 90-150 M
+The agents are resting in their barracks inside the GD base when an S.O.S. request arrives:
+“GD HQ, we need your help. Alien hostiles have attacked our labs and... The Project is in real 
+danger. We have activated the security protocol, please hurry!” The communication instantly ends. 
+“AGENTS, your mission is to track the S.O.S. signal inside the urban complex in the R1 Map sector and rescue 
+the project members. Our systems detected just a few aliens, but keep your eyes open.”
+Mission 10 – galaKtica
+weapons
+4 Improved weapons
+2 alien weapons
+41
+setup
+agent
+starting
+area
+signal reserve
+x2
+ x6
+ x6
+Take one HumAn SignAl and place it in the 
+R1 Map as indicated.
+Shuffle all the remaining SignAlS.
+tokens in play
+x1
+ x1
+ x1
+ x1
+x5
+ x2
+ x1
+special tokens
+x1
+ x1
+Overlays
+x1
+x1
+CLOSE ENCOUNTER deck
+x1 x1x1 x1x1 x1 x1 x1 x1 x1x1 x2 x2
+shuffle
+EVENTS DECK
+shuffle
+[SPECIAL EVENTS A, B, E and D appear as the 1st, 6th, 8th and 10th EVENT of the mission starting from the 
+revelation of the HUMAN SIGNAL in the R1 map.]
+x1 x1 x1
+alien cards and miniatures IN PLAY
+x1x1 x1 x1 x1 x1 x1 x1 x1 x1 x1 x1
+aliens cards and miniatures
+shuffle
+special mission rules
+Mission Special Actions
+SIGNALs:
+The HumAn SignAlS, once revealed, remain in play and continue to follow standard SignAl movement rules.
+UNLOCK:
+An agent not engAgeD in combat,  may spend his Action to attempt to unlock an adjacent Security block 
+ . 
+Roll 1  and with a  result, remove the 
+  token. Any other result is considered a failure. Each 
+agent may still attempt to unlock in the next turns, as long as the Security block has not been removed. For 
+each attempt after the first, the agent may add 1  to the unlock roll, up to 2 additional  dice.
+RESCUE:
+Any agent not engAgeD in combat can use his Action to reScue an adjacent revealed HumAn SignAl. Once done, remove 
+the HumAn SignAl from the map and discard it in the SignAl DiScArD pile.
+SEARCH:
+Agents may use the 
+SeArcH Action in any building’s room in C1 map.
+EVENT phase:
+Skip the 
+event phase until the SignAl located in the R1 map is revealed.
+SALLY:
+Put one 
+JAm 
+  and three Ammo 
+  tokens on the stationary weapon SAlly at the start of mission. The agents 
+cannot unjam SAlly.
+42
+objectives
+The mission ends in the StrAtegy phase after the SpeciAl event D card is drawn.
+Mission Status Mission report nextmission
+The SpeciAl event D is drawn AND HAckbAr is still alive. Mission Accomplished 11
+11
+10Mission Failed
+Mission Partially
+AccomplishedThe 
+SpeciAl event D is drawn AND HAckbAr is dead.
+Half of the agents [rounded up] are dead.
+special event cards effects
+Agents enter the room and find a shocked scientist hiding in a corner. “Galaxy Defenders here! 
+We are here to help!” says Chromium, to calm down the scientist.
+“They are everywhere! They attacked us! Appeared out of nowhere! Everyone has been killed! You 
+have to hurry, please! Save The Project! It is our last resource to stop them! You’ll find it in 
+the lab in C1 quadrant!” says the scientist, before fainting to the ground. “Alpha Agent to HQ. 
+We have a scientist to be extracted from the area, he is senseless and ready to be recovered.”
+“This is GD HQ. Extraction procedure initiated. Proceed to Waypoint in C1 quadrant, indicated by 
+the scientist. Recovering The Project has the maximum priority now. We are detecting incoming 
+alien signals. Take them down and proceed toward the objective.”
+EFFECTS:
+ Remove the revealed HumAn SignAl from play [but return it to the WAreHouSe, not to the SignAl DiScArD 
+pile].
+ Place the Green ArAcnoS  on the t.p. 
+ .
+ Place the Blue ArAcnoS  on the t.p. 
+ .
+ Shuffle the cloSe encounter #7  card in the cloSe encounter deck.
+ Place the WAypoint 1  token over the #1 Hex mArk in the C1 map.
+ If the WAypoint 1 token is reached by an agent, before event B is resolved, at the start of the 
+next event phase draw and discard from the eventS deck until event B is drawn. Apply all its effects. 
+Ignore the effects of discarded event cards.
+Read the following chapter according to the related event.
+43
+Read this IF there are no agents inside the room where WAypoint 1 is located:
+The agents hear a voice in their mind: “Fly, you fools!”, followed by screaming.
+EFFECTS:
+ Remove the WAypoint 1 token from the map. [HAckbAr, the classified project is dead].
+ Place the Blue xeno-grey  on the t.p. 
+ , assign its Alien card to the AlpHA Agent.
+ Place the Green xeno-AlpHA  on the t.p. 
+ .
+ Shuffle the Blue xeno-AlpHA  Alien card in the Alien deck.
+ Shuffle the cloSe encounter #8  card in the cloSe encounter deck.
+ Place the cloSe encounter #10  card on top of the cloSe encounter deck.
+ Replace all HumAn SignAlS in the SignAl reServe and in the SignAl DiScArD pile with an equivalent 
+number of Alien SignAlS . Remove the replaced HumAn SignAlS from play [by discarding them in 
+the WAreHouSe instead of the SignAl DiScArD pile].
+ Replace all revealed HumAn SignAlS on the battlefield with an equivalent number of AlienS from 
+the Alien deck [teleporting them onto the battlefield]. Discard all replaced HumAn SignAlS into 
+the SignAl DiScArD pile.
+RULES for HACKBAR:
+ HAckbAr has 2 HeAltH pointS and moves with the AlpHA Agent to always remain in an Hex adjacent 
+to him. If a new AlpHA Agent is elected, HAckbAr moves adjacent to that agent.
+ As long as HAckbAr is alive, the AlpHA Agent gains the “Alien Knowledge” skill.
+ Enemy aliens consider HAckbAr to be the most wounded Agent. If he is attacked, he defends 
+as normal. HAckbAr cannot be healed and is killed, if he suffers a wound when he is
+bleeding.
+Read this IF at least one agent is inside the room where WAypoint 1 is located:
+Agents enter the room and find a deceased alien body with heavy injuries near a destroyed 
+cryo-capsule. Another cryo-capsule lies open, revealing an alien lifeform with a cephalopoid 
+head. The agents are ready to open fire when the creature starts to communicate with them 
+telepathically, transmitting a sensation of weakness at first, then fear, and then a friendly 
+voice. “Hello friends! I am Hackbar and I’m happy that you arrived in time, before our common 
+enemy. I am the resource you are looking for! They are coming! This... IT’S A TRAP!”
+EFFECTS:
+ Place the Alien NPC 
+   token [HAckbAr] over or adjacent to the WAypoint 1 token inside 
+the room of the C1 map.
+“GD HQ to Alpha Agent. We know it is hell for 
+you out there. To help you, we delivered a 
+small gift. We re-activated good old Sally; 
+use it to clean a bit of the alien scum!”
+“Alpha Agent here. We need her! We are 
+getting more alien signals. It seems they 
+called for reinforcements and some of them 
+are BIG! Requesting immediate extraction, 
+we are getting visits here and they are not 
+friendly!”
+EFFECTS:
+ Place the red xeno-beASt  adjacent to 
+the Blue xeno-grey [if any] or on the t.p. 
+ . 
+Assign its Alien card to the AlpHA Agent. 
+ Place the cloSe encounter #11  card on 
+top of the cloSe encounter deck.
+ Remove the 
+  token from the SAlly weapon.
+“GD HQ to Alpha Agent. We know it is hell for 
+you out there. To help you, we delivered a 
+small gift. We re-activated good old Sally; 
+use it to clean a bit of the alien scum!”
+“Alpha Agent here. We need her! We are 
+getting more alien signals. It seems they 
+called for reinforcements and some of them 
+are BIG! Requesting immediate extraction, 
+we are getting visits here and they are not 
+friendly!”
+EFFECTS:
+ Place the Green nexuS  on the t.p. 
+ .
+ Place the Blue nexuS  on the t.p. 
+ . 
+ Place the cloSe encounter #9  card on top 
+of the cloSe encounter deck.
+ Remove the 
+  token from the SAlly weapon.
+Read this if the previous mission was Mission 
+#8:
+Read this if the previous mission was Mission 
+#9:
+44
+“Alpha Agent to HQ. Enemy forces are leaving the battlefield. We’re riding on a highway to hell!”
+“We got you, Alpha Agent. Head back to headquarters!”
+EFFECTS:
+ All agents on the battlefield automatically gain one gD-Wing rAnk [without rolling dice], if 
+possibile.
+debriefing
+Mission Accomplished
+Mission Partially Accomplished
+Mission Failed
+Hackbar takes a device from the body of a dead alien commander. After few vocal commands, the 
+device starts to shine of an unnatural light. He speaks to the agents. “I thank you for saving 
+me! Once again we have hope for stopping this invasion. I need to speak with your commanders.” 
+ 
+“GD HQ to Alpha Agent. We are reading a growing energy signal from your position. Please check and confirm. 
+Repeat, check and confirm.”
+Just a few seconds later the light emitted from Hackbar’s device grows stronger and engulfs everything 
+around it. In a whirlwind of blue and white lights, the entire team is transported along with Hackbar to 
+the GD Headquarter entrance.
+A fading image of the alien, Hackbar, appears on the battlefield and heads toward the aliens with a 
+blinding flash of light. Then... silence. Seconds later, a familiar voice resounds in the agents’ minds: 
+“Sorry I am not able to help you, humans! Yet, at least I’ve been able to save you, so you can continue 
+fighting the invaders. Farewell! At last I’ll rest in peace!”
+“Alpha Agent to Headquarter. Enemy forces bested us. We suffered heavy casualties, we cannot remain in 
+the field. Squad retreating, mission failed!”
+45
+
+briefing
+gd-wings
+For Standalone mission:
+gold
+weapons
+4 Improved weapons
+3 alien weaponS 120-180 M
+Sitting around the briefing table, each agent looks tense and nervous. Although the last mission was quite 
+hard, the air is heavy with expectation the next one will be harder. But, there is no time for brooding, dark 
+thoughts, as the Commander-in-Chief enters the room. The lights go down, the huge screen flashes to life, and 
+the chief begins his speech.
+“Galaxy Defenders, maybe you saw this coming, eh? Yes, Hackbar’s device is the greatest discovery in the whole 
+war. Not only has the device tracked the exact coordinates of the alien mothership, it can also teleport you 
+all to the alien vessel. And, as a final treat, if you manage to overload Hackbar’s device with energy from an 
+alien ship nucleus, you have a mega-bomb! Happy, everyone? Yes, I can see it in your eyes, soldiers. We are 
+about to deliver a mortal blow to those grey marauders that came to enslave us all.”
+“AGENTS, your mission is to go inside the vessel, overcharge and place the bomb in the command room, and do 
+your best to come back alive! Destroy the alien mothership and send those galactic vacuum-eaters back to 
+whatever frozen unhallowed planet they came from. The time for revenge has come, and that time is NOW!”
+Mission 11 – judgement day
+devices
+3 per agent
+46
+setup
+agent
+starting
+area
+signal reserve
+x6
+ x1
+Shuffle all SignAlS.
+Randomly take two SignAlS and place them as 
+indicated.
+tokens in play
+x2
+ x1
+ x1
+ x1
+x1
+ x1
+ x1
+ x1
+Overlays
+x3
+ x2
+special mission rules
+REINFORCEMENTS [strategy phase]:
+During reinforcementS in the first StrAtegy phase of the mission, the AlpHA Agent assigns the HAckbAr’S bomb SpeciAl 
+Device to the agent of his choice [including himself].
+HACKBAR’S bomb SPECIAL DEVICE: 
+This 
+bomb SpeciAl Device starts with two 
+  [JAm] tokens over it. 
+The SpeciAl Device is considered disarmed if it has at least one 
+  token over it. 
+When no 
+  tokens remain on the SpeciAl Device, it becomes armed.
+The SpeciAl Device can be placed on an adjacent empty Hex by any agent carrying it, spending his Action.  
+Any adjacent agent may use his Action to pick the bomb up. If an agent dies while he is carrying the SpeciAl 
+Device, place it on an adjacent empty Hex.
+alien cards and miniatures IN PLAY
+x1
+ x1
+ x1
+ x1
+ x1
+ x2
+EVENTS DECK
+[SPECIAL EVENT B WILL APPEAR AT 3RD EVENT, SPECIAL EVENT C AT 8TH EVENT, SPECIAL EVENT D AT 9TH 
+EVENT, SPECIAL EVENT A BETWEEN 10TH AND 12TH EVENT, AND SPECIAL EVENT E AT 13TH EVENT]
+shuffle shuffle
+ shuffle
+alien cards and miniatures
+x1 x1 x1 x1 x1 x1 x2 x1
+shuffle
+CLOSE ENCOUNTER deck
+x1 x1 x2
+x1 x1 x1 x1 x1 x1 x1x1
+shuffle
+47
+objectives
+The mission ends in the StrAtegy phase after the last event card is drawn.
+Mission Status Mission report nextmission
+The bomb SpeciAl Device is armed, it is placed over WAypoint 4, AND all 
+the agents are outside the S1 / S2 maps. Mission Accomplished 12
+ENDMission Partially
+Accomplished
+The bomb SpeciAl Device is armed, it is placed over WAypoint 4, AND 
+there is at least one agent still inside the S1 / S2 maps at the end 
+of the mission.
+11Mission FailedAll agents are dead.
+special event cards effects
+“HQ to Agents. We have scanned the alien ship’s surface and identified the reactor room; it 
+is in sector S1. The energy from the reactor shines with a strong blue light. It appears as 
+Waypoint 3 on your PDAs. Anyway, you should be able to recognize it easily. Once inside the 
+ship, go straight to the reactor room and overload the device. You will receive further info 
+as soon as possible.”
+EFFECTS:
+WHEN at least one agent reaches WAypoint 1 or WAypoint 2, perform the following steps:
+ Place the Blue xeno-grey  over WAypoint 4.
+ Put the two cloSe encounter #10   cards on top of the cloSe encounter deck.
+ IF WAypoint 3 is reached by an agent before the event C is resolved, then, at the start of the 
+next event phase, draw and discard from the eventS deck until event C card is drawn. Apply all its 
+effects. Ignore any effects of the discarded event cards.
+“HQ to agents, good work. Now, you must plug the device into the recharge cell. Our scientists 
+here think that it will take a few minutes to overload the device, so you must hold your ground! 
+As soon as the overload is complete, head straight to the command room, and place the bomb at 
+Waypoint 4 marked on your PDAs.”
+EFFECTS:
+ During reinforcementS in each StrAtegy phase, remove one 
+  token from the bomb SpeciAl Device, if 
+the agent who carries it is on WAypoint 3. Once the bomb SpeciAl Device has no more 
+  tokens, it 
+becomes armed.
+ Skip the event phase until the bomb SpeciAl Device is armed and placed over WAypoint 4.
+READ THIS CHAPTER ONLY WHEN the SPECIAL CARD is REVEALED
+48
+“Agents, this is HQ speaking. Time is short!!! Fly like an eagle!”
+EFFECTS:
+ All agents may immediately move up to 2 HexeS [MAY be used to DiSengAge].
+EFFECTS:
+Replace ALL Green xeno-betA with 
+Blue xeno-AlpHA   using these steps:
+“HQ to Alpha Agent, the bomb is armed, but there is something strange! A new teleport system 
+is active! It seems like a beam transport coming from the dark side of the moon!!! They are 
+teleporting more troops directly inside the mothership! Hurry up! Get your hides outside the S1 
+and S2 sectors as soon as you can. The glory and the entire planet is waiting for your return!”
+ Replace any Green xeno-betA in play 
+[if any] with Blue xeno-AlpHA. Assign the 
+Blue xeno-AlpHA Alien cards as usual.
+ Replace any Green xeno-betA Alien card in the 
+Alien deck or in the discard pile with the Blue 
+xeno-AlpHA Alien cards, if any.
+ Remove any replaced Green xeno-betA Alien cards 
+and figures from play [but return them to the 
+WAreHouSe, not to the SignAl DiScArD pile].
+ Recreate the Alien deck by shuffling the 
+relative discard pile into the deck.
+ Put the cloSe encounter #8  card on top 
+of the cloSe encounter deck.
+ Teleport three SignAlS.
+EFFECTS:
+Replace ALL Blue xeno-betA with 
+Blue xeno-AlpHA   using these steps:
+ Replace any Blue xeno-betA in play [if 
+any] with Blue xeno-AlpHA. Assign the 
+Blue xeno-AlpHA Alien cards as usual.
+ Replace any Blue xeno-betA Alien card in the 
+Alien deck or in the discard pile with the Blue 
+xeno-AlpHA Alien cards, if any.
+ Remove any replaced Blue xeno-betA Alien cards 
+and figures from play [but return them to the 
+WAreHouSe, not to the SignAl DiScArD pile].
+ Recreate the Alien deck by shuffling the 
+relative discard pile into the deck.
+ Put the cloSe encounter #8  card on top 
+of the cloSe encounter deck.
+ Teleport three SignAlS.
+“Agents, this is HQ speaking. The device’s overload is causing problems to the ship’s energy 
+system. Seize the moment, Agents, and complete your mission!”
+EFFECTS:
+ All agents may immediately move up to 2 HexeS [MAY NOT be used to DiSengAge].
+ Place the Green ArAcnoS  on the t.p. 
+ .
+ Place the Blue ArAcnoS  on the t.p. 
+ .
+ Put the cloSe encounter #7  card on top of the cloSe encounter deck.
+Read this if previous mission was PARTIALLY 
+ACCOMPLISHED. Read this if previous mission was ACCOMPLISHED.
+49
+debriefing
+Mission Accomplished
+The agents take advantage of the chaos the device created to escape from the mothership. Once again, the 
+exceptional training not only saved their lives, but also bought victory for the human race. As they race 
+away from the alien vessel, the huge, silent explosion seems eerie and out of place.
+The battle against the alien menace is over and humanity has won, thanks to the bravery and abilities of 
+the GD team and the sacrifice of those who gave their lives to save mankind. 
+The aliens came here believing the Earth was an easy prey, but humans have shown them how things are done 
+on this blue planet. 
+As the debris ring widens around the hulk of the once-massive alien flagship, the comlink announces every 
+single Terran is waiting for the GD squad to land. They are heroes. They have saved the day and are the 
+living embodiment of everything that a human heart can accomplish against overwhelming odds.
+But the war is not over. The information gathered so far seem to indicate this was just an invasion unit. 
+An entire base is located on the dark side of the moon and now it is time for the human race to bring war 
+to the aliens.
+But this, as they say, is another story...
+Back at the base, after a huge homecoming party... maybe TOO huge... and after much deserved days of rest 
+and relaxation, the agents are united again. This time they look for the files that tell of the first 
+encounter, that fateful night, when a good-hearted alien came to Earth and warned us about the impending 
+doom.
+A long time ago, from a galaxy far, far away... YOU CAN PLAY MISSION 12 AS A BONUS MISSION.
+Mission PartialLY Accomplished
+Mission failed
+The agents take advantage of the chaos the device created to escape from the mothership. Once again, the 
+exceptional training not only saved their lives, but also bought victory for the human race. As they race 
+away from the alien vessel, the huge, silent explosion seems eerie and out of place. Each agent feels 
+his heart still heavy for their fallen friends on the ship exploding behind them. Fallen heroes now have 
+the stars as their only gravestones. The battle against the alien menace is over, and humanity has won, 
+thanks to the bravery and abilities of the GD team and the sacrifice of those who gave their lives to 
+save mankind. 
+The aliens came here believing the Earth was an easy prey, but humans have shown them how things are done 
+on this blue planet. 
+As the debris ring widens around the hulk of the once-massive alien flagship, the comlink announce every 
+single Terran is waiting for the GD squad to land. They are heroes. They have saved the day and are the 
+living embodiment of everything that a human heart can accomplish against overwhelming odds.
+But the war is not over. The information gathered so far seem to indicate this was just an invasion unit. 
+An entire base is located on the dark side of the moon and now it is time for the human race to bring war 
+to the aliens.
+But this, as they say, is another story...
+As the last agent falls in battle, the alien overlord gazes in triumph at the blue planet beneath it. 
+Hate and destruction reign over mankind and the heroic efforts of the chosen people were not enough to 
+avert the invasion.
+However, this is not the end. Already the Agency is reorganizing forces, and hundreds of freedom fighters 
+volunteer from countries across the globe to do their best against the alien invaders. Maybe one day the 
+battle will be won.
+50
+briefing
+devices
+gd-wings
+0 per agentFor Standalone mission:
+gold 60-75 M
+Time for rejoicing and honoring the fallen, agents! Time to remember those who gave their lives for the 
+freedom of our planet. The Agency has decided to create a special simulation of the first alien encounter, 
+when, decades ago, the two first agents, N and S, encountered the good alien that revealed the wicked plan of 
+conquest so bravely thwarted by the Galaxy Defenders.
+The past beckons in the G-Danger Room to show the truth of what was happened in those days!
+“On a warm evening of a hot day, a strange radar beacon guides the Agents to the middle of nothing, amidst 
+the sands and rocks of an uninhabited desert. An event that forever changes their lives, and the destiny of 
+the whole human race. You are about to discover how that encounter REALLY went, now that the veil of the top-
+secret files has been lifted.”
+“AGENTS, your mission is… feel and live the birth of the GD agency! Additional information will be provided 
+you during the simulation.”
+Mission 12 – Back in Time
+weapons
+5 Improved weapons
+0 alien weaponS
+51
+setup
+agent
+starting
+area
+signal reserve
+x2
+ x3
+Remove one HumAn SignAl for each agent 
+over the second [up to three SignAlS 
+may be removed].
+Shuffle all the remaining SignAlS.
+tokens in play
+x1
+ x1
+ x1
+Overlays
+x1
+ x1
+x1
+x1
+ x1
+ x1
+ x1
+special tokens
+x1
+CLOSE ENCOUNTER deck
+x1 x1x2
+special mission rules
+GETTING GD-WINGS: 
+Skip getting gD-WingS in each StrAtegy phase for the entire mission.
+SUNNY: 
+Put five 
+Ammo 
+  tokens on the stationary weapon Sunny at the start of the mission.
+x1
+alien cards and miniatures IN PLAY
+REFRESH phase: 
+During the first 
+refreSH phase of the mission, draw the top card [event A] from the eventS deck and immediately 
+apply its effects.
+REINFORCEMENTS [strategy phase]: 
+Skip reinforcementS in each StrAtegy phase for the entire mission.
+aliens cards and miniatures
+x1x2 x1
+GREEN XENO-GREY:
+The 
+Green xeno-grey returns to full HeAltH state [by discarding all suffered wounds] and 
+recharges his Energy shielded armor [by regaining the shield token] at the beginning of each agent turn.
+The 
+Green xeno-grey remains in play even when an attack brings his total HP to 0 or below.
+CLOSE ENCOUNTER DECK:
+If there are no cards in the 
+cloSe encounter deck and the relevant discard pile is empty, then skip the 
+Aliens turn.
+Mission special actions
+BOOT: 
+An agent, adjacent to 
+WAypoint 1, may spend his Action to run the boot sequence of the G-Danger simulation. 
+To represent this, roll 1 . If the result is a , remove one 
+  token from WAypoint 1. Ignore any 
+other result.
+EVENTS DECK
+[SPECIAL EVENT A will appear at 1tst event, SPECIAL EVENT B at 2nd event, SPECIAL EVENT C at 3rd event, 
+SPECIAL EVENT D between 4th and 5th event]
+shuffle
+ shuffleshuffle
+52
+objectives
+special event cards effects
+Read this chapter only when the related SPECIAL EVENT CARD is drawn
+“Alpha Agent, this is Mission Control. We have a situation here with the simulation boot sequence. 
+The remote control is disabled. You must reboot the simulation manually from the main server, 
+executing the 3 start commands. Ah... and you have the pleasant company of an alien hologram. 
+Let’s find out who can inflict the most damage on it in a single attack. Our geeks are betting 
+and you don’t want to disappoint them, do you?”
+EFFECTS:
+ Place three 
+  [JAm] tokens over WAypoint 1.
+ Skip event phases until the agents have successfully performed three boot actions [i.e. WAypoint 
+1 has no more 
+  token over it], once done, perform event phases as normal.
+“This is Mission Control speaking. Program loaded. You are about to find yourselves in the 
+desert where history was made! Each of you may choose to impersonate either Agent N or
+ 
+Agent S; they were sent on patrol in the area to scan an unknown heat source.  
+AGENTS, your mission is to reach the heat source, called WAypoint 3.”
+EFFECTS:
+ Remove the Green xeno-grey from play [by discarding its figure and Alien card to the WAreHouSe 
+instead of the discard pile].
+ Take cloSe encounter cards #1  #1  #2  and shuffle them in the cloSe encounter deck.
+ Move all agents [discarding any Biotech drones] to the HexeS adjacent to WAypoint 2 on the D2 
+map. Agents cannot leave the D1-D2 maps until the end of the mission.
+ Two players must personify one of the two historical agents [decided by the AlpHA Agent] by 
+swapping their Agent Profile Sheets with the following ones [see page 55].
+Mission Status Mission report nextmission
+Mission Accomplished END
+ENDMission Failed
+The mission ends in the StrAtegy phase after the last event card is drawn.
+HAckbAr is over WAypoint 4 AND the two agents: N and S are alive.
+The mission fails with any of the following conditions:
+ HAckbAr is dead
+ Agent N is dead
+ Agent S is dead
+ The last event card was drawn
+53
+ All other players must personify as Agent X [there can be multiple Agent X personifications] 
+by swapping their Agent Profile Sheets with the following [see page 55]:
+ From now until the end of the mission, each agent uses the Agent Profile Sheet of the chosen 
+agent [ignoring any tactics, skills and weapon acquired with the real agent].
+ Skip event phases until at least one agent reaches WAypoint 3. Once done, perform event phases 
+as normal.
+ 
+“Agent to HQ! You won’t believe what is happening down here. We have a... well, a severely wounded 
+life form. We need reinforcements and an ambulance, and we need them now!”
+“This is HQ to Agents. Reinforcements are on the way. Move toward rendezvous point WAypoint 4 near 
+Highway 375”
+EFFECTS:
+ Place the Alien NPC 
+   token [HAckbAr] adjacent to WAypoint 3.
+ Teleport one SignAl on the t.p. 
+ .
+ Teleport one SignAl on the t.p. 
+ .
+ 
+“Agent to FBI HQ! We have a situation here, and it’s critical. Please confirm the rendezvous 
+point!”
+“This is HQ speaking. Rendezvous point confirmed, but we are no longer in this game. The CIA has 
+taken over. A new rescue team is waiting for you at 
+WAypoint #4.”
+EFFECTS:
+ Teleport the Blue xeno-AlpHA  on the t.p. 
+ . 
+ Put the cloSe encounter #8  card on top of the cloSe encounter deck.
+ If the Blue xeno-AlpHA dies, remove it from play [by discarding its figure and Alien card to the 
+WAreHouSe instead of the discard pile].
+debriefing
+Mission Accomplished
+Mission Failed
+The special team from the Government happened to be a secret project that, thanks to Hackbar’s invaluable 
+help, became the Galaxy Defenders Agency. Although the alien was dying, he managed to help us in creating 
+our last, best hope for defense. You, agents, as your forerunners N and S, will forever be remembered! 
+And the rest, as they say, is history – with you as a part of it!
+Only failure can reveal the titanic efforts of N and S. Today you, agents, are the elite forces of the 
+human race, but in their time, N and S could only rely on standard training and their cold blood.
+54
+RULES for HACKBAR:
+ HAckbAr has 3 HeAltH pointS and moves with the AlpHA Agent to always remain in an Hex adjacent 
+to him. If a new AlpHA Agent is elected, HAckbAr moves adjacent to that agent. 
+ Enemy aliens consider HAckbAr to be the most wounded agent. If he is attacked, he defends 
+as normal. HAckbAr cannot be healed and is killed, if he suffers a wound when he is
+bleeding.
+55
+FULL SIZE agent profile sheets
+you cAn copy tHiS pAge for perSonAl uSe
+Home Page: www.galaxy-defenders.com
+e-mail: info@gremlinproject.Com
+V. 1.5
