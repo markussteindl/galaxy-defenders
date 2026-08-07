@@ -30,8 +30,9 @@ Cooperative tactical battle game, 1–5 players. Each player controls one agent;
 
 ## §1 Game preparation
 
-- All setup comes from the chosen mission's **Setup** section in the Storybook.
-- Even in campaign: choose agents, assign gear, full health and ammo.
+- Set up the mission according to the Storybook.
+- Choose agents, assign gear, start at full health and ammo.
+- Campaign: weapon number is a cap, other weapons stay in HQ.
 
 ## §2 Terrain & line of sight
 
@@ -143,6 +144,7 @@ Dice symbols:
 
 ## §6 Weapons, powers & items
 
+- **Campaign**: researched weapons stay in HQ and remain available for later missions (up to each mission's listed cap).
 - **Armoury tokens** (Blue/Red): an agent moving over one discards it; next Reinforcements step the squad receives one random Improved/Alien weapon (FAQ). Blue→Improved, Red→Alien is inferred from the weapon rank colors, not stated in the FAQ.
 - **Melee**: range 0; no ammo; never jams (ignore Ammo/Jam results).
 - **Ranged**: ranged even against adjacent targets. Human ranged weapons use ammo tokens; some need ≥1 ammo to fire.
